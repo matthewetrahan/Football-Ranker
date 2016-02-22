@@ -1,0 +1,4005 @@
+23-Aug-08,Concordia AL,23,Bethel TN,18
+23-Aug-08,Fort Valley State,3,Valdosta State,56
+28-Aug-08,Northeastern St OK,3,Arkansas Tech,22
+28-Aug-08,St Cloud State,10,Augustana SD,13
+28-Aug-08,Northeastern,14,Ball State,48
+28-Aug-08,Wake Forest,41,Baylor,13
+28-Aug-08,UTEP,17,Buffalo,42
+28-Aug-08,Henderson State,14,Central Arkansas,38
+28-Aug-08,Eastern Illinois,12,Central Michigan,31
+28-Aug-08,Minn St-Mankato,9,Central Missouri,29
+28-Aug-08,Eastern Kentucky,7,Cincinnati,40
+28-Aug-08,Fairmont State,23,Clarion,20
+28-Aug-08,Carson-Newman,77,Concord,14
+28-Aug-08,Hofstra,3,Connecticut,35
+28-Aug-08,Upper Iowa,13,Drake,17
+28-Aug-08,Virginia Union,11,East Stroudsburg,14
+28-Aug-08,Indiana State,0,Eastern Michigan,52
+28-Aug-08,New Mexico Highlands,0,Fort Hays State,44
+28-Aug-08,Jacksonville State,14,Georgia Tech,41
+28-Aug-08,South Dakota State,17,Iowa State,44
+28-Aug-08,Virginia-Wise,56,Kentucky Christian,12
+28-Aug-08,Indianapolis,40,Kentucky Wesleyan,14
+28-Aug-08,St Anselm,0,Kutztown,35
+28-Aug-08,Gannon,24,Lake Erie,22
+28-Aug-08,Glenville State,30,Lock Haven,0
+28-Aug-08,Chadron State,37,Mary,17
+28-Aug-08,West Texas A&M,23,Mesa State,20
+28-Aug-08,Charleston Southern,7,Miami FL,52
+28-Aug-08,Vanderbilt,34,Miami OH,13
+28-Aug-08,Troy,31,Middle Tennessee State,17
+28-Aug-08,Bemidji State,27,Minot State,24
+28-Aug-08,Southern Oregon,30,Montana Tech,25
+28-Aug-08,Lambuth,17,Murray State,41
+28-Aug-08,Southern Arkansas,14,North Alabama,57
+28-Aug-08,TAMU-Kingsville,14,North Dakota,40
+28-Aug-08,Austin Peay,6,North Dakota State,41
+28-Aug-08,Missouri Western,38,Northern St SD,27
+28-Aug-08,SW Oklahoma State,29,NW Oklahoma State,15
+28-Aug-08,East Central OK,14,Sam Houston State,58
+28-Aug-08,West Georgia,19,Samford,21
+28-Aug-08,SW Baptist,28,SE Missouri State,35
+28-Aug-08,North Carolina State,0,South Carolina,34
+28-Aug-08,Oregon State,28,Stanford,36
+28-Aug-08,SE Oklahoma State,10,Tarleton State,51
+28-Aug-08,Gardner-Webb,12,Tennessee Tech,28
+28-Aug-08,Colorado Mines,3,Washburn,27
+28-Aug-08,Montana-Western,6,Weber State,62
+28-Aug-08,Shorter,0,Western Carolina,35
+29-Aug-08,Temple,35,Army,7
+29-Aug-08,Millersville,22,Bentley,35
+29-Aug-08,SMU,27,Rice,56
+29-Aug-08,Marist,22,San Diego,40
+30-Aug-08,Southern Utah,7,Air Force,41
+30-Aug-08,Tennessee State,34,Alabama A&M,13
+30-Aug-08,Tulsa,45,Alabama-Birmingham,22
+30-Aug-08,Shaw,10,Albany St GA,27
+30-Aug-08,SE Louisiana State,34,Alcorn State,28
+30-Aug-08,Idaho,0,Arizona,70
+30-Aug-08,Northern Arizona,13,Arizona State,30
+30-Aug-08,Western Illinois,24,Arkansas,28
+30-Aug-08,Arkansas-Monticello,21,Arkansas-Pine Bluff,7
+30-Aug-08,Bloomsburg,49,Ashland,42
+30-Aug-08,Louisiana-Monroe,0,Auburn,34
+30-Aug-08,Carroll MT,41,Azusa Pacific,22
+30-Aug-08,Morehouse,3,Benedict,7
+30-Aug-08,Idaho State,7,Boise State,49
+30-Aug-08,UNC-Pembroke,28,Brevard,0
+30-Aug-08,Northern Iowa,17,Brigham Young,41
+30-Aug-08,American Int'l,45,C.W. Post,19
+30-Aug-08,Michigan State,31,California,38
+30-Aug-08,West Chester,32,California PA,44
+30-Aug-08,Birmingham-Southern,12,Campbell,6
+30-Aug-08,Cumberland TN,48,Campbellsville,38
+30-Aug-08,St Augustine's,14,Catawba,7
+30-Aug-08,Bryant,35,Central Conn State,42
+30-Aug-08,South Carolina State,0,Central Florida,17
+30-Aug-08,Pittsburg State,16,Central Oklahoma,12
+30-Aug-08,Bowie State,51,Cheyney,26
+30-Aug-08,Fort Valley State,24,Clark Atlanta,19
+30-Aug-08,Alabama,34,Clemson,10,Atlanta GA
+30-Aug-08,Minnesota-Duluth,40,Concordia-St Paul,0
+30-Aug-08,Bacone,34,Dakota State,27
+30-Aug-08,Rocky Mountain,34,Dickinson State,19
+30-Aug-08,Central Washington,44,Dixie State,38
+30-Aug-08,James Madison,7,Duke,31
+30-Aug-08,Chowan,3,Elizabeth City State,55
+30-Aug-08,Richmond,28,Elon,10
+30-Aug-08,Western St CO,0,Emporia State,42
+30-Aug-08,Hawai`i,10,Florida,56
+30-Aug-08,Alabama State,20,Florida A&M,30
+30-Aug-08,Mars Hill,14,Furman,62
+30-Aug-08,Georgia Southern,21,Georgia,45
+30-Aug-08,Briar Cliff,17,Grand View,20
+30-Aug-08,St Joseph's IN,6,Hillsdale,49
+30-Aug-08,Southern U.,3,Houston,55
+30-Aug-08,Western Kentucky,13,Indiana,31
+30-Aug-08,Maine,3,Iowa,46
+30-Aug-08,Florida Int'l,10,Kansas,40
+30-Aug-08,North Texas,6,Kansas State,45
+30-Aug-08,Boston College,21,Kent State,0,Cleveland OH
+30-Aug-08,Lane,32,Kentucky State,16
+30-Aug-08,West Virginia Tech,13,Lenoir-Rhyne,51
+30-Aug-08,North Greenville,10,Liberty,49
+30-Aug-08,Concordia AL,26,Livingstone,21,Greenville SC
+30-Aug-08,Mississippi State,14,Louisiana Tech,22
+30-Aug-08,Appalachian State,13,LSU,41
+30-Aug-08,Ohio Dominican,70,Marian,7
+30-Aug-08,Illinois State,10,Marshall,35
+30-Aug-08,Delaware,7,Maryland,14
+30-Aug-08,Albany NY,16,Massachusetts,28
+30-Aug-08,Utah,25,Michigan,23
+30-Aug-08,Winona State,21,Michigan Tech,26
+30-Aug-08,Northern Illinois,27,Minnesota,31
+30-Aug-08,Memphis,24,Mississippi,41
+30-Aug-08,Texas College,0,Mississippi Valley State,38
+30-Aug-08,Illinois,42,Missouri,52,St Louis MO
+30-Aug-08,Harding,31,Missouri Southern,45
+30-Aug-08,Adams State,3,Montana State,59
+30-Aug-08,Southern Virginia,6,Morehead State,49
+30-Aug-08,Towson,13,Navy,41
+30-Aug-08,Western Michigan,24,Nebraska,47
+30-Aug-08,Wayne St NE,28,Nebraska-Kearney,12
+30-Aug-08,Grambling State,13,Nevada,49
+30-Aug-08,Texas Christian,26,New Mexico,3
+30-Aug-08,Valdosta State,14,Newberry,9
+30-Aug-08,Virginia State,7,Norfolk State,47
+30-Aug-08,McNeese State,27,North Carolina,35
+30-Aug-08,Johnson C. Smith,12,North Carolina A&T,44
+30-Aug-08,Syracuse,10,Northwestern,30
+30-Aug-08,TAMU-Commerce,14,Northwestern State,30
+30-Aug-08,Abilene Christian,44,NW Missouri State,27
+30-Aug-08,Youngstown State,0,Ohio State,43
+30-Aug-08,Fort Lewis,21,OK Panhandle State,0
+30-Aug-08,Chattanooga,2,Oklahoma,57
+30-Aug-08,Washington,10,Oregon,44
+30-Aug-08,Coastal Carolina,10,Penn State,66
+30-Aug-08,Hastings,26,Peru State,0
+30-Aug-08,Bowling Green,27,Pittsburgh,17
+30-Aug-08,Western Oregon,14,Portland State,31
+30-Aug-08,Monmouth NJ,24,Rhode Island,27
+30-Aug-08,Humboldt State,13,Sacramento State,45
+30-Aug-08,Assumption,21,Sacred Heart,42
+30-Aug-08,Cal Poly SLO,29,San Diego State,27
+30-Aug-08,UC-Davis,10,San Jos‚ State,13
+30-Aug-08,Jacksonville FL,20,Savannah State,7
+30-Aug-08,Slippery Rock,20,Seton Hill,27
+30-Aug-08,Shepherd,20,Shippensburg,16
+30-Aug-08,St Ambrose,0,South Dakota,52
+30-Aug-08,Haskell,7,South Dakota Tech,62
+30-Aug-08,Tennessee-Martin,7,South Florida,56
+30-Aug-08,Louisiana-Lafayette,21,Southern Miss,51
+30-Aug-08,Eastern New Mexico,9,Southern Nazarene,16
+30-Aug-08,Wingate,34,St Paul's,10
+30-Aug-08,Langston,19,Stephen F. Austin,56
+30-Aug-08,Colgate,26,Stony Brook,42
+30-Aug-08,Minnesota-Crookston,14,SW Minnesota State,54
+30-Aug-08,Florida Atlantic,10,Texas,52
+30-Aug-08,Arkansas State,18,Texas A&M,14
+30-Aug-08,Prairie View A&M,34,Texas Southern,14
+30-Aug-08,Angelo State,14,Texas St-San Marcos,21
+30-Aug-08,Eastern Washington,24,Texas Tech,49
+30-Aug-08,Webber Int'l,7,The Citadel,54
+30-Aug-08,Ferris State,14,Tiffin,12
+30-Aug-08,Walsh,31,Trinity Int'l,7
+30-Aug-08,Charleston WV,0,Tusculum,40
+30-Aug-08,Utah State,17,UNLV,27
+30-Aug-08,Findlay,26,Urbana,0
+30-Aug-08,Minn St-Moorhead,29,Valley City State,30
+30-Aug-08,Southern California,52,Virginia,7
+30-Aug-08,East Carolina,27,Virginia Tech,22,Charlotte NC
+30-Aug-08,Oklahoma State,39,Washington State,13,Seattle WA
+30-Aug-08,Mercyhurst,10,Wayne St MI,14
+30-Aug-08,Belhaven,12,West Alabama,49
+30-Aug-08,Edinboro,35,West Liberty State,10
+30-Aug-08,Villanova,21,West Virginia,48
+30-Aug-08,Lincoln MO,13,West Virginia State,67
+30-Aug-08,Doane,15,William Jewell,12,Platte City MO
+30-Aug-08,Waldorf,3,William Penn,41
+30-Aug-08,Akron,17,Wisconsin,38
+30-Aug-08,Presbyterian,21,Wofford,38
+30-Aug-08,Southern Conn State,26,WV Wesleyan,21
+30-Aug-08,Ohio U.,20,Wyoming,21
+31-Aug-08,Colorado State,17,Colorado,38,Denver CO
+31-Aug-08,Central St OH,12,Dayton,31
+31-Aug-08,Hampton,17,Jackson State,13,Orlando FL
+31-Aug-08,Kentucky,27,Louisville,2
+31-Aug-08,Stillman,38,Miles,12,Birmingham AL
+31-Aug-08,Fayetteville State,33,North Carolina Central,22
+1-Sep-08,Fresno State,24,Rutgers,7
+1-Sep-08,Tennessee,24,UCLA,27
+4-Sep-08,North Alabama,20,Carson-Newman,13
+4-Sep-08,Arkansas Tech,13,Central Missouri,49
+4-Sep-08,Florida A&M,28,Delaware State,35
+4-Sep-08,Springfield,55,Fitchburg State,27
+4-Sep-08,Haskell,9,Missouri Southern,66
+4-Sep-08,Washburn,35,Missouri State,27
+4-Sep-08,Valparaiso,0,St Francis IL,21
+4-Sep-08,Mass Maritime,14,SUNY-Maritime,24
+4-Sep-08,South Carolina,17,Vanderbilt,24
+5-Sep-08,Navy,23,Ball State,35
+5-Sep-08,New Jersey,41,FDU-Florham,42
+5-Sep-08,Wagner,13,Stonehill,14
+5-Sep-08,WPI,34,UMass-Dartmouth,28
+5-Sep-08,St Xavier,9,UW-Whitewater,24
+5-Sep-08,Nichols,10,Westfield State,13
+5-Sep-08,Curry,28,Worcester State,21
+6-Sep-08,Tulane,6,Alabama,20
+6-Sep-08,Lane,0,Albany St GA,28
+6-Sep-08,Butler,20,Albion,6
+6-Sep-08,Salisbury,30,Albright,28
+6-Sep-08,Ursinus,34,Alfred,27
+6-Sep-08,Bluffton,0,Alma,49
+6-Sep-08,Taylor,27,Anderson,17
+6-Sep-08,Jacksonville FL,7,Appalachian State,56
+6-Sep-08,Toledo,16,Arizona,41
+6-Sep-08,Stanford,17,Arizona State,41
+6-Sep-08,Texas Southern,10,Arkansas State,83
+6-Sep-08,Missouri S&T,24,Arkansas-Monticello,42
+6-Sep-08,New Hampshire,28,Army,10
+6-Sep-08,Ferris State,25,Ashland,24
+6-Sep-08,Southern Miss,13,Auburn,27
+6-Sep-08,Coe,6,Augustana IL,21
+6-Sep-08,Bridgewater VA,34,Averett,13
+6-Sep-08,Culver-Stockton,0,Avila,17
+6-Sep-08,Louisiana College,17,Bacone,16
+6-Sep-08,Northwestern State,6,Baylor,51
+6-Sep-08,Utica,13,Becker,26
+6-Sep-08,MacMurray,17,Beloit,27
+6-Sep-08,Minn St-Mankato,28,Bemidji State,14
+6-Sep-08,Concordia WI,10,Bethel MN,38
+6-Sep-08,UW-Eau Claire,11,Bethel TN,6
+6-Sep-08,Alabama State,7,Bethune-Cookman,28
+6-Sep-08,LaGrange,34,Birmingham-Southern,31
+6-Sep-08,California PA,17,Bloomsburg,24
+6-Sep-08,Georgia Tech,19,Boston College,16
+6-Sep-08,Minnesota,42,Bowling Green,17
+6-Sep-08,Pikeville,17,Brevard,20
+6-Sep-08,Rowan,24,Bridgewater St MA,14
+6-Sep-08,William Paterson,20,Brockport State,26
+6-Sep-08,Southern Conn State,36,Bryant,39
+6-Sep-08,Duquesne,42,Bucknell,48
+6-Sep-08,UW-Platteville,21,Buena Vista,14
+6-Sep-08,Indiana PA,41,C.W. Post,0
+6-Sep-08,Montana,30,Cal Poly SLO,28
+6-Sep-08,Adrian,14,Capital,34
+6-Sep-08,North Park,14,Carroll WI,55
+6-Sep-08,Elizabeth City State,29,Catawba,41
+6-Sep-08,UC-Davis,21,Central Arkansas,24
+6-Sep-08,South Florida,31,Central Florida,24
+6-Sep-08,Lakeland,0,Central IA,41
+6-Sep-08,Graceland,3,Central Methodist,20
+6-Sep-08,West Texas A&M,49,Central Oklahoma,18
+6-Sep-08,West Virginia State,47,Central St OH,13,Chicago IL
+6-Sep-08,Mesa State,14,Central Washington,48
+6-Sep-08,Hanover,22,Centre,46
+6-Sep-08,Pittsburg State,38,Chadron State,31
+6-Sep-08,St Augustine's,17,Charleston WV,34
+6-Sep-08,Cumberland TN,6,Chattanooga,47
+6-Sep-08,Mercyhurst,35,Cheyney,0
+6-Sep-08,The Citadel,17,Clemson,45
+6-Sep-08,Eastern Washington,24,Colorado,31
+6-Sep-08,Fort Hays State,17,Colorado Mines,37
+6-Sep-08,Sacramento State,20,Colorado State,23
+6-Sep-08,OK Panhandle State,13,Colorado St-Pueblo,24
+6-Sep-08,Belhaven,19,Concordia AL,27
+6-Sep-08,Blackburn,15,Concordia IL,41
+6-Sep-08,Midland Lutheran,50,Concordia NE,14
+6-Sep-08,Minot State,13,Concordia-St Paul,55
+6-Sep-08,Grinnell,26,Cornell IA,25
+6-Sep-08,Augsburg,49,Crown,14
+6-Sep-08,Briar Cliff,15,Dana,17
+6-Sep-08,Iona,27,Delaware Valley,19
+6-Sep-08,Grove City,7,Dickinson,34
+6-Sep-08,Western New Mexico,3,Dixie State,35
+6-Sep-08,Northwestern IA,42,Dordt,0
+6-Sep-08,Rockford,7,Dubuque,49
+6-Sep-08,Northwestern,24,Duke,20
+6-Sep-08,West Virginia,3,East Carolina,24
+6-Sep-08,TAMU-Kingsville,44,East Central OK,14
+6-Sep-08,Gannon,10,East Stroudsburg,23
+6-Sep-08,Western Kentucky,37,Eastern Kentucky,13
+6-Sep-08,SW Oklahoma State,24,Eastern New Mexico,37
+6-Sep-08,Montana Tech,28,Eastern Oregon,38
+6-Sep-08,Shaw,55,Edward Waters,13
+6-Sep-08,Benedictine IL,14,Elmhurst,35
+6-Sep-08,Augustana SD,14,Emporia State,27
+6-Sep-08,William Jewell,12,Evangel,24
+6-Sep-08,Lake Erie,21,Fairmont State,34
+6-Sep-08,Emory & Henry,26,Ferrum,21
+6-Sep-08,Tiffin,27,Findlay,36
+6-Sep-08,Miami FL,3,Florida,26
+6-Sep-08,Alabama-Birmingham,34,Florida Atlantic,49
+6-Sep-08,Western Carolina,0,Florida State,69
+6-Sep-08,Endicott,20,Framingham State,25
+6-Sep-08,Baldwin-Wallace,35,Franklin,42
+6-Sep-08,Washington and Lee,0,Franklin & Marshall,24
+6-Sep-08,Hiram,20,Gallaudet,14
+6-Sep-08,Tusculum,12,Gardner-Webb,31
+6-Sep-08,Seton Hill,27,Geneva,18
+6-Sep-08,McKendree,19,Georgetown KY,17
+6-Sep-08,Central Michigan,17,Georgia,56
+6-Sep-08,Austin Peay,20,Georgia Southern,34
+6-Sep-08,Alcorn State,0,Grambling State,29
+6-Sep-08,Indianapolis,21,Grand Valley State,49
+6-Sep-08,Greensboro,12,Guilford,22
+6-Sep-08,West Alabama,27,Harding,37
+6-Sep-08,Western New England,37,Hartwick,63
+6-Sep-08,Doane,7,Hastings,17
+6-Sep-08,Weber State,17,Hawai`i,36
+6-Sep-08,Westminster PA,27,Heidelberg,62
+6-Sep-08,Arkansas-Pine Bluff,0,Henderson State,34
+6-Sep-08,Massachusetts,45,Holy Cross,42
+6-Sep-08,Illinois Wesleyan,28,Hope,25
+6-Sep-08,Maryville,35,Huntingdon,41
+6-Sep-08,Idaho State,27,Idaho,42
+6-Sep-08,Eastern Illinois,21,Illinois,47
+6-Sep-08,Millikin,38,Illinois College,20
+6-Sep-08,Murray State,3,Indiana,45
+6-Sep-08,Florida Int'l,0,Iowa,42
+6-Sep-08,Kent State,28,Iowa State,48
+6-Sep-08,Lycoming,16,Ithaca,17
+6-Sep-08,Stillman,7,Jackson State,17
+6-Sep-08,Alabama A&M,18,Jacksonville State,45
+6-Sep-08,North Carolina Central,7,James Madison,56
+6-Sep-08,Peru State,20,Jamestown,47
+6-Sep-08,St Lawrence,3,Johns Hopkins,34
+6-Sep-08,Allegheny,34,Juniata,18
+6-Sep-08,Denison,49,Kalamazoo,27
+6-Sep-08,Louisiana Tech,0,Kansas,29
+6-Sep-08,Montana State,10,Kansas State,69
+6-Sep-08,Norfolk State,3,Kentucky,38
+6-Sep-08,Kentucky Wesleyan,31,Kentucky Christian,28
+6-Sep-08,Case Western Reserve,62,Kenyon,27
+6-Sep-08,Randolph-Macon,13,King's PA,34
+6-Sep-08,Eureka,0,Knox,26
+6-Sep-08,Clarion,26,Kutztown,20
+6-Sep-08,Aurora,35,Lake Forest,13
+6-Sep-08,Union KY,27,Lambuth,21
+6-Sep-08,Lincoln MO,17,Langston,47,Tulsa OK
+6-Sep-08,Gettysburg,13,Lebanon Valley,19
+6-Sep-08,Drake,0,Lehigh,19
+6-Sep-08,Concord,10,Lenoir-Rhyne,28
+6-Sep-08,Glenville State,27,Liberty,44
+6-Sep-08,Monmouth IL,24,Loras,17
+6-Sep-08,Arkansas,28,Louisiana-Monroe,27,Little Rock AR
+6-Sep-08,Tennessee Tech,10,Louisville,51
+6-Sep-08,St Olaf,23,Luther,14
+6-Sep-08,MIT,42,Maine Maritime,39
+6-Sep-08,Martin Luther,40,Maranatha Baptist,7
+6-Sep-08,William Penn,14,Marian,28
+6-Sep-08,Lafayette,28,Marist,6
+6-Sep-08,Cumberlands KY,14,Mars Hill,37
+6-Sep-08,Delta State,27,McNeese State,52
+6-Sep-08,Rice,42,Memphis,35
+6-Sep-08,UW-Stout,13,Menlo,10
+6-Sep-08,Kean,40,Merchant Marine,0
+6-Sep-08,Husson,7,Merrimack,42
+6-Sep-08,Campbell,21,Methodist,32
+6-Sep-08,Miami OH,6,Michigan,16
+6-Sep-08,Eastern Michigan,10,Michigan State,42
+6-Sep-08,Hillsdale,36,Michigan Tech,39
+6-Sep-08,Lindenwood,16,MidAmerica Nazarene,26
+6-Sep-08,Maryland,14,Middle Tennessee State,24
+6-Sep-08,SE Oklahoma State,20,Midwestern State,27
+6-Sep-08,Slippery Rock,28,Millersville,24
+6-Sep-08,Mississippi College,6,Millsaps,42
+6-Sep-08,Mayville State,15,Minnesota-Crookston,20
+6-Sep-08,Trinity Bible,0,Minnesota-Morris,13
+6-Sep-08,SE Louisiana State,10,Mississippi State,34
+6-Sep-08,SE Missouri State,3,Missouri,52
+6-Sep-08,Benedictine KS,16,Missouri Valley,26
+6-Sep-08,Minnesota-Duluth,47,Missouri Western,18
+6-Sep-08,Maine,21,Monmouth NJ,17
+6-Sep-08,Carroll MT,31,Montana-Western,6
+6-Sep-08,Susquehanna,14,Moravian,27
+6-Sep-08,Dakota Wesleyan,7,Morningside,31
+6-Sep-08,Cortland State,51,Morrisville State,37
+6-Sep-08,Norwich,34,Mount Ida,28
+6-Sep-08,St John Fisher,3,Mount Union,33
+6-Sep-08,Wilmington,7,Mt St Joseph,21
+6-Sep-08,Wilkes,21,Muhlenberg,34
+6-Sep-08,Defiance,10,Muskingum,35
+6-Sep-08,San Jos‚ State,12,Nebraska,35
+6-Sep-08,Sioux Falls,35,Nebraska Wesleyan,0
+6-Sep-08,Nebraska-Kearney,21,Nebraska-Omaha,49
+6-Sep-08,Texas Tech,35,Nevada,19
+6-Sep-08,Texas A&M,28,New Mexico,22
+6-Sep-08,Winston-Salem State,8,North Carolina A&T,14
+6-Sep-08,William & Mary,24,North Carolina State,34
+6-Sep-08,St Cloud State,17,North Dakota,31
+6-Sep-08,Central Conn State,14,North Dakota State,50
+6-Sep-08,Wingate,35,North Greenville,31
+6-Sep-08,Tulsa,56,North Texas,26
+6-Sep-08,New Mexico Highlands,10,Northern Arizona,68
+6-Sep-08,South Dakota,13,Northern Iowa,24
+6-Sep-08,Northwood,7,Northern Michigan,30
+6-Sep-08,Wisconsin Lutheran,7,Northwestern MN,43
+6-Sep-08,San Diego State,13,Notre Dame,21
+6-Sep-08,SW Baptist,28,NW Missouri State,63
+6-Sep-08,Wash & Jeff,49,Oberlin,35
+6-Sep-08,Ohio U.,14,Ohio State,26
+6-Sep-08,Carnegie Mellon,35,Ohio Wesleyan,7
+6-Sep-08,Cincinnati,26,Oklahoma,52
+6-Sep-08,Houston,37,Oklahoma State,56
+6-Sep-08,Utah State,24,Oregon,66
+6-Sep-08,Bethany WV,7,Otterbein,40
+6-Sep-08,Fort Lewis,7,Ouachita Baptist,58
+6-Sep-08,Assumption,20,Pace,27
+6-Sep-08,Oregon State,14,Penn State,45
+6-Sep-08,Buffalo,16,Pittsburgh,27
+6-Sep-08,St Anselm,28,Plymouth State,36
+6-Sep-08,Texas College,0,Prairie View A&M,53
+6-Sep-08,Fayetteville State,28,Presbyterian,38
+6-Sep-08,Lewis & Clark,43,Principia,7
+6-Sep-08,Northern Colorado,10,Purdue,42
+6-Sep-08,Morehead State,13,Robert Morris,27
+6-Sep-08,Montana St-Northern,38,Rocky Mountain,37
+6-Sep-08,Earlham,35,Rose-Hulman,42
+6-Sep-08,Bentley,10,Sacred Heart,21
+6-Sep-08,Wayne St MI,17,Saginaw Valley State,23
+6-Sep-08,Faulkner,0,Samford,62
+6-Sep-08,Azusa Pacific,10,San Diego,38
+6-Sep-08,Livingstone,10,Savannah State,45
+6-Sep-08,Catholic,23,Shenandoah,20
+6-Sep-08,Bowie State,0,Shepherd,14
+6-Sep-08,Edinboro,34,Shippensburg,11
+6-Sep-08,Grand View,21,Simpson,38
+6-Sep-08,Texas St-San Marcos,36,SMU,47
+6-Sep-08,Benedict,3,South Carolina State,42
+6-Sep-08,Youngstown State,7,South Dakota State,40
+6-Sep-08,Hampton,31,Southern Illinois,37
+6-Sep-08,Olivet Nazarene,23,Southern Nazarene,30
+6-Sep-08,Humboldt State,15,Southern Oregon,14
+6-Sep-08,Adams State,10,Southern Utah,38
+6-Sep-08,Lincoln PA,25,Southern Virginia,55
+6-Sep-08,Trinity Int'l,0,St Francis IN,67
+6-Sep-08,East Texas Baptist,15,St John's MN,29
+6-Sep-08,Kentucky State,31,St Joseph's IN,27
+6-Sep-08,Chowan,0,St Paul's,13
+6-Sep-08,Macalester,10,St Thomas,35
+6-Sep-08,McDaniel,38,St Vincent,7
+6-Sep-08,Elon,30,Stony Brook,20
+6-Sep-08,Texas Lutheran,34,Sul Ross State,27
+6-Sep-08,Austin,14,SW Assem of God,16
+6-Sep-08,Black Hills State,21,SW Minnesota State,14
+6-Sep-08,Akron,42,Syracuse,28
+6-Sep-08,Angelo State,10,TAMU-Commerce,13
+6-Sep-08,Northeastern St OK,10,Tarleton State,38
+6-Sep-08,Stephen F. Austin,7,Texas Christian,67
+6-Sep-08,Connecticut,12,Temple,9
+6-Sep-08,Southern U.,32,Tennessee State,34
+6-Sep-08,Baker,0,Tennessee-Martin,56
+6-Sep-08,Marietta,21,Thiel,18
+6-Sep-08,John Carroll,41,Thomas More,14
+6-Sep-08,Morgan State,16,Towson,21
+6-Sep-08,Manchester,13,Trine,41
+6-Sep-08,McMurry,18,Trinity TX,48
+6-Sep-08,Southern Arkansas,21,Truman State,34
+6-Sep-08,Miles,0,Tuskegee,34
+6-Sep-08,Davidson,9,UNC-Pembroke,21
+6-Sep-08,Mary,34,Upper Iowa,31
+6-Sep-08,West Virginia Tech,19,Urbana,28
+6-Sep-08,UNLV,21,Utah,42
+6-Sep-08,Texas,42,UTEP,13
+6-Sep-08,Hardin-Simmons,24,UW-La Crosse,23
+6-Sep-08,Ripon,13,UW-Oshkosh,14
+6-Sep-08,Webber Int'l,21,UW-Stevens Point,23
+6-Sep-08,Richmond,0,Virginia,16
+6-Sep-08,Furman,7,Virginia Tech,24
+6-Sep-08,WV Wesleyan,14,Virginia Union,35
+6-Sep-08,St Francis PA,0,VMI,49
+6-Sep-08,Mississippi,28,Wake Forest,30
+6-Sep-08,Iowa Wesleyan,41,Waldorf,0
+6-Sep-08,West Liberty State,24,Walsh,10
+6-Sep-08,St Norbert,20,Wartburg,44
+6-Sep-08,Brigham Young,28,Washington,27
+6-Sep-08,California,66,Washington State,3
+6-Sep-08,Greenville,0,Washington U.,22
+6-Sep-08,Minn St-Moorhead,21,Wayne St NE,28
+6-Sep-08,Wooster,27,Waynesburg,6
+6-Sep-08,Lock Haven,6,West Chester,37
+6-Sep-08,Clark Atlanta,28,West Georgia,3
+6-Sep-08,Quincy,0,Western Illinois,63
+6-Sep-08,Northern Illinois,26,Western Michigan,29
+6-Sep-08,Western Oregon,36,Western Washington,27
+6-Sep-08,Sewanee,26,Westminster MO,14
+6-Sep-08,Concordia-Moorhead,21,Willamette,35
+6-Sep-08,Northern St SD,14,Winona State,39
+6-Sep-08,Marshall,14,Wisconsin,51
+6-Sep-08,Olivet,10,Wittenberg,22
+6-Sep-08,Charleston Southern,23,Wofford,41
+6-Sep-08,Air Force,23,Wyoming,3
+7-Sep-08,Colgate,23,Coastal Carolina,19
+7-Sep-08,Morehouse,38,Fort Valley State,35
+7-Sep-08,Georgetown DC,12,Howard,7
+7-Sep-08,Hampden-Sydney,33,North Carolina Wesleyan,23
+7-Sep-08,Rhode Island,0,Fordham,16
+7-Sep-08,Johnson C. Smith,16,Virginia State,43
+11-Sep-08,West Alabama,24,Arkansas Tech,26
+11-Sep-08,SW Minnesota State,21,Minnesota-Duluth,43
+11-Sep-08,North Greenville,3,Newberry,41
+11-Sep-08,North Carolina,44,Rutgers,12
+11-Sep-08,Tennessee Tech,29,SE Missouri State,27
+11-Sep-08,St Francis IL,24,St Xavier,21
+11-Sep-08,Concordia AL,21,Tennessee-Martin,87
+11-Sep-08,Texas Lutheran,0,Trinity TX,24
+12-Sep-08,Washington State,17,Baylor,45
+12-Sep-08,Carson-Newman,59,Bentley,18
+12-Sep-08,Alabama A&M,15,Louisiana-Monroe,37
+12-Sep-08,Southern Nazarene,7,Mary Hardin-Baylor,30
+12-Sep-08,Framingham State,6,Nichols,26
+12-Sep-08,Kansas,34,South Florida,37
+12-Sep-08,American Int'l,13,Southern Conn State,12
+12-Sep-08,Albright,30,Western Conn State,27
+13-Sep-08,TAMU-Commerce,14,Abilene Christian,45
+13-Sep-08,Chadron State,37,Adams State,26
+13-Sep-08,Defiance,0,Adrian,20
+13-Sep-08,Ball State,41,Akron,24
+13-Sep-08,Western Kentucky,7,Alabama,41
+13-Sep-08,Thiel,0,Albion,16
+13-Sep-08,FDU-Florham,14,Alfred,21
+13-Sep-08,Virginia-Wise,42,Apprentice,0
+13-Sep-08,UNLV,23,Arizona State,20
+13-Sep-08,Southern Miss,27,Arkansas State,24
+13-Sep-08,Wartburg,24,Augsburg,30
+13-Sep-08,Greenville,0,Augustana IL,30
+13-Sep-08,McMurry,14,Austin,21
+13-Sep-08,Gardner-Webb,31,Austin Peay,15
+13-Sep-08,Millsaps,34,Belhaven,14
+13-Sep-08,MidAmerica Nazarene,26,Benedictine KS,23
+13-Sep-08,McPherson,37,Bethany KS,21
+13-Sep-08,Kentucky Christian,19,Bethany WV,34
+13-Sep-08,Kansas Wesleyan,6,Bethel KS,17
+13-Sep-08,NW Oklahoma State,10,Black Hills State,7
+13-Sep-08,Maranatha Baptist,7,Blackburn,20
+13-Sep-08,Mercyhurst,0,Bloomsburg,24
+13-Sep-08,Bowling Green,7,Boise State,20
+13-Sep-08,Hastings,24,Briar Cliff,25
+13-Sep-08,UMass-Dartmouth,32,Bridgewater St MA,27
+13-Sep-08,Shenandoah,10,Bridgewater VA,6
+13-Sep-08,UCLA,0,Brigham Young,59
+13-Sep-08,Merrimack,7,Bryant,20
+13-Sep-08,Temple,28,Buffalo,30
+13-Sep-08,Franklin,31,Butler,28
+13-Sep-08,Edinboro,31,C.W. Post,7
+13-Sep-08,Willamette,31,Cal Lutheran,17
+13-Sep-08,Lake Erie,0,California PA,54
+13-Sep-08,Ohio Dominican,50,Campbellsville,14
+13-Sep-08,Rocky Mountain,14,Carroll MT,47
+13-Sep-08,Beloit,0,Carroll WI,10
+13-Sep-08,Hope,46,Carthage,70
+13-Sep-08,Rochester,6,Case Western Reserve,38
+13-Sep-08,Franklin & Marshall,7,Catholic,14
+13-Sep-08,Arkansas-Pine Bluff,17,Central Arkansas,41,Little Rock AR
+13-Sep-08,TAMU-Kingsville,41,Central Oklahoma,6
+13-Sep-08,Gannon,40,Cheyney,18
+13-Sep-08,Kenyon,39,Chicago,36
+13-Sep-08,Brevard,20,Chowan,23
+13-Sep-08,Lewis & Clark,17,Claremont-Mudd-Scripps,41
+13-Sep-08,East Stroudsburg,49,Clarion,28
+13-Sep-08,Stillman,36,Clark Atlanta,48
+13-Sep-08,North Carolina State,9,Clemson,27
+13-Sep-08,Gustavus Adolphus,27,Coe,19
+13-Sep-08,Furman,42,Colgate,21
+13-Sep-08,Occidental,41,Colorado College,0
+13-Sep-08,Western New Mexico,28,Colorado Mines,35
+13-Sep-08,West Liberty State,38,Concord,20
+13-Sep-08,Dickinson State,13,Concordia-Moorhead,38
+13-Sep-08,Minn St-Moorhead,23,Concordia-St Paul,27
+13-Sep-08,Virginia,10,Connecticut,45
+13-Sep-08,Carleton,38,Cornell IA,14
+13-Sep-08,Baker,28,Culver-Stockton,0
+13-Sep-08,Mississippi College,28,Cumberlands KY,49
+13-Sep-08,Fitchburg State,34,Curry,41
+13-Sep-08,Nebraska Wesleyan,7,Dakota Wesleyan,27
+13-Sep-08,Fordham,20,Dayton,23
+13-Sep-08,West Chester,20,Delaware,48
+13-Sep-08,Wesley,22,Delaware Valley,25
+13-Sep-08,Arkansas-Monticello,31,Delta State,37
+13-Sep-08,Wabash,41,Denison,27
+13-Sep-08,Anderson,17,DePauw,52
+13-Sep-08,Concordia NE,13,Doane,29
+13-Sep-08,William Penn,0,Drake,36
+13-Sep-08,Navy,31,Duke,41
+13-Sep-08,Tarleton State,38,East Central OK,6
+13-Sep-08,Indiana State,3,Eastern Illinois,38
+13-Sep-08,Morehead State,8,Eastern Kentucky,16
+13-Sep-08,Toledo,41,Eastern Michigan,17
+13-Sep-08,Presbyterian,12,Elon,66
+13-Sep-08,Greensboro,14,Emory & Henry,12
+13-Sep-08,RPI,36,Endicott,7
+13-Sep-08,Concordia IL,8,Eureka,28
+13-Sep-08,West Virginia State,21,Fairmont State,20
+13-Sep-08,Huntingdon,21,Faulkner,7
+13-Sep-08,Findlay,0,Ferris State,14
+13-Sep-08,Southern Virginia,7,Ferrum,34
+13-Sep-08,Chattanooga,7,Florida State,46
+13-Sep-08,Washburn,7,Fort Hays State,17
+13-Sep-08,Colorado St-Pueblo,37,Fort Lewis,7
+13-Sep-08,Virginia Union,27,Fort Valley State,2
+13-Sep-08,Wisconsin,13,Fresno State,10
+13-Sep-08,St Vincent,23,Gallaudet,22
+13-Sep-08,Cumberland TN,14,Georgetown KY,45
+13-Sep-08,Northeastern,27,Georgia Southern,34
+13-Sep-08,Hampden-Sydney,45,Gettysburg,40
+13-Sep-08,Missouri Valley,48,Graceland,15
+13-Sep-08,Midland Lutheran,48,Grand View,37,Johnston IA
+13-Sep-08,Carnegie Mellon,10,Grove City,19
+13-Sep-08,Methodist,33,Guilford,34
+13-Sep-08,Howard,27,Hampton,38
+13-Sep-08,Waynesburg,34,Hanover,32
+13-Sep-08,Linfield,22,Hardin-Simmons,29
+13-Sep-08,Northwood,7,Hillsdale,26
+13-Sep-08,Dickinson,21,Hobart,28
+13-Sep-08,Albany NY,22,Hofstra,16
+13-Sep-08,Air Force,31,Houston,28,Dallas TX
+13-Sep-08,Texas College,13,Howard Payne,20
+13-Sep-08,Western Washington,30,Humboldt State,14
+13-Sep-08,Utica,17,Husson,34
+13-Sep-08,Western Michigan,51,Idaho,28
+13-Sep-08,Louisiana-Lafayette,17,Illinois,20
+13-Sep-08,Knox,27,Illinois College,62
+13-Sep-08,Alma,34,Illinois Wesleyan,48
+13-Sep-08,Iowa State,5,Iowa,17
+13-Sep-08,Campbell,0,Jacksonville FL,52
+13-Sep-08,Massachusetts,38,James Madison,52
+13-Sep-08,Edward Waters,31,Johnson C. Smith,37
+13-Sep-08,Delaware State,3,Kent State,24
+13-Sep-08,Middle Tennessee State,14,Kentucky,20
+13-Sep-08,Albany St GA,41,Kentucky State,27
+13-Sep-08,Ithaca,38,King's PA,28
+13-Sep-08,Georgetown DC,6,Lafayette,24
+13-Sep-08,Shorter,28,LaGrange,23
+13-Sep-08,Mt St Joseph,20,Lakeland,0
+13-Sep-08,OK Panhandle State,2,Langston,35
+13-Sep-08,Davidson,20,Lenoir-Rhyne,16
+13-Sep-08,Fayetteville State,63,Lincoln PA,0
+13-Sep-08,Avila,9,Lindenwood,59
+13-Sep-08,Catawba,49,Livingstone,7
+13-Sep-08,Shippensburg,36,Lock Haven,0
+13-Sep-08,North Texas,3,LSU,41
+13-Sep-08,Crown,7,Macalester,17
+13-Sep-08,Aurora,30,MacMurray,18
+13-Sep-08,Stony Brook,13,Maine,28
+13-Sep-08,Becker,34,Maine Maritime,32
+13-Sep-08,Earlham,7,Manchester,40
+13-Sep-08,Memphis,16,Marshall,17
+13-Sep-08,Hamline,19,Martin Luther,13
+13-Sep-08,California,27,Maryland,35
+13-Sep-08,Centre,17,Maryville,20
+13-Sep-08,Moravian,42,McDaniel,3
+13-Sep-08,Marian,28,McKendree,21
+13-Sep-08,Chapman,31,Menlo,6
+13-Sep-08,Coast Guard,7,Merchant Marine,34
+13-Sep-08,New Mexico Highlands,27,Mesa State,34
+13-Sep-08,Charleston Southern,27,Miami OH,38
+13-Sep-08,Florida Atlantic,0,Michigan State,17
+13-Sep-08,Ashland,48,Michigan Tech,41
+13-Sep-08,Indiana PA,63,Millersville,3
+13-Sep-08,Loras,31,Millikin,14
+13-Sep-08,Mary,0,Minn St-Mankato,40
+13-Sep-08,Montana State,23,Minnesota,35
+13-Sep-08,Augustana SD,59,Minnesota-Crookston,0
+13-Sep-08,Dakota State,40,Minnesota-Morris,24
+13-Sep-08,Samford,10,Mississippi,34
+13-Sep-08,Auburn,3,Mississippi State,2
+13-Sep-08,Nevada,17,Missouri,69
+13-Sep-08,Evangel,7,Missouri S&T,41
+13-Sep-08,Mass Maritime,14,MIT,42
+13-Sep-08,Lawrence,2,Monmouth IL,47
+13-Sep-08,Coastal Carolina,26,Monmouth NJ,7
+13-Sep-08,Southern Utah,10,Montana,46
+13-Sep-08,Eastern Oregon,7,Montana St-Northern,24
+13-Sep-08,Montana-Western,17,Montana Tech,21
+13-Sep-08,Wilkes,6,Montclair State,13
+13-Sep-08,Lane,24,Morehouse,28
+13-Sep-08,North Carolina Central,7,Morgan State,49
+13-Sep-08,Plymouth State,7,Mount Ida,24
+13-Sep-08,Illinois State,42,Murray State,23
+13-Sep-08,New Mexico State,7,Nebraska,38
+13-Sep-08,Emporia State,20,Nebraska-Omaha,41
+13-Sep-08,Arizona,28,New Mexico,36
+13-Sep-08,North Carolina A&T,21,Norfolk State,27
+13-Sep-08,Henderson State,20,North Alabama,45
+13-Sep-08,Ohio Northern,3,North Central,20
+13-Sep-08,UW-La Crosse,7,North Dakota,45
+13-Sep-08,Rose-Hulman,10,North Park,7
+13-Sep-08,Midwestern State,7,Northeastern St OK,3
+13-Sep-08,Upper Iowa,31,Northern St SD,26
+13-Sep-08,Southern Illinois,7,Northwestern,33
+13-Sep-08,Morningside,26,Northwestern IA,21
+13-Sep-08,Simpson,9,Northwestern MN,6
+13-Sep-08,Michigan,17,Notre Dame,35
+13-Sep-08,Missouri Western,35,NW Missouri State,42
+13-Sep-08,Central Michigan,31,Ohio U.,28
+13-Sep-08,Missouri State,13,Oklahoma State,57
+13-Sep-08,Elmhurst,31,Olivet,14
+13-Sep-08,Hawai`i,7,Oregon State,45
+13-Sep-08,Tabor,6,Ottawa,52
+13-Sep-08,West Georgia,17,Ouachita Baptist,41
+13-Sep-08,Stonehill,24,Pace,28
+13-Sep-08,Valley City State,37,Peru State,18
+13-Sep-08,Lambuth,49,Pikeville,27
+13-Sep-08,Missouri Southern,14,Pittsburg State,21
+13-Sep-08,Puget Sound,37,Pomona-Pitzer,7
+13-Sep-08,Oregon,32,Purdue,26
+13-Sep-08,St Francis IN,21,Quincy,0
+13-Sep-08,Johns Hopkins,39,Randolph-Macon,31
+13-Sep-08,Dubuque,9,Redlands,46
+13-Sep-08,New Hampshire,51,Rhode Island,43
+13-Sep-08,Towson,14,Richmond,45
+13-Sep-08,Lake Forest,3,Ripon,14
+13-Sep-08,Bucknell,17,Robert Morris,14
+13-Sep-08,Kalamazoo,17,Rockford,14
+13-Sep-08,Southern Oregon,16,Sacramento State,27
+13-Sep-08,Grand Valley State,36,Saginaw Valley State,0
+13-Sep-08,Geneva,6,Salisbury,48
+13-Sep-08,SUNY-Maritime,14,Salve Regina,46
+13-Sep-08,San Diego State,10,San Jos‚ State,35
+13-Sep-08,South Dakota,30,SE Louisiana State,31
+13-Sep-08,Eastern New Mexico,14,SE Oklahoma State,29
+13-Sep-08,Washington and Lee,24,Sewanee,12
+13-Sep-08,Glenville State,21,Shepherd,14
+13-Sep-08,Dana,0,Sioux Falls,70
+13-Sep-08,Kutztown,24,Slippery Rock,38
+13-Sep-08,Georgia,14,South Carolina,7
+13-Sep-08,Bethune-Cookman,19,South Carolina State,28,Charleston SC
+13-Sep-08,Western Illinois,22,South Dakota State,24
+13-Sep-08,Ohio State,3,Southern California,35
+13-Sep-08,Mississippi Valley State,7,Southern U.,49
+13-Sep-08,St Mary KS,26,Southwestern KS,20
+13-Sep-08,Union NY,24,Springfield,14
+13-Sep-08,UW-Platteville,17,St Ambrose,34
+13-Sep-08,Mars Hill,31,St Augustine's,14
+13-Sep-08,Wayne St NE,17,St Cloud State,31
+13-Sep-08,Marist,30,St Francis PA,22
+13-Sep-08,Buffalo State,7,St John Fisher,20
+13-Sep-08,UW-River Falls,6,St John's MN,22
+13-Sep-08,Norwich,27,St Lawrence,7
+13-Sep-08,Grinnell,7,St Norbert,55
+13-Sep-08,Pacific Lutheran,0,St Olaf,17
+13-Sep-08,Friends,33,Sterling,7
+13-Sep-08,SW Assem of God,14,Sul Ross State,30
+13-Sep-08,Juniata,3,Susquehanna,10
+13-Sep-08,Harding,31,SW Baptist,43
+13-Sep-08,Angelo State,24,SW Oklahoma State,2
+13-Sep-08,Penn State,55,Syracuse,13
+13-Sep-08,Olivet Nazarene,27,Taylor,20
+13-Sep-08,Stanford,14,Texas Christian,31
+13-Sep-08,Alabama-Birmingham,3,Tennessee,35
+13-Sep-08,Jackson State,18,Tennessee State,41,Memphis TN
+13-Sep-08,Shaw,29,Texas Southern,40,Sacramento CA
+13-Sep-08,SMU,7,Texas Tech,43
+13-Sep-08,Northern Michigan,28,Tiffin,34
+13-Sep-08,South Dakota Tech,70,Trinity Bible,0
+13-Sep-08,Alcorn State,0,Troy,65
+13-Sep-08,Central Missouri,31,Truman State,28
+13-Sep-08,East Carolina,28,Tulane,24
+13-Sep-08,Elizabeth City State,30,Tusculum,32
+13-Sep-08,Benedict,14,Tuskegee,37
+13-Sep-08,Portland State,24,UC-Davis,38
+13-Sep-08,Malone,28,Union KY,35
+13-Sep-08,Lebanon Valley,31,Ursinus,19
+13-Sep-08,Utah,58,Utah State,10
+13-Sep-08,UW-Whitewater,16,UW-Eau Claire,14
+13-Sep-08,Iowa Wesleyan,7,UW-Stevens Point,45
+13-Sep-08,Jamestown,13,UW-Stout,37
+13-Sep-08,Concordia WI,10,Valparaiso,34
+13-Sep-08,Rice,21,Vanderbilt,38
+13-Sep-08,Lehigh,14,Villanova,33
+13-Sep-08,St Joseph's IN,43,Virginia State,36
+13-Sep-08,Georgia Tech,17,Virginia Tech,20
+13-Sep-08,Iona,28,Wagner,45
+13-Sep-08,Dordt,13,Waldorf,17
+13-Sep-08,Seton Hill,23,Walsh,21
+13-Sep-08,Frostburg State,21,Wash & Jeff,49
+13-Sep-08,Oklahoma,55,Washington,14
+13-Sep-08,Westminster MO,13,Washington U.,45
+13-Sep-08,Indianapolis,0,Wayne St MI,6
+13-Sep-08,St Paul's,13,Webber Int'l,9
+13-Sep-08,Dixie State,7,Weber State,44
+13-Sep-08,Azusa Pacific,13,West Texas A&M,75
+13-Sep-08,Liberty,19,Western Carolina,16
+13-Sep-08,Westfield State,23,Western New England,21
+13-Sep-08,Central Washington,31,Western Oregon,24
+13-Sep-08,Nebraska-Kearney,44,Western St CO,15
+13-Sep-08,Allegheny,2,Westminster PA,6
+13-Sep-08,Bethel MN,7,Wheaton,10
+13-Sep-08,Principia,6,Whittier,44
+13-Sep-08,La Verne,13,Whitworth,22
+13-Sep-08,North Carolina Wesleyan,6,Widener,7
+13-Sep-08,VMI,17,William & Mary,52
+13-Sep-08,Central Methodist,13,William Jewell,24
+13-Sep-08,UNC-Pembroke,16,Wingate,23
+13-Sep-08,Bemidji State,7,Winona State,31
+13-Sep-08,Savannah State,16,Winston-Salem State,13
+13-Sep-08,Mayville State,9,Wisconsin Lutheran,7
+13-Sep-08,Worcester State,10,WPI,31
+13-Sep-08,Charleston WV,24,WV Wesleyan,17
+13-Sep-08,North Dakota State,13,Wyoming,16
+13-Sep-08,Central St OH,0,Youngstown State,38
+14-Sep-08,Bacone,22,Haskell,29
+14-Sep-08,Rhodes,3,Louisiana College,14
+14-Sep-08,Grambling State,19,Northwestern State,31
+17-Sep-08,Kansas State,29,Louisville,38
+18-Sep-08,Arkansas-Pine Bluff,3,Alcorn State,13
+18-Sep-08,West Virginia,14,Colorado,17
+18-Sep-08,North Dakota,38,Idaho State,35
+18-Sep-08,Michigan Tech,47,Northern Michigan,21
+18-Sep-08,Southern Arkansas,14,West Alabama,17
+19-Sep-08,Baylor,28,Connecticut,31
+19-Sep-08,Franklin & Marshall,20,Dickinson,34
+19-Sep-08,Holy Cross,24,Harvard,25
+19-Sep-08,Wagner,21,Marist,14
+19-Sep-08,Assumption,28,Merrimack,30
+19-Sep-08,Southern Conn State,28,Stonehill,14
+19-Sep-08,Nichols,33,Worcester State,25
+20-Sep-08,Bluffton,7,Adrian,34
+20-Sep-08,Utah,30,Air Force,23
+20-Sep-08,Central St OH,17,Alabama A&M,37
+20-Sep-08,Alabama State,10,Alabama-Birmingham,45
+20-Sep-08,Shenandoah,7,Albright,17
+20-Sep-08,Rockford,21,Alma,59
+20-Sep-08,Bentley,20,American Int'l,49
+20-Sep-08,Hamilton,6,Amherst,30
+20-Sep-08,East Central OK,24,Angelo State,34
+20-Sep-08,Georgia,27,Arizona State,10
+20-Sep-08,Alabama,49,Arkansas,14
+20-Sep-08,Middle Tennessee State,14,Arkansas State,31
+20-Sep-08,Akron,22,Army,3
+20-Sep-08,Tiffin,6,Ashland,34
+20-Sep-08,LSU,26,Auburn,21
+20-Sep-08,Minnesota-Duluth,40,Augustana SD,10
+20-Sep-08,Illinois Wesleyan,31,Aurora,28
+20-Sep-08,Tennessee-Martin,31,Austin Peay,17
+20-Sep-08,Guilford,24,Averett,31
+20-Sep-08,Benedictine KS,20,Avila,10
+20-Sep-08,UW-La Crosse,10,Azusa Pacific,13
+20-Sep-08,Howard Payne,6,Bacone,13
+20-Sep-08,Lindenwood,25,Baker,21
+20-Sep-08,John Carroll,17,Baldwin-Wallace,21
+20-Sep-08,Monmouth IL,51,Beloit,3
+20-Sep-08,Lenoir-Rhyne,13,Benedict,17
+20-Sep-08,North Central,49,Benedictine IL,9
+20-Sep-08,Carleton,17,Bethel MN,14
+20-Sep-08,Cumberlands KY,22,Bethel TN,20
+20-Sep-08,Savannah State,9,Bethune-Cookman,34
+20-Sep-08,South Dakota Tech,13,Black Hills State,33
+20-Sep-08,Kutztown,21,Bloomsburg,31
+20-Sep-08,Central Florida,7,Boston College,34
+20-Sep-08,Ferrum,21,Bridgewater VA,14
+20-Sep-08,Wyoming,0,Brigham Young,44
+20-Sep-08,Stony Brook,7,Brown,17
+20-Sep-08,Monmouth NJ,30,Bryant,17
+20-Sep-08,Cornell NY,21,Bucknell,20
+20-Sep-08,Simpson,28,Buena Vista,41
+20-Sep-08,New Jersey,42,Buffalo State,32
+20-Sep-08,San Diego,43,Campbell,7
+20-Sep-08,Hobart,21,Carnegie Mellon,16
+20-Sep-08,McDaniel,7,Catholic,31
+20-Sep-08,Quincy,6,Central Arkansas,51
+20-Sep-08,North Carolina Central,23,Central Conn State,35
+20-Sep-08,Wartburg,19,Central IA,17
+20-Sep-08,Evangel,27,Central Methodist,17
+20-Sep-08,Washburn,34,Central Missouri,43
+20-Sep-08,Humboldt State,10,Central Washington,48
+20-Sep-08,DePauw,27,Centre,14
+20-Sep-08,West Virginia State,24,Charleston WV,21
+20-Sep-08,Jacksonville State,31,Chattanooga,3
+20-Sep-08,C.W. Post,35,Cheyney,0
+20-Sep-08,Miami OH,20,Cincinnati,45
+20-Sep-08,South Carolina State,0,Clemson,54
+20-Sep-08,Plymouth State,26,Coast Guard,7
+20-Sep-08,Towson,3,Coastal Carolina,31
+20-Sep-08,Dartmouth,20,Colgate,34
+20-Sep-08,Houston,25,Colorado State,28
+20-Sep-08,Chadron State,32,Colorado St-Pueblo,0
+20-Sep-08,Fordham,29,Columbia,22
+20-Sep-08,Edward Waters,21,Concordia AL,45,Dothan AL
+20-Sep-08,Olivet,59,Concordia IL,0
+20-Sep-08,Briar Cliff,7,Concordia NE,17
+20-Sep-08,Wheaton,48,Concordia WI,3
+20-Sep-08,Coe,35,Cornell IA,14
+20-Sep-08,Principia,0,Crown,40
+20-Sep-08,Westfield State,16,Curry,42
+20-Sep-08,Mayville State,13,Dakota State,33
+20-Sep-08,Dakota Wesleyan,41,Dana,10
+20-Sep-08,Robert Morris,14,Dayton,31
+20-Sep-08,Trine,42,Defiance,14
+20-Sep-08,Minot State,28,Dickinson State,21
+20-Sep-08,Western Oregon,34,Dixie State,27
+20-Sep-08,St Francis PA,7,Duquesne,21
+20-Sep-08,Anderson,47,Earlham,14
+20-Sep-08,Shippensburg,41,East Stroudsburg,44
+20-Sep-08,Sul Ross State,21,East Texas Baptist,35
+20-Sep-08,Western Washington,31,Eastern Washington,52
+20-Sep-08,California PA,35,Edinboro,31
+20-Sep-08,Fort Hays State,13,Emporia State,24
+20-Sep-08,Union KY,23,Faulkner,13
+20-Sep-08,St Paul's,0,Fayetteville State,28
+20-Sep-08,Wayne St MI,28,Findlay,7
+20-Sep-08,South Florida,17,Florida Int'l,9
+20-Sep-08,Wake Forest,12,Florida State,3
+20-Sep-08,Colorado Mines,30,Fort Lewis,9
+20-Sep-08,MIT,38,Framingham State,42
+20-Sep-08,Ottawa,45,Friends,46
+20-Sep-08,Brockport State,14,Frostburg State,27
+20-Sep-08,Delaware,21,Furman,23
+20-Sep-08,Elon,22,Georgia Southern,20
+20-Sep-08,Mississippi State,7,Georgia Tech,38
+20-Sep-08,Johns Hopkins,49,Gettysburg,37
+20-Sep-08,Seton Hill,34,Glenville State,29
+20-Sep-08,Jackson State,5,Grambling State,14
+20-Sep-08,Ferris State,13,Grand Valley State,31
+20-Sep-08,Gallaudet,0,Greensboro,34
+20-Sep-08,Carroll WI,31,Grinnell,12
+20-Sep-08,Bethany WV,35,Grove City,41
+20-Sep-08,Hamline,14,Gustavus Adolphus,21
+20-Sep-08,King's PA,6,Hampden-Sydney,22
+20-Sep-08,North Carolina A&T,7,Hampton,44
+20-Sep-08,Delta State,56,Harding,49
+20-Sep-08,MacMurray,44,Haskell,26
+20-Sep-08,Sioux Falls,30,Hastings,17
+20-Sep-08,Capital,38,Heidelberg,17
+20-Sep-08,Arkansas-Monticello,51,Henderson State,48
+20-Sep-08,Rhode Island,20,Hofstra,23
+20-Sep-08,Florida A&M,51,Howard,24
+20-Sep-08,Eastern Illinois,25,Illinois State,21
+20-Sep-08,Ball State,42,Indiana,20
+20-Sep-08,Lock Haven,7,Indiana PA,45
+20-Sep-08,Hillsdale,29,Indianapolis,17
+20-Sep-08,Sacred Heart,44,Iona,24
+20-Sep-08,Peru State,21,Iowa Wesleyan,20
+20-Sep-08,Hartwick,42,Ithaca,69
+20-Sep-08,Appalachian State,32,James Madison,35
+20-Sep-08,Manchester,42,Kalamazoo,21
+20-Sep-08,Sam Houston State,14,Kansas,38
+20-Sep-08,McPherson,10,Kansas Wesleyan,38
+20-Sep-08,Western Conn State,26,Kean,43
+20-Sep-08,Clark Atlanta,28,Kentucky State,27
+20-Sep-08,Hiram,45,Kenyon,39
+20-Sep-08,Ripon,27,Knox,13
+20-Sep-08,St Joseph's IN,58,Lake Erie,35
+20-Sep-08,Illinois College,23,Lake Forest,28
+20-Sep-08,Carthage,27,Lakeland,21
+20-Sep-08,Campbellsville,10,Lambuth,51
+20-Sep-08,Lane,0,Langston,13
+20-Sep-08,St Norbert,44,Lawrence,18
+20-Sep-08,Moravian,23,Lebanon Valley,16
+20-Sep-08,Pomona-Pitzer,62,Lewis & Clark,35
+20-Sep-08,Trinity Int'l,18,Lincoln MO,10
+20-Sep-08,Bowie State,15,Livingstone,10
+20-Sep-08,Hardin-Simmons,36,Louisiana College,28
+20-Sep-08,SE Louisiana State,26,Louisiana Tech,41
+20-Sep-08,Kent State,27,Louisiana-Lafayette,44
+20-Sep-08,Dubuque,14,Luther,23
+20-Sep-08,Susquehanna,16,Lycoming,28
+20-Sep-08,Maranatha Baptist,14,Macalester,28
+20-Sep-08,Blackburn,14,Martin Luther,55
+20-Sep-08,Minnesota-Crookston,9,Mary,52
+20-Sep-08,Texas Lutheran,7,Mary Hardin-Baylor,63
+20-Sep-08,Eastern Michigan,24,Maryland,51
+20-Sep-08,LaGrange,38,Maryville,14
+20-Sep-08,Endicott,20,Mass Maritime,17
+20-Sep-08,Nicholls State,10,Memphis,31
+20-Sep-08,Clarion,7,Mercyhurst,41
+20-Sep-08,Notre Dame,7,Michigan State,23
+20-Sep-08,Graceland,9,MidAmerica Nazarene,52
+20-Sep-08,Bowdoin,28,Middlebury,42
+20-Sep-08,Doane,26,Midland Lutheran,27
+20-Sep-08,Newberry,10,Midwestern State,24
+20-Sep-08,Morehouse,27,Miles,7
+20-Sep-08,Albion,13,Millikin,30
+20-Sep-08,Austin,7,Millsaps,41
+20-Sep-08,Bemidji State,7,Minn St-Moorhead,27
+20-Sep-08,Florida Atlantic,3,Minnesota,37
+20-Sep-08,Vanderbilt,23,Mississippi,17
+20-Sep-08,McMurry,7,Mississippi College,44
+20-Sep-08,Prairie View A&M,49,Mississippi Valley State,15
+20-Sep-08,Buffalo,21,Missouri,42
+20-Sep-08,Nebraska-Omaha,40,Missouri Southern,21
+20-Sep-08,William Jewell,17,Missouri Valley,44
+20-Sep-08,Pittsburg State,46,Missouri Western,40
+20-Sep-08,UC-Davis,24,Montana,29
+20-Sep-08,Carroll MT,17,Montana St-Northern,10
+20-Sep-08,Eastern Oregon,31,Montana-Western,35
+20-Sep-08,Dordt,0,Morningside,62
+20-Sep-08,Montclair State,12,Morrisville State,7
+20-Sep-08,Ohio Northern,7,Mount Union,44
+20-Sep-08,Rutgers,21,Navy,23
+20-Sep-08,Northwestern IA,17,Nebraska Wesleyan,15
+20-Sep-08,Adams State,0,Nebraska-Kearney,37
+20-Sep-08,Albany NY,24,New Hampshire,32
+20-Sep-08,Western St CO,34,New Mexico Highlands,31
+20-Sep-08,Virginia Tech,20,North Carolina,17
+20-Sep-08,East Carolina,24,North Carolina State,30
+20-Sep-08,Emory & Henry,16,North Carolina Wesleyan,17
+20-Sep-08,Kentucky Wesleyan,14,North Greenville,44
+20-Sep-08,TAMU-Kingsville,42,Northeastern St OK,14
+20-Sep-08,Texas St-San Marcos,38,Northern Colorado,35
+20-Sep-08,Indiana State,3,Northern Illinois,48
+20-Sep-08,South Dakota State,20,Northern Iowa,34
+20-Sep-08,St Cloud State,17,Northern St SD,12
+20-Sep-08,Ohio U.,8,Northwestern,16
+20-Sep-08,Cal Poly SLO,52,Northwestern State,18
+20-Sep-08,Saginaw Valley State,46,Northwood,45
+20-Sep-08,Husson,25,Norwich,19
+20-Sep-08,Southwestern KS,3,NW Oklahoma State,49
+20-Sep-08,Case Western Reserve,48,Oberlin,21
+20-Sep-08,Menlo,28,Occidental,38
+20-Sep-08,UW-Oshkosh,17,Ohio Dominican,16
+20-Sep-08,Troy,10,Ohio State,28
+20-Sep-08,Southern Nazarene,26,OK Panhandle State,34
+20-Sep-08,St Xavier,61,Olivet Nazarene,3
+20-Sep-08,Boise State,37,Oregon,32
+20-Sep-08,Muskingum,7,Otterbein,48
+20-Sep-08,Cal Lutheran,16,Pacific Lutheran,7
+20-Sep-08,Temple,3,Penn State,45
+20-Sep-08,Villanova,20,Pennsylvania,14
+20-Sep-08,Shorter,52,Pikeville,17
+20-Sep-08,Iowa,20,Pittsburgh,21
+20-Sep-08,Western Carolina,23,Presbyterian,21
+20-Sep-08,Claremont-Mudd-Scripps,28,Puget Sound,34
+20-Sep-08,Central Michigan,25,Purdue,32
+20-Sep-08,Whitworth,7,Redlands,38
+20-Sep-08,Birmingham-Southern,7,Rhodes,35
+20-Sep-08,Maine,17,Richmond,44
+20-Sep-08,St John Fisher,24,Rochester,17
+20-Sep-08,Montana Tech,22,Rocky Mountain,27
+20-Sep-08,Greenville,25,Rose-Hulman,15
+20-Sep-08,Cortland State,27,Rowan,20
+20-Sep-08,Weber State,32,Sacramento State,27
+20-Sep-08,Christopher Newport,21,Salisbury,38
+20-Sep-08,Bridgewater St MA,42,Salve Regina,18
+20-Sep-08,Missouri State,45,SE Missouri State,28
+20-Sep-08,Abilene Christian,59,SE Oklahoma State,10
+20-Sep-08,Colorado College,0,Sewanee,19
+20-Sep-08,Lincoln PA,7,Shaw,56
+20-Sep-08,Fairmont State,46,Shepherd,42
+20-Sep-08,Gannon,16,Slippery Rock,24
+20-Sep-08,Texas Christian,48,SMU,7
+20-Sep-08,Wofford,13,South Carolina,23
+20-Sep-08,Culver-Stockton,7,South Dakota,70
+20-Sep-08,Marshall,34,Southern Miss,27
+20-Sep-08,Northern Arizona,19,Southern Utah,14
+20-Sep-08,Waldorf,3,St Ambrose,42
+20-Sep-08,Pace,15,St Anselm,14
+20-Sep-08,Grand View,27,St Francis IL,37
+20-Sep-08,Concordia-Moorhead,9,St John's MN,6
+20-Sep-08,Alfred,20,St Lawrence,3
+20-Sep-08,Bethel KS,29,St Mary KS,22
+20-Sep-08,St Thomas,23,St Olaf,29
+20-Sep-08,San Jos‚ State,10,Stanford,23
+20-Sep-08,Tuskegee,42,Stillman,7
+20-Sep-08,Randolph-Macon,30,SUNY-Maritime,21
+20-Sep-08,Bethany KS,6,SW Baptist,83
+20-Sep-08,Northeastern,21,Syracuse,30
+20-Sep-08,Sterling,54,Tabor,19
+20-Sep-08,Eastern New Mexico,14,TAMU-Commerce,38
+20-Sep-08,Central Oklahoma,17,Tarleton State,42
+20-Sep-08,St Francis IN,55,Taylor,7
+20-Sep-08,Florida,30,Tennessee,6
+20-Sep-08,Eastern Kentucky,20,Tennessee State,34
+20-Sep-08,Rice,10,Texas,52
+20-Sep-08,Miami FL,41,Texas A&M,23
+20-Sep-08,Texas Southern,28,Texas College,13
+20-Sep-08,Massachusetts,14,Texas Tech,56
+20-Sep-08,Princeton,24,The Citadel,37
+20-Sep-08,Wash & Jeff,34,Thiel,24
+20-Sep-08,Fresno State,55,Toledo,54
+20-Sep-08,Bates,7,Trinity CT,17
+20-Sep-08,NW Missouri State,49,Truman State,0
+20-Sep-08,Wesleyan,14,Tufts,20
+20-Sep-08,Louisiana-Monroe,10,Tulane,24
+20-Sep-08,New Mexico,14,Tulsa,56
+20-Sep-08,Urbana,0,Tusculum,21
+20-Sep-08,Arizona,31,UCLA,10
+20-Sep-08,Fitchburg State,17,UMass-Dartmouth,45
+20-Sep-08,Jacksonville FL,21,UNC-Pembroke,22
+20-Sep-08,Muhlenberg,31,Union NY,14
+20-Sep-08,Iowa State,31,UNLV,34
+20-Sep-08,SW Minnesota State,38,Upper Iowa,31
+20-Sep-08,Juniata,17,Ursinus,21
+20-Sep-08,Idaho,17,Utah State,42
+20-Sep-08,New Mexico State,34,UTEP,33
+20-Sep-08,RPI,24,Utica,10
+20-Sep-08,Hope,6,UW-Eau Claire,28
+20-Sep-08,Northwestern MN,41,UW-River Falls,34
+20-Sep-08,Missouri S&T,31,UW-Stout,24
+20-Sep-08,Ouachita Baptist,6,Valdosta State,29
+20-Sep-08,Jamestown,24,Valley City State,21
+20-Sep-08,Marian,13,Valparaiso,10
+20-Sep-08,St Augustine's,3,Virginia State,6
+20-Sep-08,Johnson C. Smith,14,Virginia Union,42
+20-Sep-08,West Virginia Tech,33,Virginia-Wise,62
+20-Sep-08,Chowan,20,VMI,69
+20-Sep-08,Chicago,7,Wabash,49
+20-Sep-08,Southern Virginia,28,Washington and Lee,35
+20-Sep-08,Portland State,9,Washington State,48
+20-Sep-08,Minn St-Mankato,26,Wayne St NE,21
+20-Sep-08,Thomas More,34,Waynesburg,26
+20-Sep-08,Widener,9,Wesley,41
+20-Sep-08,Millersville,10,West Chester,41
+20-Sep-08,North Alabama,53,West Georgia,0
+20-Sep-08,Mars Hill,38,West Liberty State,35
+20-Sep-08,SW Oklahoma State,20,West Texas A&M,42
+20-Sep-08,Stephen F. Austin,14,Western Illinois,34
+20-Sep-08,Murray State,9,Western Kentucky,50
+20-Sep-08,Tennessee Tech,7,Western Michigan,41
+20-Sep-08,Maine Maritime,42,Western New England,35
+20-Sep-08,Mesa State,31,Western New Mexico,7
+20-Sep-08,St Vincent,24,Westminster PA,31
+20-Sep-08,Southern Oregon,23,Willamette,31
+20-Sep-08,Norfolk State,12,William & Mary,42
+20-Sep-08,Merchant Marine,13,William Paterson,21
+20-Sep-08,Colby,0,Williams,28
+20-Sep-08,Marietta,7,Wilmington,34
+20-Sep-08,Elizabeth City State,7,Wingate,15
+20-Sep-08,Concordia-St Paul,10,Winona State,37
+20-Sep-08,Morgan State,21,Winston-Salem State,7
+20-Sep-08,St Scholastica,29,Wisconsin Lutheran,36
+20-Sep-08,Washington U.,30,Wittenberg,27
+20-Sep-08,Ohio Wesleyan,2,Wooster,20
+20-Sep-08,Becker,7,WPI,47
+20-Sep-08,Concord,26,WV Wesleyan,31
+20-Sep-08,Georgetown DC,7,Yale,47
+20-Sep-08,North Dakota State,24,Youngstown State,32
+25-Sep-08,Mississippi Valley State,7,Alabama State,47
+25-Sep-08,Fairmont State,13,Glenville State,23
+25-Sep-08,Pikeville,20,Kentucky Christian,14
+25-Sep-08,Harding,0,North Alabama,52
+25-Sep-08,Southern California,21,Oregon State,27
+25-Sep-08,Central Methodist,19,Tennessee Tech,47
+25-Sep-08,SMU,27,Tulane,34
+26-Sep-08,Stonehill,14,Bentley,17
+26-Sep-08,Connecticut,26,Louisville,21
+26-Sep-08,Hofstra,43,Stony Brook,3
+27-Sep-08,New Mexico Highlands,13,Adams State,7
+27-Sep-08,Cincinnati,17,Akron,15
+27-Sep-08,Central IA,13,Albion,12
+27-Sep-08,Southern U.,15,Alcorn State,12
+27-Sep-08,Oberlin,13,Allegheny,24
+27-Sep-08,UW-River Falls,25,Alma,20
+27-Sep-08,Husson,7,American Int'l,35
+27-Sep-08,Presbyterian,14,Appalachian State,48
+27-Sep-08,Arkansas Tech,38,Arkansas-Monticello,35
+27-Sep-08,Alabama A&M,23,Arkansas-Pine Bluff,17
+27-Sep-08,St Anselm,7,Assumption,16
+27-Sep-08,Tennessee,12,Auburn,14
+27-Sep-08,St Olaf,21,Augsburg,49
+27-Sep-08,Centre,22,Austin,17
+27-Sep-08,Peru State,32,Bacone,42
+27-Sep-08,Kent State,20,Ball State,41
+27-Sep-08,Mount Ida,34,Becker,19
+27-Sep-08,Knox,0,Beloit,38
+27-Sep-08,Northern St SD,20,Bemidji State,31
+27-Sep-08,Albany St GA,10,Benedict,13
+27-Sep-08,Baker,35,Benedictine KS,24
+27-Sep-08,Belhaven,21,Bethel TN,31
+27-Sep-08,Norfolk State,17,Bethune-Cookman,33
+27-Sep-08,LaGrange,61,Blackburn,0
+27-Sep-08,Kalamazoo,15,Bluffton,23
+27-Sep-08,Rhode Island,0,Boston College,42
+27-Sep-08,Amherst,31,Bowdoin,24
+27-Sep-08,Lenoir-Rhyne,40,Brevard,14
+27-Sep-08,Midland Lutheran,20,Briar Cliff,7
+27-Sep-08,Harvard,22,Brown,24
+27-Sep-08,Bloomsburg,13,C.W. Post,6
+27-Sep-08,Colorado State,7,California,42
+27-Sep-08,Indiana PA,19,California PA,21
+27-Sep-08,Wilmington,28,Capital,48
+27-Sep-08,Macalester,13,Carleton,33
+27-Sep-08,Hiram,6,Carnegie Mellon,41
+27-Sep-08,Montana Tech,13,Carroll MT,31
+27-Sep-08,Campbell,36,Carthage,27
+27-Sep-08,Buffalo,25,Central Michigan,27
+27-Sep-08,TAMU-Commerce,13,Central Oklahoma,21
+27-Sep-08,Nebraska-Kearney,14,Chadron State,17
+27-Sep-08,Whitworth,41,Chapman,35
+27-Sep-08,North Greenville,0,Charleston Southern,27
+27-Sep-08,Virginia Union,51,Chowan,28
+27-Sep-08,Maryland,20,Clemson,17
+27-Sep-08,Loras,23,Coe,21
+27-Sep-08,Middlebury,19,Colby,24
+27-Sep-08,Trinity TX,35,Colorado College,10
+27-Sep-08,Colorado St-Pueblo,14,Colorado Mines,21
+27-Sep-08,Charleston WV,42,Concord,17
+27-Sep-08,Bethel MN,7,Concordia-Moorhead,24
+27-Sep-08,Augustana SD,42,Concordia-St Paul,21
+27-Sep-08,Yale,14,Cornell NY,17
+27-Sep-08,Northwestern MN,38,Crown,34
+27-Sep-08,Cumberland TN,37,Cumberlands KY,52
+27-Sep-08,Western New England,7,Curry,40
+27-Sep-08,South Dakota Tech,30,Dakota State,18
+27-Sep-08,Hastings,28,Dakota Wesleyan,27
+27-Sep-08,New Hampshire,42,Dartmouth,6
+27-Sep-08,Jacksonville FL,35,Davidson,38
+27-Sep-08,Albany NY,7,Delaware,38
+27-Sep-08,Central Conn State,28,Delaware State,10
+27-Sep-08,Salisbury,27,Delaware Valley,41
+27-Sep-08,Ouachita Baptist,17,Delta State,35
+27-Sep-08,Wooster,21,Denison,10
+27-Sep-08,Sewanee,20,DePauw,27
+27-Sep-08,Jamestown,21,Dickinson State,24
+27-Sep-08,Nebraska Wesleyan,34,Dordt,0
+27-Sep-08,San Diego,43,Drake,17
+27-Sep-08,Buena Vista,20,Dubuque,3
+27-Sep-08,Virginia,3,Duke,31
+27-Sep-08,Dayton,16,Duquesne,24
+27-Sep-08,Houston,41,East Carolina,24
+27-Sep-08,Northeastern St OK,49,East Central OK,55
+27-Sep-08,Cheyney,12,East Stroudsburg,52
+27-Sep-08,Jacksonville State,23,Eastern Illinois,10
+27-Sep-08,Austin Peay,10,Eastern Kentucky,13
+27-Sep-08,Northern Illinois,37,Eastern Michigan,0
+27-Sep-08,Abilene Christian,56,Eastern New Mexico,11
+27-Sep-08,Rocky Mountain,55,Eastern Oregon,76
+27-Sep-08,Idaho State,31,Eastern Washington,45
+27-Sep-08,Webber Int'l,17,Edward Waters,20
+27-Sep-08,Chicago,6,Elmhurst,27
+27-Sep-08,Samford,17,Elon,23
+27-Sep-08,Missouri Southern,19,Emporia State,18
+27-Sep-08,Salve Regina,20,Endicott,17
+27-Sep-08,Missouri Valley,47,Evangel,10
+27-Sep-08,Apprentice,21,FDU-Florham,23
+27-Sep-08,Northern Michigan,24,Ferris State,31
+27-Sep-08,Shenandoah,12,Ferrum,14
+27-Sep-08,Framingham State,34,Fitchburg State,41
+27-Sep-08,Mississippi,31,Florida,30
+27-Sep-08,Colorado,21,Florida State,39,Jacksonville FL
+27-Sep-08,Colgate,31,Fordham,24
+27-Sep-08,Truman State,27,Fort Hays State,7
+27-Sep-08,Tuskegee,20,Fort Valley State,16
+27-Sep-08,Juniata,0,Franklin & Marshall,14
+27-Sep-08,Bethany KS,6,Friends,42
+27-Sep-08,Widener,30,Frostburg State,24
+27-Sep-08,Chattanooga,10,Furman,35
+27-Sep-08,Clarion,24,Gannon,31
+27-Sep-08,Sam Houston State,49,Gardner-Webb,33
+27-Sep-08,Holy Cross,38,Georgetown DC,14
+27-Sep-08,Alabama,41,Georgia,30
+27-Sep-08,Wofford,38,Georgia Southern,37
+27-Sep-08,Avila,9,Graceland,8
+27-Sep-08,Langston,2,Grambling State,13
+27-Sep-08,Michigan Tech,6,Grand Valley State,52
+27-Sep-08,Maryville,17,Greensboro,16
+27-Sep-08,Principia,0,Greenville,59
+27-Sep-08,Guilford,14,Hampden-Sydney,35
+27-Sep-08,Mississippi College,27,Hardin-Simmons,35
+27-Sep-08,Waldorf,10,Haskell,39
+27-Sep-08,San Jos‚ State,20,Hawai`i,17
+27-Sep-08,Ashland,24,Hillsdale,17
+27-Sep-08,Susquehanna,14,Hobart,27
+27-Sep-08,Wheaton,47,Hope,7
+27-Sep-08,Western Oregon,44,Humboldt State,28
+27-Sep-08,MacMurray,20,Huntingdon,49
+27-Sep-08,Michigan State,42,Indiana,29
+27-Sep-08,SE Missouri State,24,Indiana State,21
+27-Sep-08,Pace,26,Iona,30
+27-Sep-08,Northwestern,22,Iowa,17
+27-Sep-08,Grand View,24,Iowa Wesleyan,36
+27-Sep-08,Heidelberg,15,John Carroll,17
+27-Sep-08,Louisiana-Lafayette,37,Kansas State,45
+27-Sep-08,Cortland State,32,Kean,28
+27-Sep-08,Western Kentucky,3,Kentucky,41
+27-Sep-08,SW Baptist,34,Kentucky Wesleyan,14
+27-Sep-08,Wabash,55,Kenyon,13
+27-Sep-08,West Chester,49,Kutztown,8
+27-Sep-08,Willamette,44,La Verne,0
+27-Sep-08,Pennsylvania,17,Lafayette,24
+27-Sep-08,Adrian,37,Lake Erie,17
+27-Sep-08,UNC-Pembroke,47,Lane,28
+27-Sep-08,Grinnell,32,Lawrence,16
+27-Sep-08,St Joseph's IN,31,Lincoln MO,10
+27-Sep-08,Livingstone,27,Lincoln PA,10
+27-Sep-08,Culver-Stockton,12,Lindenwood,68
+27-Sep-08,Southern Oregon,7,Linfield,14
+27-Sep-08,Edinboro,31,Lock Haven,0
+27-Sep-08,Mississippi State,24,LSU,34
+27-Sep-08,Bridgewater VA,17,Lycoming,34
+27-Sep-08,James Madison,24,Maine,10
+27-Sep-08,Bridgewater St MA,31,Maine Maritime,41
+27-Sep-08,Baldwin-Wallace,45,Marietta,16
+27-Sep-08,Sacred Heart,28,Marist,16
+27-Sep-08,Catawba,24,Mars Hill,7
+27-Sep-08,Black Hills State,48,Mayville State,2
+27-Sep-08,Dickinson,13,McDaniel,20
+27-Sep-08,Mary Hardin-Baylor,46,McMurry,0
+27-Sep-08,Southern Virginia,7,McNeese State,63
+27-Sep-08,Southwestern KS,7,McPherson,41
+27-Sep-08,Arkansas State,17,Memphis,29
+27-Sep-08,Whittier,20,Menlo,38
+27-Sep-08,St Lawrence,17,Merchant Marine,23
+27-Sep-08,Slippery Rock,10,Mercyhurst,34
+27-Sep-08,Southern Conn State,40,Merrimack,26
+27-Sep-08,Fort Lewis,13,Mesa State,35
+27-Sep-08,North Carolina,28,Miami FL,24
+27-Sep-08,Wisconsin,25,Michigan,27
+27-Sep-08,Angelo State,3,Midwestern State,17
+27-Sep-08,Clark Atlanta,26,Miles,21
+27-Sep-08,Winona State,32,Minn St-Mankato,35
+27-Sep-08,Minn St-Moorhead,16,Minnesota-Crookston,20
+27-Sep-08,Mary,7,Minnesota-Duluth,44
+27-Sep-08,St Scholastica,7,Minnesota-Morris,21
+27-Sep-08,Valley City State,35,Minot State,44
+27-Sep-08,Butler,41,Missouri S&T,15
+27-Sep-08,Nichols,42,MIT,43
+27-Sep-08,Carroll WI,20,Monmouth IL,41
+27-Sep-08,Central Washington,35,Montana,38
+27-Sep-08,South Dakota,18,Montana State,37
+27-Sep-08,Montana St-Northern,31,Montana-Western,9
+27-Sep-08,Brockport State,14,Montclair State,16
+27-Sep-08,Johns Hopkins,10,Moravian,33
+27-Sep-08,St Francis PA,21,Morehead State,36
+27-Sep-08,Rose-Hulman,27,Mt St Joseph,21
+27-Sep-08,Gettysburg,21,Muhlenberg,42
+27-Sep-08,Tennessee-Martin,63,Murray State,38
+27-Sep-08,Mount Union,51,Muskingum,13
+27-Sep-08,Virginia Tech,35,Nebraska,30
+27-Sep-08,NW Missouri State,42,Nebraska-Omaha,0
+27-Sep-08,Morrisville State,31,New Jersey,41
+27-Sep-08,New Mexico,35,New Mexico State,24
+27-Sep-08,Carson-Newman,21,Newberry,27
+27-Sep-08,Coastal Carolina,20,North Carolina A&T,7
+27-Sep-08,South Florida,41,North Carolina State,10
+27-Sep-08,Methodist,0,North Carolina Wesleyan,42
+27-Sep-08,Benedictine IL,10,North Park,35
+27-Sep-08,UC-Davis,10,Northeastern,27
+27-Sep-08,Northern Arizona,25,Northern Colorado,22
+27-Sep-08,Dana,14,Northwestern IA,54
+27-Sep-08,SE Oklahoma State,12,Northwestern State,63
+27-Sep-08,Findlay,24,Northwood,31
+27-Sep-08,Purdue,21,Notre Dame,38
+27-Sep-08,McKendree,0,Ohio Dominican,59
+27-Sep-08,Otterbein,37,Ohio Northern,7
+27-Sep-08,Minnesota,21,Ohio State,34
+27-Sep-08,VMI,31,Ohio U.,51
+27-Sep-08,Wittenberg,32,Ohio Wesleyan,0
+27-Sep-08,Tabor,15,OK Panhandle State,31
+27-Sep-08,Texas Christian,10,Oklahoma,35
+27-Sep-08,Troy,24,Oklahoma State,55
+27-Sep-08,North Central,37,Olivet,7
+27-Sep-08,Malone,43,Olivet Nazarene,3
+27-Sep-08,St Mary KS,14,Ottawa,35
+27-Sep-08,Illinois,24,Penn State,38
+27-Sep-08,Central Missouri,28,Pittsburg State,49
+27-Sep-08,UMass-Dartmouth,10,Plymouth State,30
+27-Sep-08,Morehouse,17,Prairie View A&M,28
+27-Sep-08,Lehigh,7,Princeton,10
+27-Sep-08,UW-Whitewater,60,Puget Sound,7
+27-Sep-08,Catholic,20,Randolph-Macon,32
+27-Sep-08,Millsaps,49,Rhodes,2
+27-Sep-08,North Texas,20,Rice,77
+27-Sep-08,Illinois College,20,Ripon,45
+27-Sep-08,Monmouth NJ,34,Robert Morris,26
+27-Sep-08,William Paterson,24,Rowan,39
+27-Sep-08,WPI,21,RPI,35
+27-Sep-08,Morgan State,0,Rutgers,38
+27-Sep-08,Portland State,31,Sacramento State,41
+27-Sep-08,Indianapolis,14,Saginaw Valley State,11
+27-Sep-08,Idaho,17,San Diego State,45
+27-Sep-08,Howard,49,Savannah State,21,Miami FL
+27-Sep-08,North Dakota,35,SE Louisiana State,38
+27-Sep-08,Shepherd,14,Seton Hill,24
+27-Sep-08,Bowie State,10,Shaw,41
+27-Sep-08,Millersville,14,Shippensburg,35
+27-Sep-08,Faulkner,0,Shorter,42
+27-Sep-08,Luther,9,Simpson,28
+27-Sep-08,Concordia NE,0,Sioux Falls,47
+27-Sep-08,Alabama-Birmingham,13,South Carolina,26
+27-Sep-08,Henderson State,42,Southern Arkansas,17
+27-Sep-08,Northern Iowa,24,Southern Illinois,27
+27-Sep-08,Alfred,17,Springfield,14
+27-Sep-08,Elizabeth City State,24,St Augustine's,13,Rocky Mount NC
+27-Sep-08,Upper Iowa,28,St Cloud State,54
+27-Sep-08,Urbana,23,St Francis IL,27
+27-Sep-08,St Ambrose,14,St Francis IN,43
+27-Sep-08,Ithaca,6,St John Fisher,37
+27-Sep-08,Gustavus Adolphus,17,St John's MN,31
+27-Sep-08,Lake Forest,0,St Norbert,62
+27-Sep-08,Johnson C. Smith,9,St Paul's,24
+27-Sep-08,Hamline,21,St Thomas,24
+27-Sep-08,Waynesburg,21,St Vincent,12
+27-Sep-08,South Dakota State,50,Stephen F. Austin,48
+27-Sep-08,Bethel KS,3,Sterling,24
+27-Sep-08,Kentucky State,37,Stillman,30,St Louis MO
+27-Sep-08,Howard Payne,0,Sul Ross State,17
+27-Sep-08,Norwich,20,SUNY-Maritime,34
+27-Sep-08,Kansas Wesleyan,52,SW Assem of God,13
+27-Sep-08,Wayne St NE,34,SW Minnesota State,28
+27-Sep-08,Tarleton State,24,SW Oklahoma State,21
+27-Sep-08,Pittsburgh,34,Syracuse,24
+27-Sep-08,West Texas A&M,55,TAMU-Kingsville,35
+27-Sep-08,Western Michigan,7,Temple,3
+27-Sep-08,Florida A&M,28,Tennessee State,21,Atlanta GA
+27-Sep-08,Arkansas,10,Texas,52
+27-Sep-08,Army,17,Texas A&M,21
+27-Sep-08,East Texas Baptist,26,Texas Lutheran,14
+27-Sep-08,Concordia AL,27,Texas Southern,45
+27-Sep-08,Southern Utah,34,Texas St-San Marcos,20
+27-Sep-08,Western Carolina,14,The Citadel,34
+27-Sep-08,Geneva,31,Thiel,17
+27-Sep-08,Westminster PA,10,Thomas More,31
+27-Sep-08,Florida Int'l,35,Toledo,16
+27-Sep-08,Columbia,24,Towson,31
+27-Sep-08,Franklin,27,Trine,30
+27-Sep-08,Martin Luther,41,Trinity Bible,16
+27-Sep-08,St Xavier,56,Trinity Int'l,0
+27-Sep-08,Bates,7,Tufts,34
+27-Sep-08,Central Arkansas,34,Tulsa,62
+27-Sep-08,Fresno State,36,UCLA,31
+27-Sep-08,Georgetown KY,28,Union KY,35
+27-Sep-08,Rochester,29,Union NY,25
+27-Sep-08,Nevada,49,UNLV,27
+27-Sep-08,Weber State,21,Utah,37
+27-Sep-08,Central Florida,13,UTEP,58
+27-Sep-08,Augustana IL,9,UW-Platteville,13
+27-Sep-08,Azusa Pacific,9,UW-Stevens Point,10
+27-Sep-08,Richmond,20,Villanova,26
+27-Sep-08,Fayetteville State,23,Virginia State,13
+27-Sep-08,Lambuth,51,Virginia-Wise,40
+27-Sep-08,Bryant,24,Wagner,14
+27-Sep-08,Navy,24,Wake Forest,17
+27-Sep-08,Quincy,27,Walsh,25
+27-Sep-08,Cornell IA,14,Wartburg,37
+27-Sep-08,Grove City,21,Wash & Jeff,49
+27-Sep-08,Missouri Western,17,Washburn,21
+27-Sep-08,Stanford,35,Washington,28
+27-Sep-08,Averett,23,Washington and Lee,31
+27-Sep-08,Oregon,63,Washington State,14
+27-Sep-08,Tiffin,18,Wayne St MI,34
+27-Sep-08,Valdosta State,33,West Alabama,14
+27-Sep-08,WV Wesleyan,0,West Liberty State,46
+27-Sep-08,Marshall,3,West Virginia,27
+27-Sep-08,Campbellsville,57,West Virginia Tech,47
+27-Sep-08,Buffalo State,20,Western Conn State,22
+27-Sep-08,Western New Mexico,24,Western St CO,53
+27-Sep-08,Dixie State,27,Western Washington,29
+27-Sep-08,Coast Guard,16,Westfield State,13
+27-Sep-08,Eureka,25,Westminster MO,42
+27-Sep-08,Christopher Newport,21,Wilkes,20
+27-Sep-08,MidAmerica Nazarene,37,William Jewell,16
+27-Sep-08,Taylor,10,William Penn,13
+27-Sep-08,Trinity CT,20,Williams,17
+27-Sep-08,Tusculum,33,Wingate,37
+27-Sep-08,South Carolina State,43,Winston-Salem State,17
+27-Sep-08,Mass Maritime,7,Worcester State,42
+27-Sep-08,Bowling Green,45,Wyoming,16
+27-Sep-08,Liberty,31,Youngstown State,28
+28-Sep-08,Hamilton,17,Wesleyan,7
+30-Sep-08,Florida Atlantic,13,Middle Tennessee State,14
+1-Oct-08,Louisiana Tech,3,Boise State,38
+2-Oct-08,Memphis,33,Alabama-Birmingham,30
+2-Oct-08,West Liberty State,20,Fairmont State,13
+2-Oct-08,Nicholls State,14,Northern Iowa,34
+2-Oct-08,Pittsburgh,26,South Florida,21
+2-Oct-08,Oregon State,28,Utah,31
+2-Oct-08,Delta State,27,Valdosta State,24
+3-Oct-08,Assumption,19,Bentley,22
+3-Oct-08,Southern Virginia,31,Guilford,47
+3-Oct-08,Cincinnati,33,Marshall,10
+3-Oct-08,Kean,35,New Jersey,24
+3-Oct-08,Brigham Young,34,Utah State,14
+4-Oct-08,East Central OK,7,Abilene Christian,66
+4-Oct-08,Kalamazoo,17,Adrian,42
+4-Oct-08,Navy,33,Air Force,27
+4-Oct-08,Kentucky,14,Alabama,17
+4-Oct-08,Tuskegee,34,Alabama A&M,24
+4-Oct-08,Stillman,14,Albany St GA,35
+4-Oct-08,FDU-Florham,17,Albright,24
+4-Oct-08,Norwich,0,Alfred,42
+4-Oct-08,Hanover,12,Anderson,56
+4-Oct-08,Eastern New Mexico,13,Angelo State,25
+4-Oct-08,The Citadel,21,Appalachian State,47
+4-Oct-08,Salisbury,48,Apprentice,17
+4-Oct-08,Washington,14,Arizona,48
+4-Oct-08,Florida,38,Arkansas,7
+4-Oct-08,North Alabama,45,Arkansas Tech,24
+4-Oct-08,Wayne St MI,14,Ashland,41
+4-Oct-08,Minn St-Mankato,38,Augustana SD,41
+4-Oct-08,Benedictine IL,7,Aurora,31
+4-Oct-08,Murray State,32,Austin Peay,12
+4-Oct-08,Ferrum,30,Averett,9
+4-Oct-08,William Jewell,34,Avila,14
+4-Oct-08,Southern Nazarene,30,Bacone,31
+4-Oct-08,Graceland,3,Baker,41
+4-Oct-08,Mount Union,48,Baldwin-Wallace,3
+4-Oct-08,Williams,27,Bates,14
+4-Oct-08,Oklahoma,49,Baylor,17
+4-Oct-08,Gallaudet,26,Becker,18
+4-Oct-08,Faulkner,24,Belhaven,49
+4-Oct-08,Thomas More,42,Bethany WV,12
+4-Oct-08,Bethany KS,6,Bethel KS,13
+4-Oct-08,St John's MN,9,Bethel MN,14
+4-Oct-08,Trinity TX,48,Birmingham-Southern,20
+4-Oct-08,Dakota State,14,Black Hills State,37
+4-Oct-08,Eureka,26,Blackburn,13
+4-Oct-08,Mt St Joseph,50,Bluffton,7
+4-Oct-08,Tufts,26,Bowdoin,28
+4-Oct-08,Lincoln PA,2,Bowie State,28
+4-Oct-08,Eastern Michigan,24,Bowling Green,21
+4-Oct-08,Wingate,44,Brevard,13
+4-Oct-08,Fitchburg State,14,Bridgewater St MA,38
+4-Oct-08,Hampden-Sydney,37,Bridgewater VA,34
+4-Oct-08,Rowan,37,Brockport State,20
+4-Oct-08,Wartburg,21,Buena Vista,26
+4-Oct-08,Drake,15,Butler,21
+4-Oct-08,South Dakota,22,Cal Poly SLO,49
+4-Oct-08,Arizona State,14,California,24
+4-Oct-08,Shorter,24,Campbellsville,14
+4-Oct-08,Marietta,6,Capital,38
+4-Oct-08,Kenyon,12,Carnegie Mellon,23
+4-Oct-08,Ripon,28,Carroll WI,10
+4-Oct-08,Mars Hill,49,Carson-Newman,61
+4-Oct-08,Denison,14,Case Western Reserve,45
+4-Oct-08,SUNY-Maritime,13,Catholic,46
+4-Oct-08,Wagner,10,Central Conn State,35
+4-Oct-08,SMU,17,Central Florida,31
+4-Oct-08,Emporia State,14,Central Missouri,42
+4-Oct-08,Dixie State,14,Central Washington,49
+4-Oct-08,Pomona-Pitzer,3,Chapman,17
+4-Oct-08,Gardner-Webb,10,Charleston Southern,13
+4-Oct-08,Shepherd,12,Charleston WV,21
+4-Oct-08,Georgia Southern,52,Chattanooga,28
+4-Oct-08,Kutztown,31,Cheyney,13
+4-Oct-08,California PA,52,Clarion,20
+4-Oct-08,Savannah State,17,Clark Atlanta,14
+4-Oct-08,Mass Maritime,6,Coast Guard,30
+4-Oct-08,Liberty,43,Coastal Carolina,38
+4-Oct-08,Wesleyan,7,Colby,13
+4-Oct-08,Texas,38,Colorado,14
+4-Oct-08,Austin,36,Colorado College,17
+4-Oct-08,Mesa State,27,Colorado Mines,24
+4-Oct-08,UNLV,28,Colorado State,41
+4-Oct-08,Nebraska-Kearney,41,Colorado St-Pueblo,10
+4-Oct-08,Princeton,27,Columbia,24
+4-Oct-08,West Alabama,24,Concordia AL,7
+4-Oct-08,Wisconsin Lutheran,30,Concordia IL,13
+4-Oct-08,Northwestern IA,49,Concordia NE,2
+4-Oct-08,Maranatha Baptist,6,Concordia WI,43
+4-Oct-08,Buffalo State,14,Cortland State,35
+4-Oct-08,Benedictine KS,45,Culver-Stockton,20
+4-Oct-08,Bethel TN,16,Cumberland TN,44
+4-Oct-08,Pikeville,7,Cumberlands KY,42
+4-Oct-08,Morningside,58,Dana,7
+4-Oct-08,Campbell,0,Dayton,42
+4-Oct-08,Franklin,30,Defiance,14
+4-Oct-08,Hampton,17,Delaware State,14
+4-Oct-08,Moravian,7,Dickinson,16
+4-Oct-08,Sioux Falls,37,Doane,7
+4-Oct-08,Albany NY,33,Duquesne,23
+4-Oct-08,West Chester,34,East Stroudsburg,24
+4-Oct-08,McMurry,7,East Texas Baptist,31
+4-Oct-08,Carroll MT,48,Eastern Oregon,10
+4-Oct-08,Gannon,3,Edinboro,40
+4-Oct-08,Virginia State,7,Elizabeth City State,35
+4-Oct-08,Augustana IL,42,Elmhurst,6
+4-Oct-08,Furman,10,Elon,31
+4-Oct-08,Methodist,7,Emory & Henry,28
+4-Oct-08,Chowan,21,Fayetteville State,60
+4-Oct-08,South Carolina State,28,Florida A&M,21
+4-Oct-08,Western St CO,17,Fort Lewis,20
+4-Oct-08,Worcester State,21,Framingham State,42
+4-Oct-08,Hawai`i,32,Fresno State,29
+4-Oct-08,Wesley,38,Frostburg State,6
+4-Oct-08,Wash & Jeff,43,Geneva,14
+4-Oct-08,Virginia-Wise,35,Georgetown KY,28
+4-Oct-08,Duke,0,Georgia Tech,27
+4-Oct-08,Ursinus,7,Gettysburg,38
+4-Oct-08,Kentucky Wesleyan,34,Grand View,13
+4-Oct-08,Huntingdon,28,Greenville,12
+4-Oct-08,Monmouth IL,69,Grinnell,0
+4-Oct-08,St Thomas,30,Gustavus Adolphus,22
+4-Oct-08,Trinity CT,20,Hamilton,15
+4-Oct-08,Augsburg,24,Hamline,21
+4-Oct-08,Southern Arkansas,33,Harding,39
+4-Oct-08,Lincoln MO,43,Haskell,37
+4-Oct-08,Dordt,0,Hastings,35
+4-Oct-08,Otterbein,52,Heidelberg,14
+4-Oct-08,Findlay,13,Hillsdale,20
+4-Oct-08,Wittenberg,44,Hiram,7
+4-Oct-08,Trine,31,Hope,30
+4-Oct-08,Texas Lutheran,28,Howard Payne,21
+4-Oct-08,Azusa Pacific,17,Humboldt State,24
+4-Oct-08,Nevada,49,Idaho,14
+4-Oct-08,Montana State,33,Idaho State,21
+4-Oct-08,Lawrence,16,Illinois College,28
+4-Oct-08,Carthage,26,Illinois Wesleyan,21
+4-Oct-08,Slippery Rock,16,Indiana PA,23
+4-Oct-08,Illinois State,57,Indiana State,6
+4-Oct-08,Northwood,23,Indianapolis,27
+4-Oct-08,Stonehill,34,Iona,35
+4-Oct-08,Kansas,35,Iowa State,33
+4-Oct-08,Olivet Nazarene,28,Iowa Wesleyan,12
+4-Oct-08,Southern U.,35,Jackson State,28
+4-Oct-08,SE Missouri State,17,Jacksonville State,38
+4-Oct-08,Hofstra,0,James Madison,56
+4-Oct-08,Minot State,41,Jamestown,48
+4-Oct-08,Wilmington,17,John Carroll,31
+4-Oct-08,Muhlenberg,28,Johns Hopkins,23
+4-Oct-08,Livingstone,32,Johnson C. Smith,26
+4-Oct-08,McDaniel,10,Juniata,12
+4-Oct-08,Texas Tech,58,Kansas State,28
+4-Oct-08,Akron,30,Kent State,27
+4-Oct-08,Central St OH,29,Kentucky State,31
+4-Oct-08,Delaware Valley,34,King's PA,19
+4-Oct-08,St Norbert,63,Knox,24
+4-Oct-08,Redlands,37,La Verne,7
+4-Oct-08,Harvard,27,Lafayette,13
+4-Oct-08,Glenville State,27,Lake Erie,34
+4-Oct-08,Beloit,27,Lake Forest,21
+4-Oct-08,Rockford,28,Lakeland,33
+4-Oct-08,Fort Valley State,33,Lane,30
+4-Oct-08,Cornell NY,25,Lehigh,24
+4-Oct-08,Tusculum,48,Lenoir-Rhyne,19
+4-Oct-08,Pacific Lutheran,40,Lewis & Clark,14
+4-Oct-08,Menlo,0,Linfield,9
+4-Oct-08,Cornell IA,0,Loras,42
+4-Oct-08,Louisiana-Lafayette,44,Louisiana-Monroe,35
+4-Oct-08,Central IA,7,Luther,26
+4-Oct-08,Northwestern MN,49,Macalester,13
+4-Oct-08,LaGrange,49,MacMurray,30
+4-Oct-08,Marian,37,Malone,45
+4-Oct-08,Bucknell,21,Marist,17
+4-Oct-08,Concordia-St Paul,17,Mary,7
+4-Oct-08,Hardin-Simmons,18,Mary Hardin-Baylor,20
+4-Oct-08,North Carolina Wesleyan,24,Maryville,37
+4-Oct-08,Delaware,7,Massachusetts,17
+4-Oct-08,Lock Haven,14,Mercyhurst,49
+4-Oct-08,Florida State,41,Miami FL,39
+4-Oct-08,Temple,28,Miami OH,10
+4-Oct-08,Illinois,45,Michigan,20
+4-Oct-08,Iowa,13,Michigan State,16
+4-Oct-08,Ferris State,7,Michigan Tech,21
+4-Oct-08,Evangel,7,MidAmerica Nazarene,51
+4-Oct-08,Amherst,14,Middlebury,31
+4-Oct-08,Dakota Wesleyan,19,Midland Lutheran,14
+4-Oct-08,Benedict,10,Miles,13
+4-Oct-08,Bloomsburg,49,Millersville,24
+4-Oct-08,DePauw,13,Millsaps,55
+4-Oct-08,Minnesota-Duluth,52,Minn St-Moorhead,10
+4-Oct-08,Indiana,7,Minnesota,16
+4-Oct-08,Martin Luther,35,Minnesota-Morris,7
+4-Oct-08,South Carolina,31,Mississippi,24
+4-Oct-08,Louisiana College,19,Mississippi College,21
+4-Oct-08,St Joseph's IN,29,Missouri S&T,38
+4-Oct-08,Washburn,23,Missouri Southern,0
+4-Oct-08,Western Illinois,33,Missouri State,21
+4-Oct-08,Central Methodist,0,Missouri Valley,35
+4-Oct-08,Fort Hays State,28,Missouri Western,31
+4-Oct-08,St Francis PA,15,Monmouth NJ,42
+4-Oct-08,Montana St-Northern,16,Montana Tech,9
+4-Oct-08,Davidson,13,Morehead State,26
+4-Oct-08,Bethune-Cookman,31,Morgan State,27
+4-Oct-08,Western Conn State,40,Morrisville State,6
+4-Oct-08,Husson,16,Mount Ida,12
+4-Oct-08,Missouri,52,Nebraska,17
+4-Oct-08,Wyoming,0,New Mexico,24
+4-Oct-08,Chadron State,56,New Mexico Highlands,14
+4-Oct-08,Alcorn State,10,New Mexico State,45
+4-Oct-08,Catawba,14,Newberry,33
+4-Oct-08,Endicott,27,Nichols,20
+4-Oct-08,Connecticut,12,North Carolina,38
+4-Oct-08,North Carolina A&T,27,North Carolina Central,28,Charlotte NC
+4-Oct-08,Boston College,38,North Carolina State,31
+4-Oct-08,Millikin,13,North Central,31
+4-Oct-08,Southern Illinois,27,North Dakota State,35
+4-Oct-08,Florida Int'l,42,North Texas,10
+4-Oct-08,TAMU-Commerce,38,Northeastern St OK,37
+4-Oct-08,Sacramento State,10,Northern Arizona,42
+4-Oct-08,Saginaw Valley State,38,Northern Michigan,21
+4-Oct-08,Minnesota-Crookston,0,Northern St SD,35
+4-Oct-08,Stanford,21,Notre Dame,28
+4-Oct-08,Pittsburg State,10,NW Missouri State,35
+4-Oct-08,Sterling,14,NW Oklahoma State,38
+4-Oct-08,Ohio Wesleyan,15,Oberlin,28
+4-Oct-08,Claremont-Mudd-Scripps,0,Occidental,38
+4-Oct-08,Muskingum,35,Ohio Northern,21
+4-Oct-08,Texas A&M,28,Oklahoma State,56
+4-Oct-08,Albion,10,Olivet,5
+4-Oct-08,Arkansas-Monticello,44,Ouachita Baptist,24
+4-Oct-08,Merrimack,31,Pace,28
+4-Oct-08,Dartmouth,10,Pennsylvania,23
+4-Oct-08,Western New England,20,Plymouth State,40
+4-Oct-08,Eastern Washington,36,Portland State,47
+4-Oct-08,Grambling State,40,Prairie View A&M,16,Dallas TX
+4-Oct-08,North Greenville,15,Presbyterian,22
+4-Oct-08,Penn State,20,Purdue,6
+4-Oct-08,McKendree,13,Quincy,20
+4-Oct-08,Brown,13,Rhode Island,37
+4-Oct-08,Washington U.,10,Rhodes,28
+4-Oct-08,RPI,27,Rochester,17
+4-Oct-08,Montana-Western,35,Rocky Mountain,32
+4-Oct-08,Manchester,31,Rose-Hulman,35
+4-Oct-08,Robert Morris,28,Sacred Heart,31
+4-Oct-08,Curry,21,Salve Regina,7
+4-Oct-08,Valparaiso,14,San Diego,42
+4-Oct-08,SW Oklahoma State,21,SE Oklahoma State,29
+4-Oct-08,Centre,28,Sewanee,16
+4-Oct-08,Christopher Newport,17,Shenandoah,7
+4-Oct-08,C.W. Post,10,Shippensburg,27
+4-Oct-08,Coe,20,Simpson,17
+4-Oct-08,McNeese State,46,South Dakota State,44
+4-Oct-08,Mayville State,7,South Dakota Tech,46
+4-Oct-08,Oregon,10,Southern California,44
+4-Oct-08,UTEP,40,Southern Miss,37
+4-Oct-08,Youngstown State,7,Southern Utah,14
+4-Oct-08,Kansas Wesleyan,40,Southwestern KS,0
+4-Oct-08,Utica,16,Springfield,12
+4-Oct-08,St Francis IL,16,St Ambrose,34
+4-Oct-08,American Int'l,37,St Anselm,6
+4-Oct-08,Shaw,16,St Augustine's,27
+4-Oct-08,Bemidji State,14,St Cloud State,48
+4-Oct-08,Ohio Dominican,0,St Francis IN,35
+4-Oct-08,Hartwick,31,St John Fisher,28
+4-Oct-08,Hobart,16,St Lawrence,10
+4-Oct-08,McPherson,28,St Mary KS,30
+4-Oct-08,Carleton,21,St Olaf,7
+4-Oct-08,Crown,51,St Scholastica,13
+4-Oct-08,Grove City,27,St Vincent,12
+4-Oct-08,Walsh,7,St Xavier,23
+4-Oct-08,SE Louisiana State,45,Stephen F. Austin,48
+4-Oct-08,Merchant Marine,35,Susquehanna,37
+4-Oct-08,Ottawa,23,SW Assem of God,3
+4-Oct-08,Central Oklahoma,43,SW Baptist,40
+4-Oct-08,Winona State,28,SW Minnesota State,35
+4-Oct-08,Friends,58,Tabor,6
+4-Oct-08,TAMU-Kingsville,27,Tarleton State,16
+4-Oct-08,San Diego State,7,Texas Christian,41
+4-Oct-08,Northern Illinois,9,Tennessee,13
+4-Oct-08,Eastern Kentucky,33,Tennessee Tech,12
+4-Oct-08,Tennessee State,30,Tennessee-Martin,27
+4-Oct-08,OK Panhandle State,33,Texas College,27
+4-Oct-08,Texas Southern,39,Texas St-San Marcos,63
+4-Oct-08,Grand Valley State,49,Tiffin,0
+4-Oct-08,Ball State,31,Toledo,0
+4-Oct-08,Northeastern,35,Towson,17
+4-Oct-08,William Penn,25,Trinity Int'l,24
+4-Oct-08,Nebraska-Omaha,20,Truman State,26
+4-Oct-08,Army,44,Tulane,13
+4-Oct-08,Rice,28,Tulsa,63
+4-Oct-08,Northern Colorado,30,UC-Davis,34
+4-Oct-08,Washington State,3,UCLA,28
+4-Oct-08,MIT,20,UMass-Dartmouth,51
+4-Oct-08,Wayne St NE,34,Upper Iowa,14
+4-Oct-08,Taylor,14,Urbana,13
+4-Oct-08,UW-Oshkosh,0,UW-Eau Claire,34
+4-Oct-08,UW-Stout,46,UW-Platteville,31
+4-Oct-08,UW-Stevens Point,30,UW-River Falls,36
+4-Oct-08,UW-La Crosse,0,UW-Whitewater,31
+4-Oct-08,Dickinson State,28,Valley City State,21
+4-Oct-08,Auburn,13,Vanderbilt,14
+4-Oct-08,Maryland,0,Virginia,31
+4-Oct-08,Western Kentucky,13,Virginia Tech,27
+4-Oct-08,St Paul's,17,Virginia Union,10
+4-Oct-08,Richmond,56,VMI,16
+4-Oct-08,Allegheny,7,Wabash,48
+4-Oct-08,Peru State,47,Waldorf,21
+4-Oct-08,Randolph-Macon,16,Washington and Lee,28
+4-Oct-08,UNC-Pembroke,35,Webber Int'l,2
+4-Oct-08,Montana,28,Weber State,45
+4-Oct-08,Henderson State,49,West Georgia,10
+4-Oct-08,Midwestern State,14,West Texas A&M,42
+4-Oct-08,Rutgers,17,West Virginia,24
+4-Oct-08,Concord,7,West Virginia State,41
+4-Oct-08,Union KY,45,West Virginia Tech,27
+4-Oct-08,Samford,21,Western Carolina,6
+4-Oct-08,Ohio U.,20,Western Michigan,41
+4-Oct-08,Adams State,28,Western New Mexico,21
+4-Oct-08,Western Washington,24,Western Oregon,13
+4-Oct-08,Maine Maritime,33,Westfield State,28
+4-Oct-08,Principia,6,Westminster MO,48
+4-Oct-08,Thiel,10,Westminster PA,16
+4-Oct-08,North Park,28,Wheaton,56
+4-Oct-08,Cal Lutheran,32,Whittier,7
+4-Oct-08,Willamette,32,Whitworth,23
+4-Oct-08,Lycoming,21,Widener,17
+4-Oct-08,Lebanon Valley,28,Wilkes,21
+4-Oct-08,Villanova,38,William & Mary,28
+4-Oct-08,Montclair State,14,William Paterson,13
+4-Oct-08,Howard,10,Winston-Salem State,34
+4-Oct-08,Ohio State,20,Wisconsin,17
+4-Oct-08,Earlham,14,Wooster,16
+4-Oct-08,Union NY,16,WPI,19
+4-Oct-08,Seton Hill,35,WV Wesleyan,32
+4-Oct-08,Holy Cross,28,Yale,31
+7-Oct-08,Troy,30,Florida Atlantic,17
+9-Oct-08,West Georgia,17,Arkansas-Monticello,50
+9-Oct-08,Winston-Salem State,0,Florida A&M,23
+9-Oct-08,Kentucky Christian,33,Georgetown KY,58
+9-Oct-08,Alabama-Birmingham,20,Houston,45
+9-Oct-08,Webber Int'l,7,Jacksonville FL,51
+9-Oct-08,North Alabama,52,North Greenville,7
+9-Oct-08,Eastern Illinois,26,Tennessee-Martin,29
+9-Oct-08,Clemson,7,Wake Forest,12
+10-Oct-08,Dickinson,34,Johns Hopkins,36
+10-Oct-08,Louisville,35,Memphis,28
+10-Oct-08,St Anselm,48,Merrimack,42
+10-Oct-08,Bentley,14,Southern Conn State,47
+10-Oct-08,Gallaudet,0,SUNY-Maritime,27
+11-Oct-08,Angelo State,7,Abilene Christian,51
+11-Oct-08,Fort Lewis,0,Adams State,6
+11-Oct-08,Bowling Green,37,Akron,33
+11-Oct-08,Grambling State,27,Alabama A&M,9
+11-Oct-08,Central Conn State,22,Albany NY,24
+11-Oct-08,Clark Atlanta,20,Albany St GA,34
+11-Oct-08,Hope,21,Albion,28
+11-Oct-08,Carnegie Mellon,41,Allegheny,14
+11-Oct-08,Stonehill,10,American Int'l,24
+11-Oct-08,Colby,2,Amherst,23
+11-Oct-08,Louisiana-Monroe,29,Arkansas State,37
+11-Oct-08,Jackson State,21,Arkansas-Pine Bluff,10
+11-Oct-08,Eastern Michigan,13,Army,17
+11-Oct-08,Pace,21,Assumption,14
+11-Oct-08,Arkansas,25,Auburn,22
+11-Oct-08,Wheaton,26,Augustana IL,14
+11-Oct-08,SW Minnesota State,20,Augustana SD,39
+11-Oct-08,Sewanee,22,Austin,33
+11-Oct-08,Wesleyan,35,Bates,8
+11-Oct-08,Iowa State,10,Baylor,38
+11-Oct-08,West Virginia Tech,27,Belhaven,29
+11-Oct-08,Concordia WI,17,Benedictine IL,15
+11-Oct-08,Lindenwood,36,Benedictine KS,33
+11-Oct-08,Tabor,14,Bethany KS,21
+11-Oct-08,St Olaf,7,Bethel MN,31
+11-Oct-08,Delaware State,26,Bethune-Cookman,20
+11-Oct-08,Valley City State,35,Black Hills State,40
+11-Oct-08,Principia,0,Blackburn,14
+11-Oct-08,East Stroudsburg,23,Bloomsburg,42
+11-Oct-08,Elizabeth City State,29,Bowie State,28
+11-Oct-08,New Mexico,3,Brigham Young,21
+11-Oct-08,New Jersey,48,Brockport State,51
+11-Oct-08,Hofstra,45,Bucknell,31
+11-Oct-08,Western Michigan,34,Buffalo,28
+11-Oct-08,Kean,45,Buffalo State,25
+11-Oct-08,Pomona-Pitzer,13,Cal Lutheran,44
+11-Oct-08,Lock Haven,3,California PA,56
+11-Oct-08,Butler,56,Campbell,7
+11-Oct-08,Augsburg,41,Carleton,49
+11-Oct-08,Montana-Western,21,Carroll MT,24
+11-Oct-08,Elmhurst,29,Carthage,26
+11-Oct-08,Wooster,7,Case Western Reserve,28
+11-Oct-08,Carson-Newman,21,Catawba,14
+11-Oct-08,Washington and Lee,29,Catholic,48
+11-Oct-08,Sam Houston State,46,Central Arkansas,48
+11-Oct-08,Dubuque,21,Central IA,24
+11-Oct-08,MidAmerica Nazarene,27,Central Methodist,24
+11-Oct-08,Temple,14,Central Michigan,24
+11-Oct-08,NW Missouri State,20,Central Missouri,13
+11-Oct-08,SE Oklahoma State,7,Central Oklahoma,41
+11-Oct-08,Langston,21,Central St OH,16
+11-Oct-08,Millsaps,46,Centre,26
+11-Oct-08,Western New Mexico,17,Chadron State,43
+11-Oct-08,Fairmont State,7,Charleston WV,21
+11-Oct-08,Oberlin,7,Chicago,33
+11-Oct-08,Livingstone,20,Chowan,41
+11-Oct-08,Greensboro,7,Christopher Newport,40
+11-Oct-08,Rutgers,10,Cincinnati,13
+11-Oct-08,La Verne,14,Claremont-Mudd-Scripps,44
+11-Oct-08,Slippery Rock,49,Clarion,14
+11-Oct-08,Wartburg,27,Coe,21
+11-Oct-08,Princeton,24,Colgate,27
+11-Oct-08,Texas Christian,13,Colorado State,7
+11-Oct-08,Lafayette,13,Columbia,3
+11-Oct-08,Miles,24,Concordia AL,29
+11-Oct-08,St Thomas,14,Concordia-Moorhead,13
+11-Oct-08,Simpson,34,Cornell IA,14
+11-Oct-08,Montclair State,17,Cortland State,23
+11-Oct-08,Minnesota-Morris,21,Crown,28
+11-Oct-08,MIT,27,Curry,59
+11-Oct-08,Minot State,28,Dakota State,17
+11-Oct-08,Doane,7,Dakota Wesleyan,14
+11-Oct-08,Yale,34,Dartmouth,7
+11-Oct-08,Drake,9,Dayton,27
+11-Oct-08,Maine,27,Delaware,10
+11-Oct-08,Lebanon Valley,14,Delaware Valley,26
+11-Oct-08,West Alabama,14,Delta State,21
+11-Oct-08,Birmingham-Southern,21,DePauw,31
+11-Oct-08,Humboldt State,6,Dixie State,16
+11-Oct-08,Concordia NE,14,Dordt,17
+11-Oct-08,Jacksonville State,35,Eastern Kentucky,38
+11-Oct-08,West Texas A&M,51,Eastern New Mexico,27
+11-Oct-08,Montana,19,Eastern Washington,3
+11-Oct-08,Indiana PA,17,Edinboro,24
+11-Oct-08,Plymouth State,36,Endicott,14
+11-Oct-08,Huntingdon,62,Eureka,0
+11-Oct-08,Avila,6,Evangel,19
+11-Oct-08,Cumberland TN,38,Faulkner,3
+11-Oct-08,Wilkes,24,FDU-Florham,14
+11-Oct-08,Maryville,10,Ferrum,24
+11-Oct-08,Michigan Tech,30,Findlay,28
+11-Oct-08,Coast Guard,29,Fitchburg State,44
+11-Oct-08,LSU,21,Florida,51
+11-Oct-08,Middle Tennessee State,21,Florida Int'l,31
+11-Oct-08,Missouri Southern,28,Fort Hays State,0
+11-Oct-08,Bridgewater St MA,42,Framingham State,35
+11-Oct-08,Bluffton,3,Franklin,63
+11-Oct-08,Ursinus,13,Franklin & Marshall,51
+11-Oct-08,Idaho,32,Fresno State,45
+11-Oct-08,SW Assem of God,9,Friends,31
+11-Oct-08,Western Carolina,21,Furman,28
+11-Oct-08,Mercyhurst,35,Gannon,32
+11-Oct-08,Pennsylvania,27,Georgetown DC,7
+11-Oct-08,Tennessee,14,Georgia,26
+11-Oct-08,Gardner-Webb,7,Georgia Tech,10
+11-Oct-08,Moravian,41,Gettysburg,48
+11-Oct-08,Culver-Stockton,17,Graceland,21
+11-Oct-08,Hillsdale,10,Grand Valley State,41
+11-Oct-08,Knox,14,Grinnell,21
+11-Oct-08,Geneva,13,Grove City,38
+11-Oct-08,Bowdoin,17,Hamilton,28
+11-Oct-08,Emory & Henry,0,Hampden-Sydney,17
+11-Oct-08,Rose-Hulman,44,Hanover,33
+11-Oct-08,Ouachita Baptist,30,Harding,27
+11-Oct-08,East Texas Baptist,12,Hardin-Simmons,40
+11-Oct-08,Alfred,19,Hartwick,24
+11-Oct-08,Cornell NY,17,Harvard,38
+11-Oct-08,Louisiana Tech,14,Hawai`i,24
+11-Oct-08,Ohio Northern,41,Heidelberg,0
+11-Oct-08,Valdosta State,27,Henderson State,23
+11-Oct-08,Denison,31,Hiram,13
+11-Oct-08,Union NY,38,Hobart,35
+11-Oct-08,Brown,34,Holy Cross,41
+11-Oct-08,Springfield,21,Husson,39
+11-Oct-08,Minnesota,27,Illinois,20
+11-Oct-08,Carroll WI,42,Illinois College,12
+11-Oct-08,Iowa,45,Indiana,9
+11-Oct-08,Ferris State,31,Indianapolis,24
+11-Oct-08,Wesley,23,Iona,12
+11-Oct-08,St Augustine's,13,Johnson C. Smith,19
+11-Oct-08,Olivet,30,Kalamazoo,35
+11-Oct-08,Colorado,14,Kansas,30
+11-Oct-08,Ottawa,14,Kansas Wesleyan,7
+11-Oct-08,Ohio U.,26,Kent State,19
+11-Oct-08,South Carolina,24,Kentucky,17
+11-Oct-08,Fort Valley State,59,Kentucky State,21
+11-Oct-08,Widener,17,King's PA,3
+11-Oct-08,Shippensburg,21,Kutztown,42
+11-Oct-08,Greenville,6,LaGrange,20
+11-Oct-08,Apprentice,38,Lake Erie,47
+11-Oct-08,Benedict,54,Lane,52
+11-Oct-08,Lake Forest,20,Lawrence,12
+11-Oct-08,Fordham,24,Lehigh,45
+11-Oct-08,Stony Brook,0,Liberty,33
+11-Oct-08,Whitworth,28,Linfield,31
+11-Oct-08,Buena Vista,23,Loras,20
+11-Oct-08,Mary Hardin-Baylor,35,Louisiana College,10
+11-Oct-08,Albright,13,Lycoming,23
+11-Oct-08,St Scholastica,21,Macalester,27
+11-Oct-08,Westminster MO,45,MacMurray,24
+11-Oct-08,Defiance,7,Manchester,20
+11-Oct-08,Aurora,45,Maranatha Baptist,6
+11-Oct-08,St Francis IN,63,Marian,14
+11-Oct-08,John Carroll,31,Marietta,6
+11-Oct-08,Bryant,7,Marist,34
+11-Oct-08,Newberry,6,Mars Hill,27
+11-Oct-08,Minn St-Moorhead,17,Mary,24
+11-Oct-08,Westfield State,34,Mass Maritime,3
+11-Oct-08,Dickinson State,32,Mayville State,0
+11-Oct-08,Trinity Int'l,3,McKendree,35
+11-Oct-08,Howard Payne,45,McMurry,33
+11-Oct-08,Texas St-San Marcos,45,McNeese State,42
+11-Oct-08,Sterling,28,McPherson,0
+11-Oct-08,Puget Sound,28,Menlo,35
+11-Oct-08,WPI,23,Merchant Marine,10
+11-Oct-08,Colorado St-Pueblo,3,Mesa State,26
+11-Oct-08,Averett,31,Methodist,17
+11-Oct-08,Central Florida,14,Miami FL,20
+11-Oct-08,Toledo,13,Michigan,10
+11-Oct-08,Tarleton State,37,Midwestern State,16
+11-Oct-08,Cheyney,6,Millersville,48
+11-Oct-08,Illinois Wesleyan,42,Millikin,0
+11-Oct-08,Concordia-St Paul,0,Minn St-Mankato,35
+11-Oct-08,St Cloud State,48,Minnesota-Crookston,7
+11-Oct-08,Northern St SD,7,Minnesota-Duluth,55
+11-Oct-08,Vanderbilt,14,Mississippi State,17
+11-Oct-08,Alcorn State,35,Mississippi Valley State,21
+11-Oct-08,Oklahoma State,28,Missouri,23
+11-Oct-08,Youngstown State,28,Missouri State,42
+11-Oct-08,Weber State,35,Montana State,12
+11-Oct-08,Rocky Mountain,7,Montana St-Northern,27
+11-Oct-08,Eastern Oregon,10,Montana Tech,13
+11-Oct-08,Hastings,13,Morningside,63
+11-Oct-08,Capital,7,Mount Union,49
+11-Oct-08,Anderson,10,Mt St Joseph,9
+11-Oct-08,Juniata,7,Muhlenberg,38
+11-Oct-08,Tennessee Tech,21,Murray State,51
+11-Oct-08,Dana,7,Nebraska Wesleyan,42
+11-Oct-08,New Mexico Highlands,14,Nebraska-Kearney,58
+11-Oct-08,Missouri Western,14,Nebraska-Omaha,42
+11-Oct-08,New Mexico State,48,Nevada,45
+11-Oct-08,William & Mary,38,New Hampshire,34
+11-Oct-08,Notre Dame,24,North Carolina,29
+11-Oct-08,Morgan State,41,North Carolina A&T,3
+11-Oct-08,Western Illinois,27,North Dakota State,22
+11-Oct-08,North Central,35,North Park,15
+11-Oct-08,Louisiana-Lafayette,59,North Texas,30
+11-Oct-08,Massachusetts,28,Northeastern,24
+11-Oct-08,Portland State,17,Northern Arizona,37
+11-Oct-08,Idaho State,9,Northern Colorado,29
+11-Oct-08,Miami OH,13,Northern Illinois,17
+11-Oct-08,Illinois State,17,Northern Iowa,31
+11-Oct-08,Michigan State,37,Northwestern,20
+11-Oct-08,Midland Lutheran,10,Northwestern IA,21
+11-Oct-08,Martin Luther,10,Northwestern MN,45
+11-Oct-08,Nicholls State,28,Northwestern State,36
+11-Oct-08,Ashland,43,Northwood,24
+11-Oct-08,Ithaca,41,Norwich,6
+11-Oct-08,St Xavier,17,Ohio Dominican,14
+11-Oct-08,Purdue,3,Ohio State,16
+11-Oct-08,Kenyon,8,Ohio Wesleyan,24
+11-Oct-08,UCLA,24,Oregon,31
+11-Oct-08,Washington State,13,Oregon State,66
+11-Oct-08,Baldwin-Wallace,28,Otterbein,42
+11-Oct-08,Gustavus Adolphus,24,Pacific Lutheran,14
+11-Oct-08,NW Oklahoma State,45,Peru State,21
+11-Oct-08,Bethel TN,42,Pikeville,10
+11-Oct-08,Truman State,28,Pittsburg State,45
+11-Oct-08,Alabama State,6,Prairie View A&M,27
+11-Oct-08,North Carolina Central,24,Presbyterian,28
+11-Oct-08,Olivet Nazarene,7,Quincy,20
+11-Oct-08,Occidental,28,Redlands,15
+11-Oct-08,James Madison,38,Richmond,31
+11-Oct-08,Beloit,0,Ripon,30
+11-Oct-08,Duquesne,27,Robert Morris,34
+11-Oct-08,Concordia IL,38,Rockford,41
+11-Oct-08,Western Conn State,18,Rowan,49
+11-Oct-08,Tiffin,14,Saginaw Valley State,33
+11-Oct-08,Nichols,12,Salve Regina,28
+11-Oct-08,Appalachian State,35,Samford,24
+11-Oct-08,Morehead State,17,San Diego,41
+11-Oct-08,Air Force,35,San Diego State,10
+11-Oct-08,Utah State,7,San Jos‚ State,30
+11-Oct-08,Charleston Southern,29,Savannah State,20
+11-Oct-08,West Virginia State,28,Seton Hill,35
+11-Oct-08,Concord,7,Shepherd,55
+11-Oct-08,Lambuth,42,Shorter,38
+11-Oct-08,Briar Cliff,0,Sioux Falls,42
+11-Oct-08,Tulsa,37,SMU,31
+11-Oct-08,Norfolk State,23,South Carolina State,24
+11-Oct-08,Missouri S&T,3,South Dakota,34
+11-Oct-08,Jamestown,27,South Dakota Tech,19
+11-Oct-08,Arkansas Tech,42,Southern Arkansas,45
+11-Oct-08,Arizona State,0,Southern California,28
+11-Oct-08,Indiana State,7,Southern Illinois,60
+11-Oct-08,Boise State,24,Southern Miss,7
+11-Oct-08,East Central OK,37,Southern Nazarene,30
+11-Oct-08,Western Oregon,35,Southern Oregon,3
+11-Oct-08,Texas Southern,14,Southern U.,45
+11-Oct-08,Frostburg State,21,Southern Virginia,13
+11-Oct-08,Bethel KS,38,Southwestern KS,18
+11-Oct-08,Iowa Wesleyan,13,St Francis IL,31
+11-Oct-08,Sacred Heart,41,St Francis PA,24
+11-Oct-08,Salisbury,58,St John Fisher,52
+11-Oct-08,Hamline,7,St John's MN,40
+11-Oct-08,Haskell,6,St Mary KS,37
+11-Oct-08,Monmouth IL,31,St Norbert,22
+11-Oct-08,Virginia State,25,St Paul's,7
+11-Oct-08,Arizona,23,Stanford,24
+11-Oct-08,Kentucky Wesleyan,0,Stephen F. Austin,49
+11-Oct-08,Edward Waters,16,Stillman,20
+11-Oct-08,Rochester,13,Susquehanna,28
+11-Oct-08,Grand View,14,SW Baptist,52
+11-Oct-08,Northeastern St OK,16,SW Oklahoma State,17
+11-Oct-08,TAMU-Commerce,0,TAMU-Kingsville,35
+11-Oct-08,Malone,42,Taylor,17
+11-Oct-08,Oklahoma,35,Texas,45,Dallas TX
+11-Oct-08,Kansas State,44,Texas A&M,30
+11-Oct-08,Sul Ross State,14,Texas Lutheran,24
+11-Oct-08,Nebraska,31,Texas Tech,37
+11-Oct-08,Elon,27,The Citadel,23
+11-Oct-08,Bethany WV,44,Thiel,50
+11-Oct-08,St Vincent,7,Thomas More,34
+11-Oct-08,Rhode Island,32,Towson,37
+11-Oct-08,Alma,20,Trine,45
+11-Oct-08,Tufts,27,Trinity CT,28
+11-Oct-08,Rhodes,0,Trinity TX,17
+11-Oct-08,Brevard,42,Tusculum,55
+11-Oct-08,Morehouse,27,Tuskegee,42,Columbus GA
+11-Oct-08,Southern Utah,26,UC-Davis,49
+11-Oct-08,Cumberlands KY,35,Union KY,28
+11-Oct-08,Tulane,21,UTEP,24
+11-Oct-08,Mount Ida,8,Utica,40
+11-Oct-08,UW-Eau Claire,35,UW-La Crosse,21
+11-Oct-08,UW-Whitewater,52,UW-River Falls,24
+11-Oct-08,UW-Platteville,0,UW-Stevens Point,3
+11-Oct-08,UW-Oshkosh,9,UW-Stout,7
+11-Oct-08,Davidson,29,Valparaiso,35
+11-Oct-08,East Carolina,20,Virginia,35
+11-Oct-08,Lincoln PA,6,Virginia Union,68
+11-Oct-08,Campbellsville,41,Virginia-Wise,61
+11-Oct-08,Coastal Carolina,20,VMI,47
+11-Oct-08,Monmouth NJ,31,Wagner,17
+11-Oct-08,Luther,31,Waldorf,0
+11-Oct-08,Urbana,21,Walsh,30
+11-Oct-08,Emporia State,6,Washburn,14
+11-Oct-08,Wabash,37,Washington U.,12
+11-Oct-08,Northern Michigan,10,Wayne St MI,24
+11-Oct-08,Bemidji State,11,Wayne St NE,30
+11-Oct-08,Westminster PA,26,Waynesburg,63
+11-Oct-08,C.W. Post,7,West Chester,17
+11-Oct-08,Glenville State,42,West Liberty State,39
+11-Oct-08,Syracuse,6,West Virginia,17
+11-Oct-08,Ball State,24,Western Kentucky,7
+11-Oct-08,UMass-Dartmouth,31,Western New England,38
+11-Oct-08,Colorado Mines,41,Western St CO,13
+11-Oct-08,Central Washington,50,Western Washington,28,Seattle WA
+11-Oct-08,Chapman,35,Whittier,21
+11-Oct-08,Lewis & Clark,10,Willamette,76
+11-Oct-08,Baker,38,William Jewell,28
+11-Oct-08,Morrisville State,14,William Paterson,27
+11-Oct-08,St Ambrose,41,William Penn,21
+11-Oct-08,Middlebury,45,Williams,50
+11-Oct-08,Muskingum,20,Wilmington,22
+11-Oct-08,Lenoir-Rhyne,27,Wingate,35
+11-Oct-08,Upper Iowa,14,Winona State,49
+11-Oct-08,Penn State,48,Wisconsin,7
+11-Oct-08,Lakeland,26,Wisconsin Lutheran,7
+11-Oct-08,Earlham,13,Wittenberg,45
+11-Oct-08,Chattanooga,7,Wofford,56
+11-Oct-08,Maine Maritime,31,Worcester State,32
+11-Oct-08,UNC-Pembroke,36,WV Wesleyan,14
+11-Oct-08,Utah,40,Wyoming,7
+12-Oct-08,Fayetteville State,12,Shaw,19
+16-Oct-08,North Alabama,28,Delta State,34
+16-Oct-08,Western St CO,19,Mesa State,29
+16-Oct-08,Florida State,26,North Carolina State,17
+16-Oct-08,Mary,34,Northern St SD,31
+16-Oct-08,Brigham Young,7,Texas Christian,32
+16-Oct-08,Tennessee-Martin,35,Tennessee Tech,7
+17-Oct-08,Hawai`i,7,Boise State,27
+18-Oct-08,Mississippi,20,Alabama,24
+18-Oct-08,Alcorn State,13,Alabama A&M,20
+18-Oct-08,Marshall,21,Alabama-Birmingham,23
+18-Oct-08,Adrian,28,Albion,6
+18-Oct-08,King's PA,0,Albright,16
+18-Oct-08,Kalamazoo,24,Alma,56
+18-Oct-08,Pace,20,American Int'l,42
+18-Oct-08,Franklin,56,Anderson,27
+18-Oct-08,SE Oklahoma State,35,Angelo State,0
+18-Oct-08,California,27,Arizona,42
+18-Oct-08,West Alabama,14,Arkansas-Monticello,27
+18-Oct-08,Prairie View A&M,15,Arkansas-Pine Bluff,0
+18-Oct-08,Saginaw Valley State,28,Ashland,31
+18-Oct-08,Concordia-Moorhead,40,Augsburg,18
+18-Oct-08,Concordia WI,19,Aurora,21
+18-Oct-08,Central Methodist,23,Avila,7
+18-Oct-08,Evangel,9,Baker,45
+18-Oct-08,Illinois College,58,Beloit,42
+18-Oct-08,Minnesota-Crookston,27,Bemidji State,41
+18-Oct-08,Maranatha Baptist,0,Benedictine IL,44
+18-Oct-08,Peru State,13,Benedictine KS,36
+18-Oct-08,Merrimack,27,Bentley,11
+18-Oct-08,Southern Nazarene,24,Bethel KS,25
+18-Oct-08,West Virginia Tech,19,Bethel TN,56
+18-Oct-08,Austin,48,Birmingham-Southern,29
+18-Oct-08,Manchester,17,Bluffton,7
+18-Oct-08,Virginia Tech,23,Boston College,28
+18-Oct-08,Trinity CT,40,Bowdoin,16
+18-Oct-08,Miami OH,27,Bowling Green,20
+18-Oct-08,Dakota Wesleyan,41,Briar Cliff,7
+18-Oct-08,Coast Guard,7,Bridgewater St MA,38
+18-Oct-08,Robert Morris,7,Bryant,20
+18-Oct-08,Luther,6,Buena Vista,3
+18-Oct-08,Army,24,Buffalo,27
+18-Oct-08,Millersville,38,C.W. Post,55
+18-Oct-08,Belhaven,33,Campbellsville,35
+18-Oct-08,Gustavus Adolphus,30,Carleton,29
+18-Oct-08,Lenoir-Rhyne,21,Carson-Newman,62
+18-Oct-08,Tusculum,35,Catawba,37
+18-Oct-08,Duquesne,23,Central Conn State,35
+18-Oct-08,Western Michigan,28,Central Michigan,38
+18-Oct-08,Occidental,31,Chapman,28
+18-Oct-08,Seton Hill,21,Charleston WV,44
+18-Oct-08,Elon,42,Chattanooga,7
+18-Oct-08,Bloomsburg,43,Cheyney,7
+18-Oct-08,Macalester,6,Chicago,24
+18-Oct-08,Cal Lutheran,23,Claremont-Mudd-Scripps,14
+18-Oct-08,Morehouse,2,Clark Atlanta,29
+18-Oct-08,Georgia Tech,21,Clemson,17
+18-Oct-08,North Carolina Central,10,Coastal Carolina,35
+18-Oct-08,Central IA,27,Coe,10
+18-Oct-08,Hamilton,13,Colby,16
+18-Oct-08,Kansas State,13,Colorado,14
+18-Oct-08,Adams State,0,Colorado Mines,23
+18-Oct-08,New Mexico Highlands,14,Colorado St-Pueblo,21
+18-Oct-08,Glenville State,34,Concord,14
+18-Oct-08,Lakeland,32,Concordia IL,35
+18-Oct-08,Morningside,49,Concordia NE,0
+18-Oct-08,SW Minnesota State,38,Concordia-St Paul,28
+18-Oct-08,Colgate,38,Cornell NY,22
+18-Oct-08,William Jewell,23,Culver-Stockton,16
+18-Oct-08,Virginia-Wise,27,Cumberland TN,14
+18-Oct-08,Georgetown KY,20,Cumberlands KY,35
+18-Oct-08,Waldorf,14,Dana,42
+18-Oct-08,Holy Cross,44,Dartmouth,26
+18-Oct-08,Dayton,41,Davidson,22
+18-Oct-08,Rose-Hulman,28,Defiance,21
+18-Oct-08,William & Mary,27,Delaware,3
+18-Oct-08,North Carolina A&T,7,Delaware State,42
+18-Oct-08,Allegheny,10,Denison,13
+18-Oct-08,Black Hills State,6,Dickinson State,16
+18-Oct-08,Northwestern IA,43,Doane,9
+18-Oct-08,Campbell,0,Drake,45
+18-Oct-08,Cornell IA,10,Dubuque,31
+18-Oct-08,Miami FL,49,Duke,31
+18-Oct-08,Hiram,41,Earlham,49
+18-Oct-08,Memphis,10,East Carolina,30
+18-Oct-08,Kutztown,3,East Stroudsburg,27
+18-Oct-08,Louisiana College,27,East Texas Baptist,20
+18-Oct-08,SE Missouri State,21,Eastern Illinois,24
+18-Oct-08,Akron,42,Eastern Michigan,35
+18-Oct-08,Montana St-Northern,14,Eastern Oregon,42
+18-Oct-08,North Park,21,Elmhurst,42
+18-Oct-08,Randolph-Macon,10,Emory & Henry,24
+18-Oct-08,Curry,46,Endicott,27
+18-Oct-08,Johnson C. Smith,3,Fayetteville State,48
+18-Oct-08,Delaware Valley,14,FDU-Florham,19
+18-Oct-08,Wayne St MI,19,Ferris State,0
+18-Oct-08,Grand Valley State,34,Findlay,10
+18-Oct-08,Worcester State,28,Fitchburg State,42
+18-Oct-08,Yale,10,Fordham,12
+18-Oct-08,Chadron State,48,Fort Lewis,7
+18-Oct-08,Benedict,6,Fort Valley State,22
+18-Oct-08,The Citadel,20,Furman,34
+18-Oct-08,Southern Virginia,44,Gallaudet,9
+18-Oct-08,California PA,42,Gannon,24
+18-Oct-08,Presbyterian,21,Gardner-Webb,47
+18-Oct-08,Waynesburg,34,Geneva,28
+18-Oct-08,Bucknell,27,Georgetown DC,24
+18-Oct-08,Vanderbilt,14,Georgia,24
+18-Oct-08,Appalachian State,37,Georgia Southern,36
+18-Oct-08,Alabama State,7,Grambling State,27
+18-Oct-08,Shenandoah,35,Greensboro,14
+18-Oct-08,Thomas More,35,Grove City,14
+18-Oct-08,Bridgewater VA,27,Guilford,20
+18-Oct-08,Bethel MN,9,Hamline,7
+18-Oct-08,Norfolk State,17,Hampton,35
+18-Oct-08,Mt St Joseph,37,Hanover,19
+18-Oct-08,Becker,12,Hartwick,49
+18-Oct-08,Lehigh,24,Harvard,27
+18-Oct-08,McPherson,43,Haskell,14
+18-Oct-08,Nebraska Wesleyan,7,Hastings,3
+18-Oct-08,Northern Michigan,25,Hillsdale,49
+18-Oct-08,Morgan State,31,Howard,30
+18-Oct-08,Hardin-Simmons,60,Howard Payne,13
+18-Oct-08,Central Washington,34,Humboldt State,14
+18-Oct-08,Blackburn,0,Huntingdon,45
+18-Oct-08,Northern Arizona,52,Idaho State,30
+18-Oct-08,Indiana,13,Illinois,55
+18-Oct-08,Missouri State,34,Illinois State,28
+18-Oct-08,Augustana IL,21,Illinois Wesleyan,13
+18-Oct-08,Mercyhurst,10,Indiana PA,42
+18-Oct-08,Wisconsin,16,Iowa,38
+18-Oct-08,Nebraska,35,Iowa State,7
+18-Oct-08,Quincy,35,Iowa Wesleyan,28
+18-Oct-08,Frostburg State,24,Ithaca,51
+18-Oct-08,Murray State,21,Jacksonville State,31
+18-Oct-08,Mayville State,0,Jamestown,51
+18-Oct-08,Capital,3,John Carroll,13
+18-Oct-08,Gettysburg,24,Juniata,20
+18-Oct-08,Friends,42,Kansas Wesleyan,30
+18-Oct-08,Brockport State,36,Kean,34
+18-Oct-08,Arkansas,20,Kentucky,21
+18-Oct-08,Trinity Bible,6,Kentucky Christian,50,South Point OH
+18-Oct-08,Oberlin,31,Kenyon,28
+18-Oct-08,Lawrence,25,Knox,28
+18-Oct-08,Pomona-Pitzer,37,La Verne,45
+18-Oct-08,Westminster MO,20,LaGrange,37
+18-Oct-08,Grinnell,16,Lake Forest,24
+18-Oct-08,Faulkner,31,Lambuth,66
+18-Oct-08,Widener,13,Lebanon Valley,20
+18-Oct-08,Linfield,55,Lewis & Clark,7
+18-Oct-08,Lafayette,35,Liberty,21
+18-Oct-08,Central St OH,36,Lincoln MO,17
+18-Oct-08,Elizabeth City State,70,Lincoln PA,6
+18-Oct-08,Graceland,3,Lindenwood,49
+18-Oct-08,St Augustine's,28,Livingstone,6
+18-Oct-08,Clarion,24,Lock Haven,21
+18-Oct-08,Idaho,14,Louisiana Tech,46
+18-Oct-08,Arkansas State,23,Louisiana-Lafayette,28
+18-Oct-08,North Texas,23,Louisiana-Monroe,35
+18-Oct-08,Middle Tennessee State,23,Louisville,42
+18-Oct-08,Greenville,45,MacMurray,29
+18-Oct-08,Hofstra,40,Maine,41
+18-Oct-08,Mass Maritime,7,Maine Maritime,26
+18-Oct-08,Grand View,21,Marian,38
+18-Oct-08,Brevard,14,Mars Hill,28
+18-Oct-08,Crown,41,Martin Luther,35
+18-Oct-08,Mississippi College,14,Mary Hardin-Baylor,26
+18-Oct-08,Wake Forest,0,Maryland,26
+18-Oct-08,Christopher Newport,38,Maryville,31
+18-Oct-08,Richmond,30,Massachusetts,15
+18-Oct-08,Muhlenberg,49,McDaniel,6
+18-Oct-08,Ferrum,31,Methodist,13
+18-Oct-08,Ohio State,45,Michigan State,7
+18-Oct-08,Indianapolis,28,Michigan Tech,31
+18-Oct-08,Missouri Valley,25,MidAmerica Nazarene,43
+18-Oct-08,Bates,14,Middlebury,38
+18-Oct-08,Dordt,0,Midland Lutheran,27
+18-Oct-08,Kentucky State,23,Miles,29
+18-Oct-08,Sewanee,17,Millsaps,38
+18-Oct-08,Minn St-Mankato,52,Minn St-Moorhead,0
+18-Oct-08,South Dakota Tech,16,Minot State,25
+18-Oct-08,Savannah State,20,Mississippi Valley State,22
+18-Oct-08,Kentucky Wesleyan,7,Missouri S&T,58
+18-Oct-08,Central Missouri,47,Missouri Southern,14
+18-Oct-08,Emporia State,21,Missouri Western,28
+18-Oct-08,Western New England,15,MIT,48
+18-Oct-08,Ripon,35,Monmouth IL,38
+18-Oct-08,Sacramento State,7,Montana,43
+18-Oct-08,Eastern Washington,34,Montana State,17
+18-Oct-08,Montana Tech,24,Montana-Western,17
+18-Oct-08,Buffalo State,28,Montclair State,45
+18-Oct-08,Franklin & Marshall,20,Moravian,23
+18-Oct-08,Jacksonville FL,40,Morehead State,9
+18-Oct-08,Heidelberg,0,Mount Union,49
+18-Oct-08,Baldwin-Wallace,42,Muskingum,7
+18-Oct-08,Pittsburgh,42,Navy,21
+18-Oct-08,Utah State,17,Nevada,44
+18-Oct-08,William Paterson,7,New Jersey,24
+18-Oct-08,San Diego State,7,New Mexico,70
+18-Oct-08,San Jos‚ State,31,New Mexico State,14
+18-Oct-08,Wingate,21,Newberry,32
+18-Oct-08,Stephen F. Austin,50,Nicholls State,39
+18-Oct-08,Plymouth State,36,Nichols,9
+18-Oct-08,Averett,24,North Carolina Wesleyan,49
+18-Oct-08,Carthage,24,North Central,31
+18-Oct-08,Western Washington,32,North Dakota,42
+18-Oct-08,New Hampshire,33,Northeastern,21
+18-Oct-08,SW Baptist,20,Northeastern St OK,45
+18-Oct-08,Toledo,7,Northern Illinois,38
+18-Oct-08,North Dakota State,13,Northern Iowa,23
+18-Oct-08,Purdue,26,Northwestern,48
+18-Oct-08,St John Fisher,45,Norwich,6
+18-Oct-08,Fort Hays State,7,NW Missouri State,56
+18-Oct-08,OK Panhandle State,19,NW Oklahoma State,45
+18-Oct-08,Marietta,0,Ohio Northern,28
+18-Oct-08,Case Western Reserve,35,Ohio Wesleyan,7
+18-Oct-08,Kansas,31,Oklahoma,45
+18-Oct-08,Baylor,6,Oklahoma State,34
+18-Oct-08,Trinity Int'l,14,Olivet Nazarene,44
+18-Oct-08,Bethany KS,14,Ottawa,49
+18-Oct-08,Wilmington,14,Otterbein,30
+18-Oct-08,Southern Arkansas,14,Ouachita Baptist,30
+18-Oct-08,Willamette,45,Pacific Lutheran,18
+18-Oct-08,Michigan,17,Penn State,46
+18-Oct-08,Columbia,10,Pennsylvania,15
+18-Oct-08,Nebraska-Omaha,28,Pittsburg State,35
+18-Oct-08,Brown,31,Princeton,10
+18-Oct-08,Eureka,47,Principia,19
+18-Oct-08,Villanova,44,Rhode Island,7
+18-Oct-08,Colorado College,7,Rhodes,28
+18-Oct-08,Southern Miss,40,Rice,45
+18-Oct-08,Merchant Marine,14,Rochester,30
+18-Oct-08,Carroll MT,59,Rocky Mountain,13
+18-Oct-08,Morrisville State,14,Rowan,58
+18-Oct-08,Susquehanna,14,RPI,35
+18-Oct-08,Connecticut,10,Rutgers,12
+18-Oct-08,Albany NY,26,Sacred Heart,21
+18-Oct-08,Lake Erie,15,Salisbury,39
+18-Oct-08,McNeese State,28,Sam Houston State,17
+18-Oct-08,Northwestern State,21,SE Louisiana State,26
+18-Oct-08,Chowan,13,Shaw,68
+18-Oct-08,WV Wesleyan,12,Shepherd,27
+18-Oct-08,North Greenville,21,Shorter,37
+18-Oct-08,Edinboro,35,Slippery Rock,14
+18-Oct-08,Houston,44,SMU,38
+18-Oct-08,LSU,24,South Carolina,17
+18-Oct-08,Cal Poly SLO,42,South Dakota State,28
+18-Oct-08,Syracuse,13,South Florida,45
+18-Oct-08,St Anselm,0,Southern Conn State,56
+18-Oct-08,Azusa Pacific,14,Southern Oregon,16
+18-Oct-08,Florida A&M,52,Southern U.,49
+18-Oct-08,Mount Ida,23,Springfield,43
+18-Oct-08,McKendree,21,St Ambrose,7
+18-Oct-08,Minnesota-Duluth,38,St Cloud State,21
+18-Oct-08,Wagner,17,St Francis PA,13
+18-Oct-08,Fairmont State,14,St Joseph's IN,38
+18-Oct-08,Carroll WI,17,St Norbert,20
+18-Oct-08,Bowie State,21,St Paul's,7
+18-Oct-08,Northwestern MN,35,St Scholastica,14
+18-Oct-08,St John's MN,12,St Thomas,9
+18-Oct-08,Southwestern KS,14,Sterling,42
+18-Oct-08,Lane,20,Stillman,18
+18-Oct-08,Assumption,7,Stonehill,31
+18-Oct-08,Charleston Southern,19,Stony Brook,20
+18-Oct-08,McMurry,17,Sul Ross State,21
+18-Oct-08,Husson,49,SUNY-Maritime,14
+18-Oct-08,Bacone,27,SW Assem of God,28
+18-Oct-08,Central Oklahoma,23,SW Oklahoma State,16
+18-Oct-08,St Mary KS,53,Tabor,31
+18-Oct-08,East Central OK,15,TAMU-Commerce,27
+18-Oct-08,Midwestern State,38,TAMU-Kingsville,16
+18-Oct-08,Eastern New Mexico,21,Tarleton State,42
+18-Oct-08,Mississippi State,3,Tennessee,34
+18-Oct-08,Austin Peay,34,Tennessee State,37
+18-Oct-08,Missouri,31,Texas,56
+18-Oct-08,Texas Tech,43,Texas A&M,25
+18-Oct-08,Langston,25,Texas College,11,Lufkin TX
+18-Oct-08,Jackson State,30,Texas Southern,14
+18-Oct-08,Central Arkansas,31,Texas St-San Marcos,24
+18-Oct-08,Northwood,31,Tiffin,28
+18-Oct-08,Olivet,10,Trine,21
+18-Oct-08,DePauw,32,Trinity TX,45
+18-Oct-08,Florida Int'l,23,Troy,33
+18-Oct-08,Washburn,31,Truman State,17
+18-Oct-08,Williams,7,Tufts,17
+18-Oct-08,UTEP,35,Tulsa,77
+18-Oct-08,Albany St GA,20,Tuskegee,33
+18-Oct-08,Iona,24,UC-Davis,55
+18-Oct-08,Stanford,20,UCLA,23
+18-Oct-08,Salve Regina,33,UMass-Dartmouth,41
+18-Oct-08,Edward Waters,8,UNC-Pembroke,43
+18-Oct-08,Pikeville,24,Union KY,42
+18-Oct-08,St Lawrence,14,Union NY,35
+18-Oct-08,Air Force,29,UNLV,28
+18-Oct-08,Augustana SD,40,Upper Iowa,7
+18-Oct-08,St Xavier,35,Urbana,7
+18-Oct-08,Johns Hopkins,14,Ursinus,0
+18-Oct-08,Colorado State,16,Utah,49
+18-Oct-08,Alfred,27,Utica,10
+18-Oct-08,UW-River Falls,27,UW-Eau Claire,19
+18-Oct-08,UW-Platteville,6,UW-La Crosse,37
+18-Oct-08,UW-Whitewater,44,UW-Oshkosh,3
+18-Oct-08,UW-Stevens Point,19,UW-Stout,9
+18-Oct-08,Harding,13,Valdosta State,21
+18-Oct-08,Dakota State,10,Valley City State,40
+18-Oct-08,Butler,48,Valparaiso,21
+18-Oct-08,North Carolina,13,Virginia,16
+18-Oct-08,Virginia State,14,Virginia Union,7
+18-Oct-08,Malone,24,Walsh,21
+18-Oct-08,Loras,7,Wartburg,35
+18-Oct-08,St Vincent,20,Wash & Jeff,72
+18-Oct-08,Oregon State,34,Washington,13
+18-Oct-08,Hampden-Sydney,39,Washington and Lee,29
+18-Oct-08,Southern California,69,Washington State,0
+18-Oct-08,Winona State,18,Wayne St NE,55
+18-Oct-08,Concordia AL,9,Webber Int'l,14
+18-Oct-08,Northern Colorado,10,Weber State,17
+18-Oct-08,Apprentice,0,Wesley,48
+18-Oct-08,Amherst,17,Wesleyan,10
+18-Oct-08,Shippensburg,7,West Chester,25
+18-Oct-08,Arkansas Tech,49,West Georgia,24
+18-Oct-08,Abilene Christian,52,West Texas A&M,35
+18-Oct-08,West Liberty State,24,West Virginia State,34
+18-Oct-08,Cortland State,41,Western Conn State,14
+18-Oct-08,Indiana State,0,Western Illinois,56
+18-Oct-08,Florida Atlantic,24,Western Kentucky,20
+18-Oct-08,Nebraska-Kearney,55,Western New Mexico,34
+18-Oct-08,Dixie State,35,Western Oregon,42
+18-Oct-08,Framingham State,0,Westfield State,27
+18-Oct-08,Bethany WV,43,Westminster PA,46
+18-Oct-08,Millikin,15,Wheaton,37
+18-Oct-08,Redlands,53,Whittier,14
+18-Oct-08,Puget Sound,7,Whitworth,35
+18-Oct-08,Lycoming,13,Wilkes,27
+18-Oct-08,St Francis IL,27,William Penn,33
+18-Oct-08,Rockford,7,Wisconsin Lutheran,18
+18-Oct-08,Wabash,13,Wittenberg,10
+18-Oct-08,Western Carolina,14,Wofford,42
+18-Oct-08,Washington U.,13,Wooster,38
+18-Oct-08,Southern Illinois,33,Youngstown State,0
+21-Oct-08,Ohio U.,10,Temple,14
+23-Oct-08,New Mexico,10,Air Force,23
+23-Oct-08,Mercyhurst,24,Edinboro,21
+23-Oct-08,Union KY,27,Shorter,33
+23-Oct-08,Jacksonville State,30,Tennessee-Martin,31
+23-Oct-08,Auburn,17,West Virginia,34
+24-Oct-08,Boise State,33,San Jos‚ State,16
+24-Oct-08,FDU-Florham,7,Widener,27
+25-Oct-08,Tarleton State,17,Abilene Christian,37
+25-Oct-08,Mesa State,27,Adams State,30
+25-Oct-08,Hope,3,Adrian,39
+25-Oct-08,Alabama A&M,17,Alabama State,16,Birmingham AL
+25-Oct-08,St Francis PA,3,Albany NY,27
+25-Oct-08,Wilkes,10,Albright,17
+25-Oct-08,Texas Southern,30,Alcorn State,29
+25-Oct-08,Kenyon,22,Allegheny,27
+25-Oct-08,Tufts,17,Amherst,24
+25-Oct-08,West Texas A&M,27,Angelo State,0
+25-Oct-08,Furman,14,Appalachian State,26
+25-Oct-08,Southern California,17,Arizona,10
+25-Oct-08,Oregon,54,Arizona State,20
+25-Oct-08,Mississippi,23,Arkansas,21
+25-Oct-08,Henderson State,29,Arkansas Tech,21
+25-Oct-08,Lincoln MO,0,Arkansas-Pine Bluff,42
+25-Oct-08,Louisiana Tech,7,Army,14
+25-Oct-08,American Int'l,43,Assumption,24
+25-Oct-08,Wayne St NE,28,Augustana SD,7
+25-Oct-08,Rhodes,14,Austin,17
+25-Oct-08,Tennessee Tech,28,Austin Peay,31
+25-Oct-08,Greensboro,14,Averett,28
+25-Oct-08,Dixie State,30,Azusa Pacific,23
+25-Oct-08,Heidelberg,37,Baldwin-Wallace,34
+25-Oct-08,Eastern Michigan,16,Ball State,38
+25-Oct-08,Colby,21,Bates,31
+25-Oct-08,Salisbury,63,Becker,0
+25-Oct-08,Cumberland TN,46,Belhaven,43
+25-Oct-08,Stillman,35,Benedict,21
+25-Oct-08,Sterling,47,Bethany KS,0
+25-Oct-08,Waynesburg,24,Bethany WV,31
+25-Oct-08,Tabor,7,Bethel KS,54
+25-Oct-08,Minot State,23,Black Hills State,13
+25-Oct-08,Virginia Union,13,Bowie State,14
+25-Oct-08,Carson-Newman,34,Brevard,3
+25-Oct-08,Westfield State,21,Bridgewater St MA,35
+25-Oct-08,Emory & Henry,19,Bridgewater VA,14
+25-Oct-08,UNLV,35,Brigham Young,42
+25-Oct-08,Western Conn State,12,Brockport State,13
+25-Oct-08,Cornell NY,7,Brown,27
+25-Oct-08,Colgate,52,Bucknell,28
+25-Oct-08,Waldorf,0,Buena Vista,41
+25-Oct-08,Rowan,20,Buffalo State,7
+25-Oct-08,Morehead State,21,Butler,31
+25-Oct-08,East Stroudsburg,48,C.W. Post,42
+25-Oct-08,Chapman,7,Cal Lutheran,16
+25-Oct-08,Southern Utah,41,Cal Poly SLO,69
+25-Oct-08,UCLA,20,California,41
+25-Oct-08,Slippery Rock,10,California PA,31
+25-Oct-08,Otterbein,38,Capital,9
+25-Oct-08,Wittenberg,21,Carnegie Mellon,14
+25-Oct-08,Montana St-Northern,0,Carroll MT,37
+25-Oct-08,Knox,0,Carroll WI,14
+25-Oct-08,Augustana IL,40,Carthage,16
+25-Oct-08,SE Louisiana State,21,Central Arkansas,28
+25-Oct-08,Baker,52,Central Methodist,14
+25-Oct-08,Nebraska-Omaha,38,Central Missouri,33
+25-Oct-08,Midwestern State,33,Central Oklahoma,38
+25-Oct-08,Missouri S&T,28,Central St OH,29
+25-Oct-08,Western Oregon,31,Central Washington,38
+25-Oct-08,Birmingham-Southern,6,Centre,25
+25-Oct-08,Colorado Mines,17,Chadron State,34
+25-Oct-08,Lake Erie,34,Charleston WV,55
+25-Oct-08,Methodist,14,Christopher Newport,38
+25-Oct-08,Worcester State,14,Coast Guard,17
+25-Oct-08,Stony Brook,28,Coastal Carolina,24
+25-Oct-08,Dartmouth,13,Columbia,21
+25-Oct-08,Wisconsin Lutheran,17,Concordia WI,31
+25-Oct-08,Upper Iowa,14,Concordia-St Paul,23
+25-Oct-08,Cincinnati,16,Connecticut,40
+25-Oct-08,Central IA,29,Cornell IA,22
+25-Oct-08,William Paterson,0,Cortland State,38
+25-Oct-08,Jamestown,38,Dakota State,21
+25-Oct-08,Sioux Falls,38,Dakota Wesleyan,0
+25-Oct-08,Hastings,25,Dana,21
+25-Oct-08,Valparaiso,7,Dayton,43
+25-Oct-08,Anderson,13,Defiance,21
+25-Oct-08,Chicago,14,Denison,26
+25-Oct-08,Colorado College,34,DePauw,37
+25-Oct-08,Gettysburg,16,Dickinson,29
+25-Oct-08,Doane,43,Dordt,0
+25-Oct-08,Davidson,17,Drake,20
+25-Oct-08,Sacred Heart,29,Duquesne,17
+25-Oct-08,SW Oklahoma State,21,East Central OK,42
+25-Oct-08,Eastern Illinois,7,Eastern Kentucky,20
+25-Oct-08,TAMU-Kingsville,35,Eastern New Mexico,32
+25-Oct-08,Montana-Western,38,Eastern Oregon,41
+25-Oct-08,St Paul's,9,Elizabeth City State,39
+25-Oct-08,Wofford,55,Elon,20
+25-Oct-08,Truman State,24,Emporia State,35
+25-Oct-08,MacMurray,47,Eureka,34
+25-Oct-08,Culver-Stockton,17,Evangel,41
+25-Oct-08,WV Wesleyan,0,Fairmont State,31
+25-Oct-08,Northwood,13,Ferris State,19
+25-Oct-08,Kentucky,5,Florida,63
+25-Oct-08,Virginia Tech,20,Florida State,30
+25-Oct-08,Lafayette,48,Fordham,13
+25-Oct-08,Pittsburg State,34,Fort Hays State,7
+25-Oct-08,Miles,0,Fort Valley State,24
+25-Oct-08,Maine Maritime,51,Framingham State,0
+25-Oct-08,Southwestern KS,0,Friends,54
+25-Oct-08,VMI,27,Gardner-Webb,34
+25-Oct-08,Campbellsville,45,Georgetown KY,51
+25-Oct-08,Virginia,24,Georgia Tech,17
+25-Oct-08,West Virginia State,28,Glenville State,50
+25-Oct-08,Benedictine KS,30,Graceland,7
+25-Oct-08,Ashland,42,Grand Valley State,48
+25-Oct-08,Blackburn,14,Greenville,38
+25-Oct-08,Illinois College,41,Grinnell,14
+25-Oct-08,Augsburg,31,Gustavus Adolphus,34
+25-Oct-08,Williams,14,Hamilton,7
+25-Oct-08,Concordia-Moorhead,18,Hamline,17
+25-Oct-08,Catholic,33,Hampden-Sydney,21
+25-Oct-08,Arkansas-Monticello,46,Harding,43
+25-Oct-08,Sul Ross State,10,Hardin-Simmons,55
+25-Oct-08,Nevada,31,Hawai`i,38
+25-Oct-08,Case Western Reserve,50,Hiram,14
+25-Oct-08,Delaware,17,Hofstra,0
+25-Oct-08,Lehigh,21,Holy Cross,35
+25-Oct-08,Gallaudet,0,Husson,49
+25-Oct-08,New Mexico State,14,Idaho,20
+25-Oct-08,North Dakota State,25,Illinois State,7
+25-Oct-08,Elmhurst,24,Illinois Wesleyan,35
+25-Oct-08,Northwestern,19,Indiana,21
+25-Oct-08,Clarion,16,Indiana PA,66
+25-Oct-08,South Dakota State,49,Indiana State,9
+25-Oct-08,Texas A&M,49,Iowa State,35
+25-Oct-08,Utica,7,Ithaca,42
+25-Oct-08,Mississippi Valley State,27,Jackson State,29
+25-Oct-08,San Diego,29,Jacksonville FL,30
+25-Oct-08,Ohio Northern,21,John Carroll,14
+25-Oct-08,Chowan,36,Johnson C. Smith,51
+25-Oct-08,Moravian,23,Juniata,17
+25-Oct-08,Trine,36,Kalamazoo,35
+25-Oct-08,Texas Tech,63,Kansas,21
+25-Oct-08,Oklahoma,58,Kansas State,35
+25-Oct-08,Faulkner,23,Kentucky Christian,21
+25-Oct-08,St Joseph's IN,36,Kentucky Wesleyan,39
+25-Oct-08,Lebanon Valley,34,King's PA,7
+25-Oct-08,Millersville,17,Kutztown,26
+25-Oct-08,Occidental,40,La Verne,27
+25-Oct-08,Benedictine IL,0,Lakeland,26
+25-Oct-08,Bethel TN,28,Lambuth,46
+25-Oct-08,Clark Atlanta,12,Lane,13
+25-Oct-08,NW Oklahoma State,14,Langston,28
+25-Oct-08,Beloit,21,Lawrence,6
+25-Oct-08,Mars Hill,37,Lenoir-Rhyne,24
+25-Oct-08,Charleston Southern,0,Liberty,42
+25-Oct-08,Willamette,52,Linfield,28
+25-Oct-08,Shaw,55,Livingstone,7
+25-Oct-08,Gannon,26,Lock Haven,0
+25-Oct-08,Dubuque,6,Loras,42
+25-Oct-08,Howard Payne,7,Louisiana College,39
+25-Oct-08,Florida Atlantic,29,Louisiana-Monroe,28
+25-Oct-08,South Florida,20,Louisville,24
+25-Oct-08,Georgia,52,LSU,38
+25-Oct-08,Coe,22,Luther,19
+25-Oct-08,Delaware Valley,7,Lycoming,10
+25-Oct-08,Northeastern,0,Maine,20
+25-Oct-08,Urbana,6,Malone,22
+25-Oct-08,Hanover,35,Manchester,34
+25-Oct-08,Concordia IL,28,Maranatha Baptist,21
+25-Oct-08,Muskingum,22,Marietta,30
+25-Oct-08,Iona,7,Marist,28
+25-Oct-08,Macalester,14,Martin Luther,28
+25-Oct-08,St Cloud State,14,Mary,7
+25-Oct-08,North Carolina State,24,Maryland,27
+25-Oct-08,Fitchburg State,42,Mass Maritime,31
+25-Oct-08,Bryant,7,Massachusetts,42
+25-Oct-08,Valley City State,45,Mayville State,22
+25-Oct-08,William Penn,17,McKendree,14
+25-Oct-08,Texas Lutheran,18,McMurry,0
+25-Oct-08,Nicholls State,38,McNeese State,35
+25-Oct-08,Ottawa,45,McPherson,35
+25-Oct-08,Southern Miss,30,Memphis,36
+25-Oct-08,Whitworth,36,Menlo,34
+25-Oct-08,Hobart,24,Merchant Marine,0
+25-Oct-08,Wake Forest,10,Miami FL,16
+25-Oct-08,Kent State,54,Miami OH,21
+25-Oct-08,Michigan State,35,Michigan,21
+25-Oct-08,Northern St SD,26,Minn St-Moorhead,29
+25-Oct-08,Winona State,50,Minnesota-Crookston,26
+25-Oct-08,Bemidji State,21,Minnesota-Duluth,48
+25-Oct-08,East Texas Baptist,24,Mississippi College,21
+25-Oct-08,Middle Tennessee State,22,Mississippi State,31
+25-Oct-08,Colorado,0,Missouri,58
+25-Oct-08,Missouri Western,17,Missouri Southern,3
+25-Oct-08,Southern Illinois,23,Missouri State,17
+25-Oct-08,Avila,10,Missouri Valley,41
+25-Oct-08,Lake Forest,2,Monmouth IL,56
+25-Oct-08,Central Conn State,20,Monmouth NJ,30
+25-Oct-08,Rocky Mountain,17,Montana Tech,24
+25-Oct-08,New Jersey,0,Montclair State,15
+25-Oct-08,Albany St GA,19,Morehouse,24
+25-Oct-08,Delaware State,3,Morgan State,20
+25-Oct-08,Midland Lutheran,7,Morningside,38
+25-Oct-08,Kean,38,Morrisville State,28
+25-Oct-08,Hartwick,58,Mount Ida,27
+25-Oct-08,Franklin,40,Mt St Joseph,35
+25-Oct-08,Franklin & Marshall,6,Muhlenberg,17
+25-Oct-08,SMU,7,Navy,34
+25-Oct-08,Baylor,20,Nebraska,32
+25-Oct-08,Concordia NE,0,Nebraska Wesleyan,44
+25-Oct-08,Fort Lewis,0,Nebraska-Kearney,24
+25-Oct-08,Towson,14,New Hampshire,42
+25-Oct-08,Western New Mexico,14,New Mexico Highlands,17
+25-Oct-08,UMass-Dartmouth,33,Nichols,22
+25-Oct-08,Florida A&M,31,Norfolk State,28
+25-Oct-08,Valdosta State,23,North Alabama,41
+25-Oct-08,Boston College,24,North Carolina,45
+25-Oct-08,Howard,20,North Carolina A&T,21
+25-Oct-08,Edward Waters,21,North Greenville,45
+25-Oct-08,Millikin,35,North Park,15
+25-Oct-08,Troy,45,North Texas,17
+25-Oct-08,Weber State,42,Northern Arizona,14
+25-Oct-08,Montana,41,Northern Colorado,20
+25-Oct-08,Bowling Green,13,Northern Illinois,16
+25-Oct-08,Findlay,21,Northern Michigan,29
+25-Oct-08,Briar Cliff,0,Northwestern IA,35
+25-Oct-08,Minnesota-Morris,14,Northwestern MN,28
+25-Oct-08,Sam Houston State,16,Northwestern State,24
+25-Oct-08,Earlham,56,Oberlin,23
+25-Oct-08,Taylor,6,Ohio Dominican,24
+25-Oct-08,Penn State,13,Ohio State,6
+25-Oct-08,Bacone,34,OK Panhandle State,28
+25-Oct-08,Alma,28,Olivet,25
+25-Oct-08,St Ambrose,16,Olivet Nazarene,10
+25-Oct-08,Southern Conn State,40,Pace,17
+25-Oct-08,Virginia-Wise,14,Pikeville,6
+25-Oct-08,Rutgers,54,Pittsburgh,34
+25-Oct-08,Curry,17,Plymouth State,28
+25-Oct-08,Whittier,35,Pomona-Pitzer,42
+25-Oct-08,Idaho State,13,Portland State,36
+25-Oct-08,Southern U.,23,Prairie View A&M,24,Houston TX
+25-Oct-08,Harvard,24,Princeton,20
+25-Oct-08,LaGrange,59,Principia,13
+25-Oct-08,Pacific Lutheran,14,Puget Sound,7
+25-Oct-08,Minnesota,17,Purdue,6
+25-Oct-08,Frostburg State,12,Randolph-Macon,21
+25-Oct-08,Claremont-Mudd-Scripps,0,Redlands,48
+25-Oct-08,Georgetown DC,0,Richmond,48
+25-Oct-08,St Norbert,7,Ripon,19
+25-Oct-08,Aurora,28,Rockford,12
+25-Oct-08,Bluffton,14,Rose-Hulman,42
+25-Oct-08,Montana State,31,Sacramento State,20
+25-Oct-08,Michigan Tech,23,Saginaw Valley State,40
+25-Oct-08,MIT,34,Salve Regina,19
+25-Oct-08,The Citadel,10,Samford,28
+25-Oct-08,Colorado State,38,San Diego State,34
+25-Oct-08,Tennessee State,20,SE Missouri State,27
+25-Oct-08,Northeastern St OK,3,SE Oklahoma State,28
+25-Oct-08,Concord,0,Seton Hill,31
+25-Oct-08,Trinity TX,27,Sewanee,13
+25-Oct-08,North Carolina Wesleyan,47,Shenandoah,28
+25-Oct-08,Bloomsburg,21,Shippensburg,0
+25-Oct-08,Wartburg,21,Simpson,13
+25-Oct-08,Hampton,13,South Carolina State,35
+25-Oct-08,Dickinson State,24,South Dakota Tech,19
+25-Oct-08,Delta State,21,Southern Arkansas,3
+25-Oct-08,Texas College,13,Southern Nazarene,25
+25-Oct-08,Mary Hardin-Baylor,28,Southern Oregon,40
+25-Oct-08,Bentley,30,St Anselm,12
+25-Oct-08,Fayetteville State,20,St Augustine's,16
+25-Oct-08,Quincy,17,St Francis IL,20
+25-Oct-08,Walsh,12,St Francis IN,52
+25-Oct-08,Springfield,35,St John Fisher,38
+25-Oct-08,RPI,44,St Lawrence,8
+25-Oct-08,Kansas Wesleyan,28,St Mary KS,26
+25-Oct-08,St John's MN,20,St Olaf,14
+25-Oct-08,Trinity Bible,8,St Scholastica,47
+25-Oct-08,Carleton,31,St Thomas,33
+25-Oct-08,Geneva,42,St Vincent,19
+25-Oct-08,Marian,10,St Xavier,53
+25-Oct-08,Texas St-San Marcos,62,Stephen F. Austin,21
+25-Oct-08,Merrimack,21,Stonehill,16
+25-Oct-08,Haskell,14,SW Assem of God,66
+25-Oct-08,Ouachita Baptist,47,SW Baptist,45
+25-Oct-08,Minn St-Mankato,34,SW Minnesota State,14
+25-Oct-08,Wyoming,7,Texas Christian,54
+25-Oct-08,Alabama,29,Tennessee,9
+25-Oct-08,Oklahoma State,24,Texas,28
+25-Oct-08,Thiel,14,Thomas More,45
+25-Oct-08,Indianapolis,54,Tiffin,12
+25-Oct-08,Central Michigan,24,Toledo,23
+25-Oct-08,Middlebury,31,Trinity CT,34
+25-Oct-08,Iowa Wesleyan,24,Trinity Int'l,14
+25-Oct-08,Rice,42,Tulane,17
+25-Oct-08,Newberry,33,Tusculum,45
+25-Oct-08,Kentucky State,34,Tuskegee,52
+25-Oct-08,North Dakota,21,UC-Davis,34
+25-Oct-08,McDaniel,7,Ursinus,26
+25-Oct-08,Fresno State,30,Utah State,28
+25-Oct-08,UW-La Crosse,35,UW-Oshkosh,7
+25-Oct-08,UW-Eau Claire,20,UW-Platteville,10
+25-Oct-08,UW-Stout,29,UW-River Falls,19
+25-Oct-08,UW-Stevens Point,17,UW-Whitewater,16
+25-Oct-08,Duke,10,Vanderbilt,7
+25-Oct-08,James Madison,23,Villanova,19
+25-Oct-08,Lincoln PA,0,Virginia State,54
+25-Oct-08,Wooster,24,Wabash,45
+25-Oct-08,Robert Morris,35,Wagner,3
+25-Oct-08,Westminster PA,7,Wash & Jeff,34
+25-Oct-08,NW Missouri State,24,Washburn,21
+25-Oct-08,Notre Dame,33,Washington,7
+25-Oct-08,Guilford,34,Washington and Lee,27
+25-Oct-08,Ohio Wesleyan,3,Washington U.,24
+25-Oct-08,Hillsdale,7,Wayne St MI,14
+25-Oct-08,Wesley,42,Webber Int'l,13
+25-Oct-08,Bowdoin,17,Wesleyan,10
+25-Oct-08,West Georgia,10,West Alabama,48
+25-Oct-08,Cheyney,6,West Chester,60
+25-Oct-08,Shepherd,28,West Liberty State,29
+25-Oct-08,Cumberlands KY,28,West Virginia Tech,19
+25-Oct-08,Georgia Southern,38,Western Carolina,31
+25-Oct-08,Endicott,20,Western New England,27
+25-Oct-08,Colorado St-Pueblo,20,Western St CO,17
+25-Oct-08,Humboldt State,20,Western Washington,56
+25-Oct-08,Huntingdon,44,Westminster MO,19
+25-Oct-08,North Central,44,Wheaton,21
+25-Oct-08,Rhode Island,24,William & Mary,34
+25-Oct-08,Lindenwood,20,William Jewell,17
+25-Oct-08,Mount Union,55,Wilmington,0
+25-Oct-08,Catawba,24,Wingate,34
+25-Oct-08,Bethune-Cookman,27,Winston-Salem State,6
+25-Oct-08,Illinois,17,Wisconsin,27
+25-Oct-08,Rochester,14,WPI,21
+25-Oct-08,Pennsylvania,9,Yale,7
+25-Oct-08,Northern Iowa,21,Youngstown State,20
+26-Oct-08,Central Florida,19,Tulsa,49
+28-Oct-08,Houston,23,Marshall,37
+28-Oct-08,Buffalo,32,Ohio U.,19
+30-Oct-08,South Florida,10,Cincinnati,24
+30-Oct-08,Angelo State,24,Tarleton State,31
+30-Oct-08,West Georgia,14,Valdosta State,41
+31-Oct-08,Wofford,24,Appalachian State,70
+31-Oct-08,Minnesota-Morris,0,Macalester,25,Minneapolis MN
+31-Oct-08,St Scholastica,42,Martin Luther,77,Minneapolis MN
+31-Oct-08,Crown,7,Northwestern MN,44,Minneapolis MN
+31-Oct-08,Wagner,20,Sacred Heart,42
+1-Nov-08,Arkansas State,0,Alabama,35
+1-Nov-08,Monmouth NJ,17,Albany NY,35
+1-Nov-08,Alabama State,24,Alcorn State,17
+1-Nov-08,Adrian,45,Alma,24
+1-Nov-08,Bluffton,10,Anderson,38
+1-Nov-08,Webber Int'l,13,Apprentice,10
+1-Nov-08,Tulsa,23,Arkansas,30
+1-Nov-08,Air Force,16,Army,7
+1-Nov-08,St Thomas,20,Augsburg,22
+1-Nov-08,North Park,0,Augustana IL,52
+1-Nov-08,Wisconsin Lutheran,6,Aurora,51
+1-Nov-08,DePauw,31,Austin,28
+1-Nov-08,MidAmerica Nazarene,38,Avila,0
+1-Nov-08,Central Washington,36,Azusa Pacific,6
+1-Nov-08,Missouri Valley,22,Baker,26
+1-Nov-08,Ohio Northern,7,Baldwin-Wallace,10
+1-Nov-08,Missouri,31,Baylor,28
+1-Nov-08,Lambuth,63,Belhaven,13
+1-Nov-08,St Norbert,42,Beloit,21
+1-Nov-08,Mary,10,Bemidji State,31
+1-Nov-08,Kentucky State,35,Benedict,42
+1-Nov-08,Rockford,14,Benedictine IL,20
+1-Nov-08,William Jewell,3,Benedictine KS,47
+1-Nov-08,Pace,20,Bentley,24
+1-Nov-08,St Mary KS,26,Bethany KS,42
+1-Nov-08,Geneva,38,Bethany WV,23
+1-Nov-08,Gustavus Adolphus,17,Bethel MN,10
+1-Nov-08,North Carolina A&T,14,Bethune-Cookman,24
+1-Nov-08,West Chester,24,Bloomsburg,21
+1-Nov-08,Clemson,27,Boston College,21
+1-Nov-08,Bates,14,Bowdoin,55
+1-Nov-08,Virginia State,16,Bowie State,21
+1-Nov-08,Kent State,30,Bowling Green,45
+1-Nov-08,Dordt,16,Briar Cliff,27
+1-Nov-08,Washington and Lee,19,Bridgewater VA,32
+1-Nov-08,Duquesne,10,Bryant,24
+1-Nov-08,Jacksonville FL,45,Butler,9
+1-Nov-08,Occidental,24,Cal Lutheran,21
+1-Nov-08,Idaho State,10,Cal Poly SLO,49
+1-Nov-08,Oregon,16,California,26
+1-Nov-08,Davidson,49,Campbell,0
+1-Nov-08,Cumberlands KY,34,Campbellsville,27
+1-Nov-08,Muskingum,10,Capital,42
+1-Nov-08,Hamline,27,Carleton,28
+1-Nov-08,Lawrence,14,Carroll WI,34
+1-Nov-08,Wingate,33,Carson-Newman,35
+1-Nov-08,Chicago,24,Case Western Reserve,38
+1-Nov-08,Brevard,10,Catawba,24
+1-Nov-08,Loras,31,Central IA,28
+1-Nov-08,Missouri Western,42,Central Missouri,41
+1-Nov-08,East Central OK,17,Central Oklahoma,30
+1-Nov-08,VMI,21,Charleston Southern,31
+1-Nov-08,Chapman,21,Claremont-Mudd-Scripps,7
+1-Nov-08,Edinboro,35,Clarion,10
+1-Nov-08,Tuskegee,42,Clark Atlanta,20
+1-Nov-08,Buena Vista,19,Coe,10
+1-Nov-08,Lafayette,13,Colgate,21
+1-Nov-08,Birmingham-Southern,31,Colorado College,17
+1-Nov-08,Nebraska-Kearney,20,Colorado Mines,37
+1-Nov-08,Brigham Young,45,Colorado State,42
+1-Nov-08,Dana,17,Concordia NE,10
+1-Nov-08,Concordia IL,13,Concordia WI,46
+1-Nov-08,St Olaf,28,Concordia-Moorhead,25
+1-Nov-08,West Virginia,35,Connecticut,13
+1-Nov-08,Princeton,31,Cornell NY,26
+1-Nov-08,Central Methodist,38,Culver-Stockton,6
+1-Nov-08,Shorter,27,Cumberland TN,24
+1-Nov-08,Nichols,20,Curry,45
+1-Nov-08,Harvard,35,Dartmouth,7
+1-Nov-08,South Carolina State,23,Delaware State,17
+1-Nov-08,Widener,28,Delaware Valley,34
+1-Nov-08,Arkansas Tech,14,Delta State,48
+1-Nov-08,Muhlenberg,31,Dickinson,25
+1-Nov-08,Dakota State,15,Dickinson State,29
+1-Nov-08,Western Washington,20,Dixie State,14
+1-Nov-08,Morningside,49,Doane,27
+1-Nov-08,Simpson,35,Dubuque,26
+1-Nov-08,Mary Hardin-Baylor,27,East Texas Baptist,6
+1-Nov-08,Murray State,6,Eastern Illinois,34
+1-Nov-08,Sacramento State,15,Eastern Washington,13
+1-Nov-08,Virginia Union,13,Elizabeth City State,36
+1-Nov-08,Wheaton,23,Elmhurst,37
+1-Nov-08,Catholic,38,Emory & Henry,23
+1-Nov-08,UMass-Dartmouth,53,Endicott,35
+1-Nov-08,Seton Hill,41,Fairmont State,38
+1-Nov-08,West Virginia Tech,15,Faulkner,26
+1-Nov-08,Livingstone,20,Fayetteville State,55
+1-Nov-08,Lycoming,48,FDU-Florham,28
+1-Nov-08,Saginaw Valley State,17,Findlay,9
+1-Nov-08,Westfield State,37,Fitchburg State,30
+1-Nov-08,Georgia,10,Florida,49,Jacksonville FL
+1-Nov-08,Morgan State,13,Florida A&M,10
+1-Nov-08,Marist,21,Fordham,45
+1-Nov-08,New Mexico Highlands,17,Fort Lewis,3
+1-Nov-08,Albany St GA,31,Fort Valley State,7
+1-Nov-08,Rose-Hulman,7,Franklin,42
+1-Nov-08,McDaniel,0,Franklin & Marshall,20
+1-Nov-08,McPherson,17,Friends,41
+1-Nov-08,Mount Ida,38,Gallaudet,7
+1-Nov-08,Indiana PA,35,Gannon,10
+1-Nov-08,Lehigh,33,Georgetown DC,13
+1-Nov-08,Florida State,28,Georgia Tech,31
+1-Nov-08,Waldorf,14,Grand View,62
+1-Nov-08,Ferrum,46,Greensboro,21
+1-Nov-08,Middlebury,31,Hamilton,28
+1-Nov-08,Winston-Salem State,35,Hampton,30
+1-Nov-08,Defiance,31,Hanover,28
+1-Nov-08,Norwich,12,Hartwick,42
+1-Nov-08,Wilmington,23,Heidelberg,20
+1-Nov-08,Harding,32,Henderson State,33
+1-Nov-08,Ferris State,14,Hillsdale,34
+1-Nov-08,WPI,14,Hobart,31
+1-Nov-08,Bucknell,17,Holy Cross,34
+1-Nov-08,Olivet,13,Hope,38
+1-Nov-08,Norfolk State,49,Howard,12
+1-Nov-08,Mississippi College,30,Howard Payne,14
+1-Nov-08,Principia,0,Huntingdon,76
+1-Nov-08,San Jos‚ State,30,Idaho,24
+1-Nov-08,Iowa,24,Illinois,27
+1-Nov-08,Monmouth IL,78,Illinois College,17
+1-Nov-08,Youngstown State,44,Illinois State,54
+1-Nov-08,Central Michigan,37,Indiana,34
+1-Nov-08,Ashland,44,Indianapolis,37
+1-Nov-08,Springfield,8,Ithaca,37
+1-Nov-08,Austin Peay,22,Jacksonville State,35
+1-Nov-08,Delaware,7,James Madison,41
+1-Nov-08,Black Hills State,29,Jamestown,24
+1-Nov-08,Juniata,0,Johns Hopkins,12
+1-Nov-08,Shaw,62,Johnson C. Smith,35
+1-Nov-08,Kansas State,21,Kansas,52
+1-Nov-08,Sterling,26,Kansas Wesleyan,19
+1-Nov-08,Lake Erie,38,Kentucky Wesleyan,31
+1-Nov-08,Earlham,49,Kenyon,42
+1-Nov-08,Lake Forest,27,Knox,38
+1-Nov-08,C.W. Post,14,Kutztown,21
+1-Nov-08,Eureka,19,LaGrange,63
+1-Nov-08,Miles,2,Lane,52
+1-Nov-08,SW Assem of God,7,Langston,41
+1-Nov-08,Albright,31,Lebanon Valley,14
+1-Nov-08,Menlo,49,Lewis & Clark,20
+1-Nov-08,Missouri S&T,68,Lincoln MO,0
+1-Nov-08,St Paul's,23,Lincoln PA,20
+1-Nov-08,Evangel,7,Lindenwood,56
+1-Nov-08,Fresno State,35,Louisiana Tech,38
+1-Nov-08,Florida Int'l,20,Louisiana-Lafayette,49
+1-Nov-08,Troy,30,Louisiana-Monroe,31
+1-Nov-08,Tulane,10,LSU,35
+1-Nov-08,Blackburn,10,MacMurray,17
+1-Nov-08,Iona,7,Maine,55
+1-Nov-08,Coast Guard,34,Maine Maritime,42
+1-Nov-08,St Xavier,23,Malone,27
+1-Nov-08,Lakeland,29,Maranatha Baptist,14
+1-Nov-08,Tusculum,33,Mars Hill,28
+1-Nov-08,Framingham State,19,Mass Maritime,17
+1-Nov-08,California PA,17,Mercyhurst,6
+1-Nov-08,American Int'l,34,Merrimack,29
+1-Nov-08,Chadron State,27,Mesa State,16
+1-Nov-08,Maryville,38,Methodist,0
+1-Nov-08,Wisconsin,24,Michigan State,25
+1-Nov-08,Tiffin,28,Michigan Tech,32
+1-Nov-08,Nebraska Wesleyan,19,Midland Lutheran,17
+1-Nov-08,Eastern New Mexico,16,Midwestern State,59
+1-Nov-08,East Stroudsburg,45,Millersville,18
+1-Nov-08,Carthage,17,Millikin,13
+1-Nov-08,Upper Iowa,14,Minn St-Mankato,35
+1-Nov-08,Northwestern,24,Minnesota,17
+1-Nov-08,Minnesota-Duluth,63,Minnesota-Crookston,7
+1-Nov-08,Mayville State,13,Minot State,41
+1-Nov-08,Auburn,7,Mississippi,17
+1-Nov-08,Kentucky,14,Mississippi State,13
+1-Nov-08,Grambling State,35,Mississippi Valley State,14
+1-Nov-08,Plymouth State,27,MIT,14
+1-Nov-08,Northern Arizona,10,Montana,45
+1-Nov-08,Northern Colorado,7,Montana State,20
+1-Nov-08,Montana-Western,28,Montana St-Northern,38
+1-Nov-08,Carroll MT,10,Montana Tech,6
+1-Nov-08,Ursinus,7,Moravian,17
+1-Nov-08,Valparaiso,10,Morehead State,44
+1-Nov-08,Brockport State,55,Morrisville State,19
+1-Nov-08,John Carroll,7,Mount Union,41
+1-Nov-08,Manchester,6,Mt St Joseph,28
+1-Nov-08,Temple,27,Navy,33
+1-Nov-08,Fort Hays State,14,Nebraska-Omaha,27
+1-Nov-08,Hofstra,25,New Hampshire,45
+1-Nov-08,Cortland State,24,New Jersey,18
+1-Nov-08,Utah,13,New Mexico,10
+1-Nov-08,Boise State,49,New Mexico State,0
+1-Nov-08,Lenoir-Rhyne,14,Newberry,38
+1-Nov-08,Central Arkansas,17,Nicholls State,20
+1-Nov-08,Arkansas-Monticello,14,North Alabama,45
+1-Nov-08,Edward Waters,14,North Carolina Central,34
+1-Nov-08,Christopher Newport,27,North Carolina Wesleyan,26
+1-Nov-08,Illinois Wesleyan,7,North Central,30
+1-Nov-08,Indiana State,7,North Dakota State,34
+1-Nov-08,South Dakota,63,North Greenville,0
+1-Nov-08,Villanova,20,Northeastern,14
+1-Nov-08,Grand Valley State,45,Northern Michigan,14
+1-Nov-08,Wayne St MI,42,Northwood,21
+1-Nov-08,Pittsburgh,36,Notre Dame,33
+1-Nov-08,Emporia State,7,NW Missouri State,56
+1-Nov-08,Southern Nazarene,21,NW Oklahoma State,42
+1-Nov-08,Hiram,7,Ohio Wesleyan,31
+1-Nov-08,Nebraska,28,Oklahoma,62
+1-Nov-08,Iowa State,17,Oklahoma State,59
+1-Nov-08,Arizona State,25,Oregon State,27
+1-Nov-08,Bethel KS,21,Ottawa,31
+1-Nov-08,Marietta,0,Otterbein,55
+1-Nov-08,West Alabama,43,Ouachita Baptist,45
+1-Nov-08,Whitworth,40,Pacific Lutheran,29
+1-Nov-08,Brown,34,Pennsylvania,27
+1-Nov-08,Georgetown KY,59,Pikeville,21
+1-Nov-08,Washburn,17,Pittsburg State,48
+1-Nov-08,Redlands,52,Pomona-Pitzer,14
+1-Nov-08,Liberty,28,Presbyterian,31
+1-Nov-08,Linfield,32,Puget Sound,24
+1-Nov-08,Michigan,42,Purdue,48
+1-Nov-08,Trinity Int'l,9,Quincy,28
+1-Nov-08,Guilford,24,Randolph-Macon,55
+1-Nov-08,Massachusetts,49,Rhode Island,0
+1-Nov-08,Centre,23,Rhodes,15
+1-Nov-08,Grinnell,7,Ripon,50
+1-Nov-08,Central Conn State,14,Robert Morris,27
+1-Nov-08,Alfred,43,Rochester,14
+1-Nov-08,Eastern Oregon,21,Rocky Mountain,37
+1-Nov-08,Kean,22,Rowan,30
+1-Nov-08,Union NY,12,RPI,25
+1-Nov-08,Wesley,36,Salisbury,21
+1-Nov-08,Stephen F. Austin,31,Sam Houston State,34
+1-Nov-08,Furman,28,Samford,27
+1-Nov-08,Dayton,30,San Diego,22
+1-Nov-08,Concordia AL,7,Savannah State,23
+1-Nov-08,McNeese State,24,SE Louisiana State,14
+1-Nov-08,Eastern Kentucky,29,SE Missouri State,16
+1-Nov-08,Averett,33,Shenandoah,21
+1-Nov-08,Cheyney,7,Shippensburg,62
+1-Nov-08,Northwestern IA,0,Sioux Falls,19
+1-Nov-08,Lock Haven,7,Slippery Rock,45
+1-Nov-08,Tennessee,6,South Carolina,27
+1-Nov-08,Missouri State,13,South Dakota State,43
+1-Nov-08,Washington,0,Southern California,56
+1-Nov-08,Assumption,12,Southern Conn State,28
+1-Nov-08,North Dakota,21,Southern Illinois,40
+1-Nov-08,Alabama-Birmingham,14,Southern Miss,70
+1-Nov-08,Arkansas-Pine Bluff,24,Southern U.,31
+1-Nov-08,Kentucky Christian,27,Southern Virginia,30
+1-Nov-08,Tabor,32,Southwestern KS,29
+1-Nov-08,Iowa Wesleyan,0,St Ambrose,49
+1-Nov-08,Stonehill,35,St Anselm,0
+1-Nov-08,Chowan,31,St Augustine's,33
+1-Nov-08,Minn St-Moorhead,7,St Cloud State,42
+1-Nov-08,McKendree,14,St Francis IL,13
+1-Nov-08,Thiel,36,St Vincent,22
+1-Nov-08,Washington State,0,Stanford,58
+1-Nov-08,Morehouse,17,Stillman,16
+1-Nov-08,Gardner-Webb,34,Stony Brook,33
+1-Nov-08,Louisiana College,28,Sul Ross State,14
+1-Nov-08,Becker,26,SUNY-Maritime,36
+1-Nov-08,St Lawrence,49,Susquehanna,42
+1-Nov-08,St Joseph's IN,7,SW Baptist,38
+1-Nov-08,Northern St SD,32,SW Minnesota State,39
+1-Nov-08,OK Panhandle State,7,SW Oklahoma State,42
+1-Nov-08,Louisville,21,Syracuse,28
+1-Nov-08,SE Oklahoma State,28,TAMU-Commerce,24
+1-Nov-08,Abilene Christian,42,TAMU-Kingsville,17
+1-Nov-08,Marian,32,Taylor,23
+1-Nov-08,Tennessee Tech,14,Tennessee State,41
+1-Nov-08,Colorado,17,Texas A&M,24
+1-Nov-08,Bacone,20,Texas College,14
+1-Nov-08,Hardin-Simmons,52,Texas Lutheran,6
+1-Nov-08,Northwestern State,34,Texas St-San Marcos,31
+1-Nov-08,Texas,33,Texas Tech,39
+1-Nov-08,Georgia Southern,44,The Citadel,41
+1-Nov-08,Wash & Jeff,29,Thomas More,35
+1-Nov-08,William & Mary,34,Towson,14
+1-Nov-08,Albion,7,Trine,30
+1-Nov-08,Amherst,13,Trinity CT,30
+1-Nov-08,Millsaps,56,Trinity TX,27
+1-Nov-08,Missouri Southern,7,Truman State,38
+1-Nov-08,Colby,10,Tufts,17
+1-Nov-08,Concord,0,UNC-Pembroke,57
+1-Nov-08,Texas Christian,44,UNLV,14
+1-Nov-08,St Francis IN,62,Urbana,20
+1-Nov-08,Hawai`i,14,Utah State,30
+1-Nov-08,Rice,49,UTEP,44
+1-Nov-08,St John Fisher,17,Utica,10
+1-Nov-08,UW-River Falls,0,UW-Platteville,7
+1-Nov-08,UW-Oshkosh,33,UW-Stevens Point,34
+1-Nov-08,UW-La Crosse,14,UW-Stout,26
+1-Nov-08,UW-Eau Claire,10,UW-Whitewater,40
+1-Nov-08,South Dakota Tech,14,Valley City State,34
+1-Nov-08,Miami FL,24,Virginia,17
+1-Nov-08,Union KY,37,Virginia-Wise,34
+1-Nov-08,Oberlin,7,Wabash,60
+1-Nov-08,Duke,30,Wake Forest,33
+1-Nov-08,Ohio Dominican,24,Walsh,22
+1-Nov-08,Luther,0,Wartburg,14
+1-Nov-08,Carnegie Mellon,8,Washington U.,16
+1-Nov-08,Concordia-St Paul,17,Wayne St NE,41
+1-Nov-08,Grove City,23,Waynesburg,19
+1-Nov-08,Portland State,21,Weber State,31
+1-Nov-08,Charleston WV,24,West Liberty State,26
+1-Nov-08,Northeastern St OK,9,West Texas A&M,59
+1-Nov-08,Shepherd,56,West Virginia State,14
+1-Nov-08,Chattanooga,7,Western Carolina,27
+1-Nov-08,Montclair State,38,Western Conn State,14
+1-Nov-08,Northern Iowa,30,Western Illinois,6
+1-Nov-08,North Texas,51,Western Kentucky,40
+1-Nov-08,Eastern Michigan,10,Western Michigan,31
+1-Nov-08,Salve Regina,28,Western New England,14
+1-Nov-08,Colorado St-Pueblo,14,Western New Mexico,24
+1-Nov-08,Humboldt State,10,Western Oregon,34
+1-Nov-08,Adams State,16,Western St CO,10
+1-Nov-08,Greenville,29,Westminster MO,27
+1-Nov-08,La Verne,24,Whittier,21
+1-Nov-08,King's PA,3,Wilkes,21
+1-Nov-08,Buffalo State,24,William Paterson,51
+1-Nov-08,Olivet Nazarene,24,William Penn,42
+1-Nov-08,Wesleyan,14,Williams,48
+1-Nov-08,Augustana SD,24,Winona State,41
+1-Nov-08,Denison,0,Wittenberg,23
+1-Nov-08,Allegheny,21,Wooster,35
+1-Nov-08,Bridgewater St MA,47,Worcester State,14
+1-Nov-08,Glenville State,40,WV Wesleyan,14
+1-Nov-08,San Diego State,10,Wyoming,35
+1-Nov-08,Columbia,12,Yale,27
+2-Nov-08,East Carolina,13,Central Florida,10
+3-Nov-08,Valdosta State,38,Southern Arkansas,16
+4-Nov-08,Miami OH,17,Buffalo,37
+5-Nov-08,Toledo,30,Akron,47
+5-Nov-08,Northern Illinois,14,Ball State,45
+6-Nov-08,Ouachita Baptist,43,Henderson State,36
+6-Nov-08,Howard,0,South Carolina State,56
+6-Nov-08,Texas Christian,10,Utah,13
+6-Nov-08,Maryland,13,Virginia Tech,23
+7-Nov-08,Nevada,41,Fresno State,28
+7-Nov-08,Montana Tech,3,Montana St-Northern,35
+7-Nov-08,Pennsylvania,14,Princeton,9
+8-Nov-08,Midwestern State,17,Abilene Christian,47
+8-Nov-08,Trine,9,Adrian,0
+8-Nov-08,Colorado State,17,Air Force,38
+8-Nov-08,Prairie View A&M,24,Alabama A&M,10
+8-Nov-08,Jackson State,20,Alabama State,0
+8-Nov-08,Miles,0,Albany St GA,42
+8-Nov-08,Kalamazoo,20,Albion,23
+8-Nov-08,Widener,10,Albright,21
+8-Nov-08,Ithaca,43,Alfred,35
+8-Nov-08,Wittenberg,27,Allegheny,30
+8-Nov-08,Southern Conn State,27,American Int'l,17
+8-Nov-08,Williams,24,Amherst,23
+8-Nov-08,TAMU-Kingsville,38,Angelo State,14
+8-Nov-08,Harding,34,Arkansas Tech,56
+8-Nov-08,Southern Arkansas,23,Arkansas-Monticello,16
+8-Nov-08,Grambling State,28,Arkansas-Pine Bluff,7,Little Rock AR
+8-Nov-08,Findlay,38,Ashland,45
+8-Nov-08,Merrimack,34,Assumption,7
+8-Nov-08,Tennessee-Martin,20,Auburn,37
+8-Nov-08,Haskell,7,Avila,24
+8-Nov-08,East Texas Baptist,21,Azusa Pacific,33
+8-Nov-08,NW Oklahoma State,52,Bacone,7
+8-Nov-08,Hamilton,22,Bates,23
+8-Nov-08,Husson,48,Becker,13
+8-Nov-08,Concordia-St Paul,12,Bemidji State,24
+8-Nov-08,Clark Atlanta,14,Benedict,3,Augusta GA
+8-Nov-08,Friends,41,Bethel KS,7
+8-Nov-08,Sewanee,0,Birmingham-Southern,49
+8-Nov-08,Westminster MO,37,Blackburn,6
+8-Nov-08,Hanover,42,Bluffton,19
+8-Nov-08,Utah State,14,Boise State,49
+8-Nov-08,Notre Dame,0,Boston College,17
+8-Nov-08,Newberry,17,Brevard,0
+8-Nov-08,Mass Maritime,7,Bridgewater St MA,34
+8-Nov-08,San Diego State,12,Brigham Young,41
+8-Nov-08,Yale,13,Brown,3
+8-Nov-08,Lafayette,38,Bucknell,21
+8-Nov-08,Central IA,23,Buena Vista,14
+8-Nov-08,Morrisville State,20,Buffalo State,52
+8-Nov-08,Dayton,28,Butler,21
+8-Nov-08,La Verne,3,Cal Lutheran,37
+8-Nov-08,North Carolina Central,3,Cal Poly SLO,49
+8-Nov-08,West Chester,36,California PA,47
+8-Nov-08,Eastern Oregon,7,Carroll MT,28
+8-Nov-08,Carnegie Mellon,13,Case Western Reserve,38
+8-Nov-08,Northwestern State,6,Central Arkansas,42
+8-Nov-08,St Francis PA,0,Central Conn State,36
+8-Nov-08,Southern Miss,17,Central Florida,6
+8-Nov-08,Lindenwood,35,Central Methodist,7
+8-Nov-08,Western Washington,21,Central Washington,49
+8-Nov-08,Trinity TX,17,Centre,26
+8-Nov-08,Western St CO,7,Chadron State,39
+8-Nov-08,Presbyterian,18,Charleston Southern,29
+8-Nov-08,Appalachian State,49,Chattanooga,7
+8-Nov-08,Washington U.,14,Chicago,17
+8-Nov-08,Averett,13,Christopher Newport,19
+8-Nov-08,Whittier,6,Claremont-Mudd-Scripps,31
+8-Nov-08,Cheyney,20,Clarion,41
+8-Nov-08,Framingham State,25,Coast Guard,23
+8-Nov-08,Bowdoin,20,Colby,6
+8-Nov-08,Iowa State,24,Colorado,28
+8-Nov-08,Adams State,16,Colorado St-Pueblo,8
+8-Nov-08,Fairmont State,27,Concord,8
+8-Nov-08,Aurora,63,Concordia IL,6
+8-Nov-08,Carleton,41,Concordia-Moorhead,28
+8-Nov-08,Dartmouth,14,Cornell NY,37
+8-Nov-08,Brockport State,30,Cortland State,42
+8-Nov-08,Kentucky Christian,14,Cumberland TN,51
+8-Nov-08,Virginia-Wise,37,Cumberlands KY,56
+8-Nov-08,Midland Lutheran,21,Dana,0
+8-Nov-08,San Diego,28,Davidson,24
+8-Nov-08,Mt St Joseph,14,Defiance,21
+8-Nov-08,Towson,21,Delaware,31
+8-Nov-08,Winston-Salem State,27,Delaware State,26
+8-Nov-08,Kenyon,7,Denison,21
+8-Nov-08,Rhodes,12,DePauw,28
+8-Nov-08,Sioux Falls,34,Dordt,2
+8-Nov-08,Morehead State,15,Drake,19
+8-Nov-08,North Carolina State,27,Duke,17
+8-Nov-08,Ohio Wesleyan,7,Earlham,14
+8-Nov-08,Marshall,16,East Carolina,19
+8-Nov-08,Millersville,13,Edinboro,38
+8-Nov-08,Savannah State,21,Edward Waters,26,Kingsland GA
+8-Nov-08,Western Carolina,14,Elon,33
+8-Nov-08,Pittsburg State,52,Emporia State,7
+8-Nov-08,Greenville,49,Eureka,26
+8-Nov-08,Benedictine KS,14,Evangel,13
+8-Nov-08,Bethel TN,38,Faulkner,6,Prattville AL
+8-Nov-08,Saginaw Valley State,26,Ferris State,14
+8-Nov-08,North Carolina Wesleyan,41,Ferrum,14
+8-Nov-08,North Texas,13,Florida Atlantic,46
+8-Nov-08,Arkansas State,21,Florida Int'l,22
+8-Nov-08,Clemson,27,Florida State,41
+8-Nov-08,Central Missouri,24,Fort Hays State,21
+8-Nov-08,Johns Hopkins,26,Franklin & Marshall,25
+8-Nov-08,Apprentice,7,Frostburg State,20
+8-Nov-08,Bloomsburg,38,Gannon,10
+8-Nov-08,Coastal Carolina,23,Gardner-Webb,18
+8-Nov-08,Thomas More,13,Geneva,17
+8-Nov-08,Marist,12,Georgetown DC,13
+8-Nov-08,Samford,27,Georgia Southern,17
+8-Nov-08,Charleston WV,20,Glenville State,50
+8-Nov-08,Beloit,34,Grinnell,12
+8-Nov-08,Catholic,49,Guilford,34
+8-Nov-08,Macalester,7,Hamline,52
+8-Nov-08,Bethune-Cookman,17,Hampton,6
+8-Nov-08,McMurry,20,Hardin-Simmons,45
+8-Nov-08,Columbia,28,Harvard,42
+8-Nov-08,Concordia NE,7,Hastings,36
+8-Nov-08,Wabash,63,Hiram,0
+8-Nov-08,Richmond,34,Hofstra,14
+8-Nov-08,Fordham,17,Holy Cross,38
+8-Nov-08,Tulane,14,Houston,42
+8-Nov-08,Dixie State,19,Humboldt State,15
+8-Nov-08,Hampden-Sydney,38,Huntingdon,34
+8-Nov-08,Weber State,59,Idaho State,27
+8-Nov-08,Wisconsin,55,Indiana,20
+8-Nov-08,Kutztown,7,Indiana PA,34
+8-Nov-08,Northern Michigan,6,Indianapolis,24
+8-Nov-08,Stony Brook,68,Iona,9
+8-Nov-08,Penn State,23,Iowa,24
+8-Nov-08,William Penn,35,Iowa Wesleyan,13
+8-Nov-08,Valley City State,31,Jamestown,35
+8-Nov-08,Dickinson,53,Juniata,41
+8-Nov-08,Bethany KS,7,Kansas Wesleyan,38
+8-Nov-08,William Paterson,21,Kean,28
+8-Nov-08,Georgia,42,Kentucky,38
+8-Nov-08,Lincoln MO,14,Kentucky Wesleyan,36
+8-Nov-08,Lycoming,7,King's PA,24
+8-Nov-08,Wesley,47,Lake Erie,26
+8-Nov-08,Carroll WI,27,Lake Forest,12
+8-Nov-08,Concordia WI,7,Lakeland,37
+8-Nov-08,Georgetown KY,7,Lambuth,42
+8-Nov-08,Ripon,42,Lawrence,14
+8-Nov-08,FDU-Florham,3,Lebanon Valley,38
+8-Nov-08,Colgate,34,Lehigh,33
+8-Nov-08,Catawba,58,Lenoir-Rhyne,23
+8-Nov-08,Western Oregon,17,Linfield,9
+8-Nov-08,C.W. Post,30,Lock Haven,28
+8-Nov-08,Texas Lutheran,7,Louisiana College,29
+8-Nov-08,UTEP,37,Louisiana-Lafayette,24
+8-Nov-08,Alabama,27,LSU,21
+8-Nov-08,Cornell IA,0,Luther,7
+8-Nov-08,Fitchburg State,32,Maine Maritime,66
+8-Nov-08,Franklin,31,Manchester,20
+8-Nov-08,Walsh,31,Marian,34
+8-Nov-08,Heidelberg,42,Marietta,40
+8-Nov-08,Wayne St NE,31,Mary,16
+8-Nov-08,Howard Payne,0,Mary Hardin-Baylor,67
+8-Nov-08,Shenandoah,20,Maryville,23
+8-Nov-08,Maine,21,Massachusetts,20
+8-Nov-08,Dakota State,32,Mayville State,13
+8-Nov-08,Gettysburg,38,McDaniel,9
+8-Nov-08,Olivet Nazarene,0,McKendree,38
+8-Nov-08,Stephen F. Austin,31,McNeese State,42
+8-Nov-08,Pacific Lutheran,35,Menlo,34
+8-Nov-08,Shippensburg,17,Mercyhurst,21
+8-Nov-08,Greensboro,10,Methodist,20
+8-Nov-08,Purdue,7,Michigan State,21
+8-Nov-08,Baker,41,MidAmerica Nazarene,42
+8-Nov-08,Louisiana-Monroe,21,Middle Tennessee State,24
+8-Nov-08,Tufts,24,Middlebury,38
+8-Nov-08,Elmhurst,24,Millikin,21
+8-Nov-08,Colorado College,6,Millsaps,50
+8-Nov-08,St Cloud State,7,Minn St-Mankato,16
+8-Nov-08,SW Minnesota State,22,Minn St-Moorhead,8
+8-Nov-08,Michigan,29,Minnesota,6
+8-Nov-08,Winona State,7,Minnesota-Duluth,38
+8-Nov-08,Dickinson State,28,Minot State,21
+8-Nov-08,Sul Ross State,10,Mississippi College,41
+8-Nov-08,Kansas State,24,Missouri,41
+8-Nov-08,SW Baptist,23,Missouri S&T,63
+8-Nov-08,NW Missouri State,48,Missouri Southern,24
+8-Nov-08,Culver-Stockton,7,Missouri Valley,59
+8-Nov-08,Truman State,32,Missouri Western,33
+8-Nov-08,Endicott,39,MIT,18
+8-Nov-08,Knox,10,Monmouth IL,56
+8-Nov-08,Sacred Heart,7,Monmouth NJ,19
+8-Nov-08,Rocky Mountain,31,Montana-Western,26
+8-Nov-08,Rowan,14,Montclair State,30
+8-Nov-08,Kentucky State,55,Morehouse,58
+8-Nov-08,Briar Cliff,8,Morningside,73
+8-Nov-08,SUNY-Maritime,28,Mount Ida,35
+8-Nov-08,Ursinus,8,Muhlenberg,45
+8-Nov-08,SE Missouri State,10,Murray State,17
+8-Nov-08,John Carroll,14,Muskingum,15
+8-Nov-08,Kansas,35,Nebraska,45
+8-Nov-08,Doane,0,Nebraska Wesleyan,23
+8-Nov-08,Mesa State,10,Nebraska-Kearney,63
+8-Nov-08,Colorado Mines,20,New Mexico Highlands,7
+8-Nov-08,Hawai`i,42,New Mexico State,30
+8-Nov-08,Sam Houston State,47,Nicholls State,37
+8-Nov-08,Western New England,42,Nichols,14
+8-Nov-08,Morgan State,9,Norfolk State,35
+8-Nov-08,Georgia Tech,7,North Carolina,28
+8-Nov-08,Florida A&M,45,North Carolina A&T,7
+8-Nov-08,Augustana IL,28,North Central,41
+8-Nov-08,Southern Utah,15,North Dakota,14
+8-Nov-08,Carthage,48,North Park,19
+8-Nov-08,Central Oklahoma,24,Northeastern St OK,13
+8-Nov-08,Montana State,25,Northern Arizona,23
+8-Nov-08,Eastern Washington,31,Northern Colorado,16
+8-Nov-08,Missouri State,0,Northern Iowa,42
+8-Nov-08,Augustana SD,43,Northern St SD,7
+8-Nov-08,Ohio State,45,Northwestern,10
+8-Nov-08,Dakota Wesleyan,17,Northwestern IA,6
+8-Nov-08,Michigan Tech,25,Northwood,13
+8-Nov-08,Wooster,27,Oberlin,7
+8-Nov-08,Pomona-Pitzer,33,Occidental,64
+8-Nov-08,Urbana,0,Ohio Dominican,56
+8-Nov-08,Capital,21,Ohio Northern,36
+8-Nov-08,Bowling Green,28,Ohio U.,3
+8-Nov-08,Eastern New Mexico,59,OK Panhandle State,13
+8-Nov-08,Stanford,28,Oregon,35
+8-Nov-08,Southwestern KS,3,Ottawa,73
+8-Nov-08,Mount Union,49,Otterbein,20
+8-Nov-08,St Anselm,28,Pace,14
+8-Nov-08,Grand View,17,Peru State,18
+8-Nov-08,Louisville,7,Pittsburgh,41
+8-Nov-08,Salve Regina,7,Plymouth State,34
+8-Nov-08,Montana,29,Portland State,12
+8-Nov-08,MacMurray,13,Principia,6
+8-Nov-08,St Ambrose,34,Quincy,27
+8-Nov-08,Bridgewater VA,18,Randolph-Macon,40
+8-Nov-08,Chapman,7,Redlands,21
+8-Nov-08,Army,31,Rice,38
+8-Nov-08,Albany NY,41,Robert Morris,7
+8-Nov-08,St Lawrence,20,Rochester,34
+8-Nov-08,Maranatha Baptist,0,Rockford,20
+8-Nov-08,Anderson,35,Rose-Hulman,31
+8-Nov-08,Hobart,20,RPI,17
+8-Nov-08,Syracuse,17,Rutgers,35
+8-Nov-08,Louisiana Tech,21,San Jos‚ State,0
+8-Nov-08,Texas St-San Marcos,38,SE Louisiana State,24
+8-Nov-08,East Central OK,31,SE Oklahoma State,38
+8-Nov-08,West Liberty State,35,Seton Hill,32
+8-Nov-08,Elizabeth City State,7,Shaw,36,Durham NC
+8-Nov-08,Belhaven,0,Shorter,35
+8-Nov-08,Loras,6,Simpson,21
+8-Nov-08,East Stroudsburg,38,Slippery Rock,21
+8-Nov-08,Memphis,31,SMU,26
+8-Nov-08,Arkansas,21,South Carolina,34
+8-Nov-08,Southern Oregon,0,South Dakota,37
+8-Nov-08,Illinois State,21,South Dakota State,52
+8-Nov-08,California,3,Southern California,17
+8-Nov-08,Western Illinois,14,Southern Illinois,24
+8-Nov-08,Langston,30,Southern Nazarene,7
+8-Nov-08,Webber Int'l,23,Southern Virginia,15
+8-Nov-08,Hartwick,31,Springfield,45
+8-Nov-08,Malone,24,St Francis IN,45
+8-Nov-08,Augsburg,21,St John's MN,28
+8-Nov-08,Central St OH,7,St Joseph's IN,30
+8-Nov-08,Illinois College,27,St Norbert,42
+8-Nov-08,Gustavus Adolphus,20,St Olaf,27
+8-Nov-08,Martin Luther,49,St Scholastica,20
+8-Nov-08,Bethel MN,20,St Thomas,36
+8-Nov-08,Taylor,15,St Xavier,29
+8-Nov-08,St Mary KS,48,Sterling,47
+8-Nov-08,Fort Valley State,15,Stillman,6
+8-Nov-08,Bentley,7,Stonehill,35
+8-Nov-08,McPherson,19,Tabor,23
+8-Nov-08,SW Oklahoma State,3,TAMU-Commerce,21
+8-Nov-08,Wyoming,13,Tennessee,7
+8-Nov-08,Eastern Illinois,24,Tennessee State,45
+8-Nov-08,Jacksonville State,41,Tennessee Tech,17
+8-Nov-08,Baylor,21,Texas,45
+8-Nov-08,Oklahoma,66,Texas A&M,28
+8-Nov-08,Concordia AL,30,Texas College,31
+8-Nov-08,Mississippi Valley State,58,Texas Southern,44
+8-Nov-08,Oklahoma State,20,Texas Tech,56
+8-Nov-08,Waynesburg,50,Thiel,35
+8-Nov-08,Hillsdale,37,Tiffin,36
+8-Nov-08,Crown,61,Trinity Bible,26
+8-Nov-08,St Francis IL,28,Trinity Int'l,3
+8-Nov-08,Western Kentucky,7,Troy,17
+8-Nov-08,Carson-Newman,44,Tusculum,45
+8-Nov-08,Lane,21,Tuskegee,55
+8-Nov-08,Sacramento State,29,UC-Davis,19
+8-Nov-08,Oregon State,34,UCLA,6
+8-Nov-08,Curry,40,UMass-Dartmouth,20
+8-Nov-08,North Greenville,7,UNC-Pembroke,21
+8-Nov-08,Campbellsville,24,Union KY,31
+8-Nov-08,Merchant Marine,14,Union NY,42
+8-Nov-08,New Mexico,20,UNLV,27
+8-Nov-08,Minnesota-Crookston,36,Upper Iowa,37
+8-Nov-08,Norwich,25,Utica,28
+8-Nov-08,UW-Stevens Point,21,UW-Eau Claire,20
+8-Nov-08,UW-River Falls,19,UW-La Crosse,49
+8-Nov-08,UW-Platteville,28,UW-Oshkosh,0
+8-Nov-08,UW-Stout,10,UW-Whitewater,17
+8-Nov-08,Jacksonville FL,40,Valparaiso,24
+8-Nov-08,Florida,42,Vanderbilt,14
+8-Nov-08,New Hampshire,13,Villanova,24
+8-Nov-08,Liberty,38,VMI,26
+8-Nov-08,Duquesne,14,Wagner,0
+8-Nov-08,Virginia,17,Wake Forest,28
+8-Nov-08,Minnesota-Morris,20,Waldorf,0
+8-Nov-08,Dubuque,13,Wartburg,20
+8-Nov-08,Bethany WV,7,Wash & Jeff,54
+8-Nov-08,Nebraska-Omaha,34,Washburn,14
+8-Nov-08,Arizona State,39,Washington,19
+8-Nov-08,Emory & Henry,17,Washington and Lee,14
+8-Nov-08,Arizona,59,Washington State,28
+8-Nov-08,Grand Valley State,24,Wayne St MI,10
+8-Nov-08,Trinity CT,38,Wesleyan,14
+8-Nov-08,North Alabama,41,West Alabama,9
+8-Nov-08,Delta State,68,West Georgia,10
+8-Nov-08,Tarleton State,0,West Texas A&M,51
+8-Nov-08,Cincinnati,26,West Virginia,23
+8-Nov-08,WV Wesleyan,24,West Virginia State,31
+8-Nov-08,Pikeville,17,West Virginia Tech,14
+8-Nov-08,New Jersey,30,Western Conn State,20
+8-Nov-08,Illinois,17,Western Michigan,23,Detroit MI
+8-Nov-08,Fort Lewis,24,Western New Mexico,48
+8-Nov-08,Worcester State,0,Westfield State,41
+8-Nov-08,Grove City,21,Westminster PA,24
+8-Nov-08,Illinois Wesleyan,10,Wheaton,44
+8-Nov-08,Lewis & Clark,7,Whitworth,42
+8-Nov-08,Delaware Valley,28,Wilkes,20
+8-Nov-08,Puget Sound,27,Willamette,49
+8-Nov-08,Northeastern,17,William & Mary,38
+8-Nov-08,Graceland,7,William Jewell,21
+8-Nov-08,Baldwin-Wallace,21,Wilmington,27
+8-Nov-08,Mars Hill,45,Wingate,42
+8-Nov-08,Benedictine IL,14,Wisconsin Lutheran,10
+8-Nov-08,The Citadel,28,Wofford,33
+8-Nov-08,Susquehanna,51,WPI,21
+8-Nov-08,Indiana State,21,Youngstown State,35
+9-Nov-08,Black Hills State,23,South Dakota Tech,24
+11-Nov-08,Ball State,31,Miami OH,16
+12-Nov-08,Temple,38,Kent State,41
+12-Nov-08,Central Michigan,33,Northern Illinois,30
+13-Nov-08,Buffalo,43,Akron,40
+13-Nov-08,Augsburg,0,Bethel MN,26,Minneapolis MN
+13-Nov-08,Virginia Tech,14,Miami FL,16
+13-Nov-08,Wyoming,14,UNLV,22
+14-Nov-08,King's PA,16,FDU-Florham,8
+14-Nov-08,Cincinnati,28,Louisville,20
+15-Nov-08,Brigham Young,38,Air Force,24
+15-Nov-08,Mississippi State,7,Alabama,32
+15-Nov-08,Southern U.,15,Alabama State,0,Mobile AL
+15-Nov-08,Wagner,11,Albany NY,30
+15-Nov-08,St John Fisher,33,Alfred,36
+15-Nov-08,Ohio Wesleyan,7,Allegheny,10
+15-Nov-08,Albion,22,Alma,34
+15-Nov-08,Seton Hill,14,American Int'l,7
+15-Nov-08,Manchester,35,Anderson,14
+15-Nov-08,Elon,16,Appalachian State,24
+15-Nov-08,Southern Virginia,14,Apprentice,37
+15-Nov-08,Washington State,0,Arizona State,31
+15-Nov-08,Mississippi Valley State,0,Arkansas-Pine Bluff,34
+15-Nov-08,Minn St-Mankato,16,Ashland,27
+15-Nov-08,Georgia,17,Auburn,13
+15-Nov-08,Millikin,13,Augustana IL,34
+15-Nov-08,Lakeland,6,Aurora,24
+15-Nov-08,Maryville,17,Averett,20
+15-Nov-08,Avila,9,Baker,43
+15-Nov-08,Capital,0,Baldwin-Wallace,17
+15-Nov-08,Texas A&M,21,Baylor,41
+15-Nov-08,Concordia IL,28,Benedictine IL,51
+15-Nov-08,Central Methodist,14,Benedictine KS,32
+15-Nov-08,St Vincent,14,Bethany WV,44
+15-Nov-08,Shorter,7,Bethel TN,0
+15-Nov-08,Howard,12,Bethune-Cookman,14
+15-Nov-08,Millsaps,31,Birmingham-Southern,14
+15-Nov-08,Defiance,27,Bluffton,13
+15-Nov-08,Nebraska Wesleyan,9,Briar Cliff,6
+15-Nov-08,Buffalo State,16,Brockport State,44
+15-Nov-08,UC-Davis,28,Cal Poly SLO,51
+15-Nov-08,Valparaiso,47,Campbell,14
+15-Nov-08,Pikeville,0,Campbellsville,24
+15-Nov-08,St John's MN,14,Carleton,10
+15-Nov-08,Chicago,21,Carnegie Mellon,28
+15-Nov-08,Wheaton,51,Carthage,24
+15-Nov-08,Bridgewater VA,37,Catholic,26
+15-Nov-08,Simpson,24,Central IA,17
+15-Nov-08,Wayne St NE,17,Chadron State,23
+15-Nov-08,La Verne,14,Chapman,33
+15-Nov-08,Edward Waters,6,Charleston Southern,48
+15-Nov-08,Ferrum,10,Christopher Newport,13
+15-Nov-08,Duke,7,Clemson,31
+15-Nov-08,Oklahoma State,30,Colorado,17
+15-Nov-08,Centre,20,Colorado College,7
+15-Nov-08,New Mexico,6,Colorado State,20
+15-Nov-08,Cornell NY,7,Columbia,17
+15-Nov-08,Rockford,24,Concordia WI,44
+15-Nov-08,Buena Vista,30,Cornell IA,12
+15-Nov-08,Ithaca,35,Cortland State,13
+15-Nov-08,MidAmerica Nazarene,59,Culver-Stockton,22
+15-Nov-08,Lambuth,26,Cumberland TN,29
+15-Nov-08,Dordt,7,Dakota Wesleyan,64
+15-Nov-08,Brown,45,Dartmouth,16
+15-Nov-08,Marist,24,Davidson,19
+15-Nov-08,Morehead State,14,Dayton,13
+15-Nov-08,Albright,9,Delaware Valley,34
+15-Nov-08,Dana,16,Doane,33
+15-Nov-08,Coe,32,Dubuque,14
+15-Nov-08,Monmouth NJ,37,Duquesne,14
+15-Nov-08,Denison,25,Earlham,10
+15-Nov-08,Austin Peay,15,Eastern Illinois,13
+15-Nov-08,Murray State,7,Eastern Kentucky,34
+15-Nov-08,Southern Oregon,10,Eastern Oregon,27
+15-Nov-08,Northern Arizona,13,Eastern Washington,28
+15-Nov-08,North Central,35,Elmhurst,28
+15-Nov-08,Guilford,7,Emory & Henry,44
+15-Nov-08,South Carolina,6,Florida,56
+15-Nov-08,Hampton,24,Florida A&M,45
+15-Nov-08,Louisiana-Lafayette,29,Florida Atlantic,40
+15-Nov-08,Boston College,27,Florida State,17
+15-Nov-08,Georgetown DC,0,Fordham,17
+15-Nov-08,Hanover,0,Franklin,34
+15-Nov-08,New Mexico State,17,Fresno State,24
+15-Nov-08,Georgia Southern,17,Furman,10
+15-Nov-08,Westminster PA,26,Geneva,29
+15-Nov-08,West Virginia Tech,0,Georgetown KY,48
+15-Nov-08,Franklin & Marshall,21,Gettysburg,54
+15-Nov-08,Evangel,14,Graceland,17
+15-Nov-08,Thiel,14,Grove City,20
+15-Nov-08,Concordia-Moorhead,27,Gustavus Adolphus,21
+15-Nov-08,St Olaf,31,Hamline,10
+15-Nov-08,Randolph-Macon,31,Hampden-Sydney,21
+15-Nov-08,Utica,21,Hartwick,31
+15-Nov-08,Oberlin,19,Hiram,28
+15-Nov-08,Rochester,7,Hobart,10
+15-Nov-08,Northeastern,14,Hofstra,42
+15-Nov-08,Tulsa,30,Houston,70
+15-Nov-08,East Texas Baptist,35,Howard Payne,21
+15-Nov-08,Boise State,45,Idaho,10
+15-Nov-08,Ohio State,30,Illinois,20
+15-Nov-08,North Park,21,Illinois Wesleyan,46
+15-Nov-08,Northern Iowa,28,Indiana State,0
+15-Nov-08,Bryant,23,Iona,7
+15-Nov-08,Purdue,17,Iowa,22
+15-Nov-08,Missouri,52,Iowa State,20
+15-Nov-08,Alabama A&M,21,Jackson State,37
+15-Nov-08,Drake,9,Jacksonville FL,41
+15-Nov-08,Tennessee State,21,Jacksonville State,26
+15-Nov-08,William & Mary,24,James Madison,48
+15-Nov-08,Otterbein,20,John Carroll,17
+15-Nov-08,McDaniel,10,Johns Hopkins,27
+15-Nov-08,Hope,42,Kalamazoo,16
+15-Nov-08,Texas,35,Kansas,7
+15-Nov-08,Nebraska,56,Kansas State,28
+15-Nov-08,Montclair State,17,Kean,21
+15-Nov-08,Vanderbilt,31,Kentucky,24
+15-Nov-08,Trine,34,Kentucky Christian,12
+15-Nov-08,Holy Cross,27,Lafayette,26
+15-Nov-08,Huntingdon,17,LaGrange,27
+15-Nov-08,Bacone,9,Langston,28
+15-Nov-08,Minnesota-Morris,13,Lawrence,21
+15-Nov-08,Bucknell,15,Lehigh,31
+15-Nov-08,Gardner-Webb,10,Liberty,30
+15-Nov-08,Missouri Valley,18,Lindenwood,21
+15-Nov-08,Luther,29,Loras,34
+15-Nov-08,Utah State,38,Louisiana Tech,45
+15-Nov-08,Troy,31,LSU,40
+15-Nov-08,Lebanon Valley,15,Lycoming,23
+15-Nov-08,Plymouth State,46,Maine Maritime,16
+15-Nov-08,Ohio Dominican,34,Malone,24
+15-Nov-08,Wisconsin Lutheran,35,Maranatha Baptist,20
+15-Nov-08,Urbana,28,Marian,35
+15-Nov-08,Mount Union,49,Marietta,0
+15-Nov-08,Central Florida,30,Marshall,14
+15-Nov-08,North Carolina,15,Maryland,17
+15-Nov-08,Iowa Wesleyan,3,McKendree,48
+15-Nov-08,Louisiana College,17,McMurry,14
+15-Nov-08,Bethel KS,23,McPherson,28
+15-Nov-08,RPI,21,Merchant Marine,23
+15-Nov-08,Northwestern,21,Michigan,14
+15-Nov-08,Hastings,12,Midland Lutheran,7
+15-Nov-08,Louisiana-Monroe,0,Mississippi,59
+15-Nov-08,North Dakota State,48,Missouri State,27
+15-Nov-08,Idaho State,10,Montana,29
+15-Nov-08,Portland State,32,Montana State,49
+15-Nov-08,Muhlenberg,24,Moravian,27
+15-Nov-08,South Carolina State,32,Morgan State,0
+15-Nov-08,Mount Ida,8,Morrisville State,39
+15-Nov-08,Heidelberg,45,Muskingum,41
+15-Nov-08,Notre Dame,27,Navy,21,Baltimore MD
+15-Nov-08,San Jos‚ State,17,Nevada,41
+15-Nov-08,Massachusetts,21,New Hampshire,52
+15-Nov-08,Rowan,42,New Jersey,3
+15-Nov-08,Delaware State,34,Norfolk State,28
+15-Nov-08,Winston-Salem State,16,North Carolina Central,23
+15-Nov-08,Wake Forest,17,North Carolina State,21
+15-Nov-08,Greensboro,3,North Carolina Wesleyan,35
+15-Nov-08,St Thomas,41,Northwestern MN,0
+15-Nov-08,McNeese State,24,Northwestern State,17
+15-Nov-08,Springfield,28,Norwich,16
+15-Nov-08,Texas College,27,NW Oklahoma State,58
+15-Nov-08,Whittier,14,Occidental,48
+15-Nov-08,Wilmington,6,Ohio Northern,24
+15-Nov-08,Adrian,19,Olivet,7
+15-Nov-08,St Francis IL,10,Olivet Nazarene,27
+15-Nov-08,Arizona,45,Oregon,55
+15-Nov-08,California,21,Oregon State,34
+15-Nov-08,Linfield,45,Pacific Lutheran,0
+15-Nov-08,Indiana,7,Penn State,34
+15-Nov-08,Harvard,24,Pennsylvania,21
+15-Nov-08,Haskell,7,Peru State,55
+15-Nov-08,Nebraska-Omaha,21,Pittsburg State,33
+15-Nov-08,Claremont-Mudd-Scripps,18,Pomona-Pitzer,6
+15-Nov-08,Alcorn State,3,Prairie View A&M,37
+15-Nov-08,Coastal Carolina,21,Presbyterian,13
+15-Nov-08,Lewis & Clark,14,Puget Sound,58
+15-Nov-08,Cal Lutheran,24,Redlands,17
+15-Nov-08,Maine,37,Rhode Island,7
+15-Nov-08,Delaware,14,Richmond,31
+15-Nov-08,Northern Colorado,25,Sacramento State,45
+15-Nov-08,Central Conn State,49,Sacred Heart,14
+15-Nov-08,Frostburg State,14,Salisbury,55,Annapolis MD
+15-Nov-08,SE Louisiana State,30,Sam Houston State,27
+15-Nov-08,Wofford,28,Samford,7
+15-Nov-08,Butler,17,San Diego,34
+15-Nov-08,Utah,63,San Diego State,14
+15-Nov-08,Tennessee-Martin,31,SE Missouri State,21
+15-Nov-08,Rhodes,17,Sewanee,0
+15-Nov-08,Methodist,22,Shenandoah,30
+15-Nov-08,Morningside,31,Sioux Falls,34
+15-Nov-08,Rutgers,49,South Florida,16
+15-Nov-08,South Dakota State,35,Southern Illinois,38
+15-Nov-08,East Carolina,3,Southern Miss,21
+15-Nov-08,SW Assem of God,21,Southern Nazarene,13
+15-Nov-08,South Dakota,42,Southern Utah,20
+15-Nov-08,Bethany KS,7,Southwestern KS,12
+15-Nov-08,Robert Morris,35,St Francis PA,20
+15-Nov-08,WPI,21,St Lawrence,20
+15-Nov-08,Friends,57,St Mary KS,22
+15-Nov-08,St Francis IN,47,St Xavier,30
+15-Nov-08,Southern California,45,Stanford,23
+15-Nov-08,Central Arkansas,49,Stephen F. Austin,41
+15-Nov-08,Ottawa,13,Sterling,17
+15-Nov-08,VMI,26,Stony Brook,40
+15-Nov-08,Mary Hardin-Baylor,42,Sul Ross State,20
+15-Nov-08,Union NY,51,Susquehanna,45
+15-Nov-08,Connecticut,39,Syracuse,14
+15-Nov-08,Kansas Wesleyan,63,Tabor,34
+15-Nov-08,Walsh,24,Taylor,17
+15-Nov-08,Mississippi College,52,Texas Lutheran,7
+15-Nov-08,Nicholls State,10,Texas St-San Marcos,34
+15-Nov-08,Chattanooga,21,The Citadel,24
+15-Nov-08,Mt St Joseph,0,Thomas More,19
+15-Nov-08,St Ambrose,28,Trinity Int'l,0
+15-Nov-08,Austin,14,Trinity TX,38
+15-Nov-08,Missouri S&T,39,Truman State,38
+15-Nov-08,Alabama-Birmingham,41,Tulane,24
+15-Nov-08,Albany St GA,22,Tusculum,34
+15-Nov-08,Belhaven,7,Union KY,36
+15-Nov-08,Dickinson,30,Ursinus,12
+15-Nov-08,SMU,10,UTEP,36
+15-Nov-08,UW-Whitewater,52,UW-Platteville,13
+15-Nov-08,UW-Oshkosh,13,UW-River Falls,12
+15-Nov-08,UW-La Crosse,7,UW-Stevens Point,21
+15-Nov-08,UW-Eau Claire,17,UW-Stout,6
+15-Nov-08,Carson-Newman,20,Valdosta State,24
+15-Nov-08,Towson,31,Villanova,34
+15-Nov-08,Faulkner,12,Virginia-Wise,47
+15-Nov-08,DePauw,36,Wabash,14
+15-Nov-08,UCLA,27,Washington,7
+15-Nov-08,Case Western Reserve,17,Washington U.,0
+15-Nov-08,Wash & Jeff,42,Waynesburg,9
+15-Nov-08,Savannah State,24,Webber Int'l,7
+15-Nov-08,Gallaudet,7,Wesley,55
+15-Nov-08,Southern Conn State,32,West Chester,52
+15-Nov-08,Central Washington,42,West Texas A&M,49
+15-Nov-08,Illinois State,45,Western Illinois,48
+15-Nov-08,Middle Tennessee State,21,Western Kentucky,10
+15-Nov-08,Toledo,17,Western Michigan,27
+15-Nov-08,Wilkes,30,Widener,27
+15-Nov-08,Menlo,3,Willamette,28
+15-Nov-08,Western Conn State,20,William Paterson,34
+15-Nov-08,Quincy,45,William Penn,42
+15-Nov-08,Minnesota,32,Wisconsin,35
+15-Nov-08,Wittenberg,6,Wooster,27
+15-Nov-08,Princeton,0,Yale,14
+18-Nov-08,Northern Illinois,42,Kent State,14
+19-Nov-08,Ball State,31,Central Michigan,24
+20-Nov-08,Miami FL,23,Georgia Tech,41
+20-Nov-08,Grambling State,33,Texas Southern,7
+21-Nov-08,Buffalo,40,Bowling Green,34
+21-Nov-08,Malone,44,Northwestern MN,49,Minneapolis MN
+21-Nov-08,Fresno State,24,San Jos‚ State,10
+21-Nov-08,Miami OH,14,Toledo,42
+22-Nov-08,West Texas A&M,68,Abilene Christian,93
+22-Nov-08,East Carolina,17,Alabama-Birmingham,13
+22-Nov-08,Oregon State,19,Arizona,17
+22-Nov-08,Florida Atlantic,14,Arkansas State,28
+22-Nov-08,SE Missouri State,33,Austin Peay,30
+22-Nov-08,Florida A&M,58,Bethune-Cookman,35,Orlando FL
+22-Nov-08,West Chester,21,Bloomsburg,28
+22-Nov-08,Columbia,10,Brown,41
+22-Nov-08,Fordham,21,Bucknell,24
+22-Nov-08,Stanford,16,California,37
+22-Nov-08,Seton Hill,7,California PA,48
+22-Nov-08,Dickinson State,18,Carroll MT,35
+22-Nov-08,Wabash,20,Case Western Reserve,17
+22-Nov-08,McNeese State,30,Central Arkansas,47
+22-Nov-08,Samford,30,Chattanooga,7
+22-Nov-08,Pittsburgh,21,Cincinnati,28
+22-Nov-08,Charleston Southern,24,Coastal Carolina,0
+22-Nov-08,Holy Cross,27,Colgate,28
+22-Nov-08,Pennsylvania,23,Cornell NY,6
+22-Nov-08,Plymouth State,14,Cortland State,31
+22-Nov-08,Shorter,7,Cumberlands KY,31
+22-Nov-08,Butler,34,Davidson,46
+22-Nov-08,Villanova,21,Delaware,7
+22-Nov-08,Kean,7,Delaware Valley,16
+22-Nov-08,Tusculum,19,Delta State,27
+22-Nov-08,The Citadel,19,Florida,70
+22-Nov-08,Louisiana-Monroe,31,Florida Int'l,27
+22-Nov-08,NW Oklahoma State,42,Friends,7
+22-Nov-08,Ashland,7,Grand Valley State,40
+22-Nov-08,Brockport State,70,Hartwick,68
+22-Nov-08,Yale,0,Harvard,10
+22-Nov-08,Idaho,17,Hawai`i,49
+22-Nov-08,Lycoming,15,Hobart,33
+22-Nov-08,Alma,27,Hope,45
+22-Nov-08,UTEP,37,Houston,42
+22-Nov-08,Delaware State,10,Howard,6
+22-Nov-08,St John Fisher,17,Husson,7
+22-Nov-08,Sacramento State,33,Idaho State,36
+22-Nov-08,Southern Illinois,17,Illinois State,10
+22-Nov-08,Missouri State,27,Indiana State,24
+22-Nov-08,Curry,26,Ithaca,21
+22-Nov-08,Alcorn State,21,Jackson State,26
+22-Nov-08,Dayton,14,Jacksonville FL,19
+22-Nov-08,Catholic,18,Johns Hopkins,17
+22-Nov-08,Iowa State,30,Kansas State,38
+22-Nov-08,Lehigh,31,Lafayette,15
+22-Nov-08,Elon,3,Liberty,26
+22-Nov-08,Lambuth,48,Lindenwood,65
+22-Nov-08,West Virginia,35,Louisville,21
+22-Nov-08,Mississippi,31,LSU,13
+22-Nov-08,New Hampshire,28,Maine,24
+22-Nov-08,Hardin-Simmons,35,Mary Hardin-Baylor,38
+22-Nov-08,Florida State,37,Maryland,3
+22-Nov-08,Hofstra,14,Massachusetts,28
+22-Nov-08,Central Florida,28,Memphis,21
+22-Nov-08,Langston,20,MidAmerica Nazarene,14
+22-Nov-08,North Texas,13,Middle Tennessee State,52
+22-Nov-08,LaGrange,26,Millsaps,51
+22-Nov-08,Iowa,55,Minnesota,0
+22-Nov-08,Chadron State,10,Minnesota-Duluth,20
+22-Nov-08,Arkansas,28,Mississippi State,31
+22-Nov-08,Alabama A&M,58,Mississippi Valley State,23
+22-Nov-08,Aurora,13,Monmouth IL,42
+22-Nov-08,Montana State,3,Montana,35
+22-Nov-08,Albright,42,Montclair State,14
+22-Nov-08,Salisbury,21,Moravian,17
+22-Nov-08,Campbell,7,Morehead State,42
+22-Nov-08,Hampton,17,Morgan State,13
+22-Nov-08,Baker,27,Morningside,65
+22-Nov-08,Randolph-Macon,0,Mount Union,56
+22-Nov-08,Wesley,20,Muhlenberg,0
+22-Nov-08,Tennessee State,17,Murray State,24
+22-Nov-08,Boise State,41,Nevada,34
+22-Nov-08,Louisiana Tech,35,New Mexico State,31
+22-Nov-08,SE Louisiana State,28,Nicholls State,35
+22-Nov-08,Valdosta State,10,North Alabama,37
+22-Nov-08,North Carolina State,41,North Carolina,10
+22-Nov-08,South Carolina State,55,North Carolina A&T,0
+22-Nov-08,Savannah State,7,North Carolina Central,10
+22-Nov-08,Thomas More,23,North Central,44
+22-Nov-08,South Dakota State,25,North Dakota State,24
+22-Nov-08,Rhode Island,29,Northeastern,14
+22-Nov-08,Illinois,10,Northwestern,27
+22-Nov-08,Syracuse,24,Notre Dame,23
+22-Nov-08,Pittsburg State,35,NW Missouri State,38
+22-Nov-08,Michigan,7,Ohio State,42
+22-Nov-08,Akron,42,Ohio U.,49
+22-Nov-08,Texas Tech,21,Oklahoma,65
+22-Nov-08,Franklin,62,Otterbein,45
+22-Nov-08,Michigan State,18,Penn State,49
+22-Nov-08,Northern Colorado,21,Portland State,24
+22-Nov-08,Dartmouth,10,Princeton,28
+22-Nov-08,Indiana,10,Purdue,62
+22-Nov-08,Marshall,10,Rice,35
+22-Nov-08,Alfred,31,RPI,34
+22-Nov-08,Army,3,Rutgers,30
+22-Nov-08,Texas St-San Marcos,48,Sam Houston State,45
+22-Nov-08,UC-Davis,20,San Diego,28
+22-Nov-08,UNLV,21,San Diego State,42
+22-Nov-08,St Ambrose,0,Sioux Falls,28
+22-Nov-08,North Dakota,34,South Dakota,31
+22-Nov-08,Northern Iowa,34,Southern Utah,24
+22-Nov-08,Union KY,3,St Francis IN,58
+22-Nov-08,Bryant,23,St Francis PA,0
+22-Nov-08,Northwestern State,34,Stephen F. Austin,24
+22-Nov-08,Air Force,10,Texas Christian,44
+22-Nov-08,Eastern Michigan,52,Temple,55
+22-Nov-08,Eastern Illinois,38,Tennessee Tech,20
+22-Nov-08,Eastern Kentucky,33,Tennessee-Martin,31
+22-Nov-08,James Madison,58,Towson,27
+22-Nov-08,Wheaton,14,Trine,0
+22-Nov-08,Louisiana-Lafayette,3,Troy,48
+22-Nov-08,Tulane,7,Tulsa,56
+22-Nov-08,Brigham Young,24,Utah,48
+22-Nov-08,Wartburg,26,UW-Stevens Point,21
+22-Nov-08,St John's MN,7,UW-Whitewater,37
+22-Nov-08,Drake,32,Valparaiso,0
+22-Nov-08,Tennessee,20,Vanderbilt,10
+22-Nov-08,Clemson,13,Virginia,3
+22-Nov-08,Duke,3,Virginia Tech,14
+22-Nov-08,Presbyterian,27,VMI,49
+22-Nov-08,Boston College,24,Wake Forest,21
+22-Nov-08,Christopher Newport,29,Wash & Jeff,35
+22-Nov-08,Washington,13,Washington State,16
+22-Nov-08,Eastern Washington,33,Weber State,26
+22-Nov-08,Appalachian State,35,Western Carolina,10
+22-Nov-08,Youngstown State,31,Western Illinois,28
+22-Nov-08,Occidental,33,Willamette,48
+22-Nov-08,Richmond,23,William & Mary,20
+22-Nov-08,Norfolk State,17,Winston-Salem State,14
+22-Nov-08,Cal Poly SLO,35,Wisconsin,36
+22-Nov-08,Furman,10,Wofford,35
+22-Nov-08,Colorado State,31,Wyoming,20
+23-Nov-08,Connecticut,13,South Florida,17
+25-Nov-08,Western Michigan,22,Ball State,45
+25-Nov-08,Navy,16,Northern Illinois,0
+27-Nov-08,Tuskegee,13,Alabama State,17
+27-Nov-08,Texas A&M,9,Texas,49
+28-Nov-08,UCLA,9,Arizona State,34
+28-Nov-08,LSU,30,Arkansas,31,Little Rock AR
+28-Nov-08,Fresno State,10,Boise State,61
+28-Nov-08,Kent State,24,Buffalo,21
+28-Nov-08,UTEP,21,East Carolina,53
+28-Nov-08,Central Michigan,52,Eastern Michigan,56
+28-Nov-08,Ohio U.,41,Miami OH,26
+28-Nov-08,Mississippi State,0,Mississippi,45
+28-Nov-08,Colorado,31,Nebraska,40
+28-Nov-08,West Virginia,15,Pittsburgh,19
+28-Nov-08,Akron,6,Temple,27
+28-Nov-08,Bowling Green,38,Toledo,10
+29-Nov-08,NW Missouri State,45,Abilene Christian,36
+29-Nov-08,Auburn,0,Alabama,36
+29-Nov-08,South Carolina State,21,Appalachian State,37
+29-Nov-08,California PA,27,Bloomsburg,24
+29-Nov-08,Maryland,21,Boston College,28
+29-Nov-08,Weber State,49,Cal Poly SLO,35
+29-Nov-08,Alabama-Birmingham,15,Central Florida,0
+29-Nov-08,Syracuse,10,Cincinnati,30
+29-Nov-08,South Carolina,14,Clemson,31
+29-Nov-08,Curry,0,Cortland State,42
+29-Nov-08,North Alabama,55,Delta State,34
+29-Nov-08,North Carolina,28,Duke,20
+29-Nov-08,Florida Atlantic,57,Florida Int'l,50,Miami FL
+29-Nov-08,Florida,45,Florida State,15
+29-Nov-08,Georgia Tech,45,Georgia,42
+29-Nov-08,Minnesota-Duluth,19,Grand Valley State,13
+29-Nov-08,Washington State,10,Hawai`i,24
+29-Nov-08,Wofford,35,James Madison,38
+29-Nov-08,Missouri,37,Kansas,40,Kansas City MO
+29-Nov-08,Nevada,35,Louisiana Tech,31
+29-Nov-08,Tulsa,38,Marshall,35
+29-Nov-08,Wesley,14,Mary Hardin-Baylor,46
+29-Nov-08,Tulane,6,Memphis,45
+29-Nov-08,Wash & Jeff,35,Millsaps,20
+29-Nov-08,Wartburg,30,Monmouth IL,28
+29-Nov-08,Texas St-San Marcos,13,Montana,31
+29-Nov-08,Lindenwood,34,Morningside,31
+29-Nov-08,Hobart,7,Mount Union,42
+29-Nov-08,Miami FL,28,North Carolina State,38
+29-Nov-08,Franklin,38,North Central,28
+29-Nov-08,Arkansas State,33,North Texas,28
+29-Nov-08,Maine,15,Northern Iowa,40
+29-Nov-08,Oklahoma,61,Oklahoma State,41
+29-Nov-08,Oregon,65,Oregon State,38
+29-Nov-08,Houston,42,Rice,56
+29-Nov-08,Eastern Kentucky,10,Richmond,38
+29-Nov-08,Langston,13,Sioux Falls,50
+29-Nov-08,Southern Miss,28,SMU,12
+29-Nov-08,Notre Dame,3,Southern California,38
+29-Nov-08,New Hampshire,29,Southern Illinois,20
+29-Nov-08,Grambling State,29,Southern U.,14,New Orleans LA
+29-Nov-08,Cumberlands KY,20,St Francis IN,31
+29-Nov-08,Kentucky,10,Tennessee,28
+29-Nov-08,Arkansas-Pine Bluff,28,Texas Southern,7,Dallas TX
+29-Nov-08,Baylor,28,Texas Tech,35
+29-Nov-08,New Mexico State,2,Utah State,47
+29-Nov-08,Colgate,28,Villanova,55
+29-Nov-08,Virginia,14,Virginia Tech,17
+29-Nov-08,Wheaton,59,Wabash,28
+29-Nov-08,Vanderbilt,10,Wake Forest,23
+29-Nov-08,UW-Whitewater,30,Willamette,27
+3-Dec-08,Middle Tennessee State,28,Louisiana-Lafayette,42
+4-Dec-08,Louisville,14,Rutgers,63
+5-Dec-08,Buffalo,42,Ball State,24,Detroit MI
+6-Dec-08,Florida,31,Alabama,20,Atlanta GA
+6-Dec-08,Jacksonville FL,0,Albany NY,28
+6-Dec-08,Richmond,33,Appalachian State,13
+6-Dec-08,Arizona State,10,Arizona,31
+6-Dec-08,Washington,7,California,48
+6-Dec-08,Minnesota-Duluth,45,California PA,7
+6-Dec-08,Lindenwood,37,Carroll MT,38
+6-Dec-08,Western Washington,25,Colorado Mines,10,St George UT
+6-Dec-08,Pittsburgh,34,Connecticut,10
+6-Dec-08,Western Kentucky,3,Florida Int'l,27
+6-Dec-08,Wheaton,45,Franklin,28
+6-Dec-08,Cincinnati,29,Hawai`i,24
+6-Dec-08,Villanova,27,James Madison,31
+6-Dec-08,Wash & Jeff,7,Mary Hardin-Baylor,63
+6-Dec-08,Oklahoma,62,Missouri,21,Kansas City MO
+6-Dec-08,Augustana SD,37,Missouri Western,16,Excelsior Springs MO
+6-Dec-08,Weber State,13,Montana,24
+6-Dec-08,Cortland State,14,Mount Union,41
+6-Dec-08,Army,0,Navy,34,Philadelphia PA
+6-Dec-08,New Hampshire,34,Northern Iowa,36
+6-Dec-08,North Alabama,7,NW Missouri State,41
+6-Dec-08,St Francis IN,6,Sioux Falls,24
+6-Dec-08,Arkansas State,9,Troy,35
+6-Dec-08,East Carolina,27,Tulsa,24
+6-Dec-08,Southern California,28,UCLA,7
+6-Dec-08,Wartburg,17,UW-Whitewater,34
+6-Dec-08,Boston College,12,Virginia Tech,30,Tampa FL
+6-Dec-08,South Florida,7,West Virginia,13
+12-Dec-08,Montana,35,James Madison,27
+13-Dec-08,Grambling State,41,Jackson State,9,Birmingham AL
+13-Dec-08,UW-Whitewater,39,Mary Hardin-Baylor,13
+13-Dec-08,Wheaton,24,Mount Union,45
+13-Dec-08,Richmond,21,Northern Iowa,20
+13-Dec-08,Minnesota-Duluth,21,NW Missouri State,14,Florence AL
+19-Dec-08,Montana,7,Richmond,24,Chattanooga TN
+20-Dec-08,Arizona,31,Brigham Young,21,Las Vegas NV
+20-Dec-08,Fresno State,35,Colorado State,40,Albuquerque NM
+20-Dec-08,UW-Whitewater,26,Mount Union,31,Salem VA
+20-Dec-08,Wake Forest,29,Navy,19,Washington DC
+20-Dec-08,Carroll MT,7,Sioux Falls,23,Rome GA
+20-Dec-08,Memphis,14,South Florida,41,St Petersburg FL
+21-Dec-08,Troy,27,Southern Miss,30,New Orleans LA
+23-Dec-08,Texas Christian,17,Boise State,16,San Diego CA
+24-Dec-08,Notre Dame,49,Hawai`i,21
+26-Dec-08,Florida Atlantic,24,Central Michigan,21,Detroit MI
+27-Dec-08,Miami FL,17,California,24,San Francisco CA
+27-Dec-08,Wisconsin,13,Florida State,42,Orlando FL
+27-Dec-08,West Virginia,31,North Carolina,30,Charlotte NC
+28-Dec-08,Northern Illinois,10,Louisiana Tech,17,Shreveport LA
+29-Dec-08,Northwestern,23,Missouri,30,San Antonio TX
+29-Dec-08,Rutgers,29,North Carolina State,23,Birmingham AL
+30-Dec-08,Maryland,42,Nevada,35,Boise ID
+30-Dec-08,Oklahoma State,31,Oregon,42,San Diego CA
+30-Dec-08,Western Michigan,14,Rice,38
+31-Dec-08,LSU,38,Georgia Tech,3
+31-Dec-08,Air Force,28,Houston,34,Fort Worth TX
+31-Dec-08,Minnesota,21,Kansas,42,Tempe AZ
+31-Dec-08,Pittsburgh,0,Oregon State,3,El Paso TX
+31-Dec-08,Boston College,14,Vanderbilt,16
+1-Jan-09,Nebraska,26,Clemson,21,Jacksonville FL
+1-Jan-09,Michigan State,12,Georgia,24,Orlando FL
+1-Jan-09,Iowa,31,South Carolina,10,Tampa FL
+1-Jan-09,Penn State,24,Southern California,38,Pasadena CA
+1-Jan-09,Cincinnati,7,Virginia Tech,20,Miami Gardens FL
+2-Jan-09,Utah,31,Alabama,17,New Orleans LA
+2-Jan-09,East Carolina,19,Kentucky,25,Memphis TN
+2-Jan-09,Mississippi,47,Texas Tech,34,Dallas TX
+3-Jan-09,Connecticut,38,Buffalo,20,Toronto ON
+5-Jan-09,Ohio State,21,Texas,24,Phoenix AZ
+6-Jan-09,Ball State,13,Tulsa,45,Mobile AL
+8-Jan-09,Oklahoma,14,Florida,24,Miami Gardens FL
