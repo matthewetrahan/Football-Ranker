@@ -149,7 +149,7 @@ public class FootballRanker {
         System.out.println("\n\n***** TOP TEAMS *****");
         int rank = 1;
         for(AllPathsInfo team : paths)
-                System.out.println("predicted rank: " + (rank++) + ", " + team);
+                System.out.println("Predicted rank: " + (rank++) + ", " + team);
     }
     
 
