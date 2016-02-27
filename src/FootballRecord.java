@@ -1,5 +1,4 @@
 
-
 /**
  * Store information about a football teams record. Stores
  * wins and losses.

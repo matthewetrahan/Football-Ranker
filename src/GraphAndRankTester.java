@@ -1,13 +1,3 @@
-/*  Student information for assignment:
- *
- *  On my honor, <Matthew Trahan>, this programming assignment is my own work
- *  and I have not provided this code to any other student.
- *
- *  UTEID: mt28529
- *  email address: mtrahan920@sbcglobal.net
- *  Grader name: Eric
- *  Number of slip days I am using: 0
- */
 
 /*
  * Question. The assignment presents three ways to rank teams using graphs.
