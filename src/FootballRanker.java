@@ -156,6 +156,7 @@ public class FootballRanker {
             System.out.println("\n\n ***** PREDICTED VS. ACTUAL RESULTS *****");
         // CS314 STUDENTS - COMPLETE THIS METHOD
         double result = 0;
+
         // use an array list and put the api name into it
         ArrayList<String> predictedRanks = new ArrayList<String>();
         for(AllPathsInfo api : paths)
