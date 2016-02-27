@@ -5,6 +5,7 @@
  *
  */
 public class FootballRecord {
+
     private String name;
     private int wins;
     private int losses;
